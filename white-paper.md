@@ -52,6 +52,13 @@ The Light Stream architecture is an Ethereum based blockchain network. It has th
 - Is a high speed network designed for global scalability. A maximum throughput of 8,000 transactions per second and a maximum network latency of 2 secs.
 - Uses a Tendermint consensus algorithm for achieving network consensus.
 
+<p align="center">
+<img src="/images/lightstreams-architecture.png">
+<br>
+<b>Lightstreams Architecture</b> 
+</p>
+
+
 ## Sales Mechanism for Digital Content
 
 The sale of digital content will be governed by a smart contract. The smart contract will use Permissoined Blocks technology that will control access to the digial content publishd by an author:
