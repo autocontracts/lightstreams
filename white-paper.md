@@ -17,11 +17,14 @@ For example a book valued at $9.99 sold on Amazon, there are the following fees:
 
 2. For a subscription sale, an approximate 50% fee is charged. This calculation is based on the subscription fee structure, where the author receives $0.00496 per page read, with a max payout of $5.00 for a 1000 page book.
 
-### Loss of attribution revenue
+### Failure to report sales
 
-There have been a few high profile cases where creators of digital content have failed to recieve revenue due from certain online platforms that have published their works. Examples are:
-- Facebook
+The lack of transparency by online platforms creates a lack of trust between the creators and owners of content and the plaforms. For example here have been the following cases where online platforms have failed to report sales or attribute royalites to owners:
 - Spotify
+https://www.nytimes.com/2016/03/18/business/media/spotify-reaches-settlement-with-publishers-in-licensing-dispute.html
+- Amazon https://jeanettevaughan.wordpress.com/2012/09/28/do-amazon-and-createspace-rip-off-indie-publishers-with-failure-to-correctly-report-sales/
+- Facebook
+http://www.campaignlive.co.uk/article/rootzoo-sues-facebook-ad-click-dispute/920220
 
 ### Lack of data provenance
 Online bookstores control the ownership, custody and storage of customer and sales data. This means that authors have less information about the consumers of their content than the online delivery platform. 
@@ -58,7 +61,6 @@ The Light Stream architecture is an Ethereum based blockchain network. It has th
 <b>Lightstreams Architecture</b> 
 </p>
 
-
 ## Sales Mechanism for Digital Content
 
 The sale of digital content will be governed by a smart contract. The smart contract will use Permissoined Blocks technology that will control access to the digial content publishd by an author:
@@ -71,6 +73,13 @@ The sale of digital content will be governed by a smart contract. The smart cont
 An author will attach a version of their digital works to a direct sales contract and publish the contract at a specific LST price. The direct sales contract uses Permissioned Blocks technology to control access to the digital content. At any time the author can update the  price the version of their works. The buyer will pay the most recent LST price and will access to all digital versions attached to the contract. The author will be charge a 5% fee of the total price per book sold.
 
 The procees of a direct sale is as follows:
+TODO...
+
+<p align="center">
+<img src="/images/smart-contract-sale.png">
+<br>
+<b>Token Exchange - Sale of Digital Content via Smart Contract</b> 
+</p>
 
 ### Subscription Sales
 
@@ -81,6 +90,13 @@ Subscription contracts will be divided into subject categories. Readers will pay
 At the end of each month the total monies collected for the month per subject is distributed to the authors less a 5% Foundation Fee. The money will be divided and distributed by the ratio of pages accessed per book. If a book has more than 1000 pages, then the total number of pages for calculation purposes is capped to a 1000 pages. 
 
 For example:
+TODO...
+
+<p align="center">
+<img src="/images/subscription-contract.png">
+<br>
+<b>Subscription Contract</b> 
+</p>
 
 ## Lightstream Marketplace
 
@@ -95,7 +111,6 @@ Just as any online bookstore, the marketplace will show free information to the 
 - Reader reviews
 
 A listing fee will be charged for publishing the book on the marketplace. The fee will cover the costs of reviewing uploaded content to the marketplace to ensure the quality of the marketplace is maintained.
-
 
 ## Lightstream Clients
 
@@ -114,9 +129,9 @@ Authors with the highest number of sales above a certain threshold per year and 
 2. Propose new resolutions to be voted by the community via smart contracts.
 3. Propose and decide by majority vote on an arbitrator for resolving transaction disputes.
 
+## Permissioned Blocks
+
 [1] http://andrewhy.de/amazons-markup-of-digital-delivery-to-indie-authors-is-129000/
 [2] http://business.time.com/2013/12/03/heres-how-much-money-top-musicians-are-making-on-spotify/
 
-https://www.quora.com/How-do-book-authors-get-paid-in-digital-unlimited-reading-platforms
-https://www.writtenwordmedia.com/2016/05/24/amazon-kdp-kindle-unlimited/
-https://taprun.com/examples/safari/
+
