@@ -30,7 +30,7 @@ Due to the lack of data, an opportunity is lost by authors to connect with their
 
 ## Mission Statement
 
-To create a low cost peer to peer marketplace for creators of digital content. A marketplace where creators own the distribution network and as such have full control of their data so that they can connect directly with their fans.
+LightStreams mission is to create a peer to peer marketplace for online content: books, music, movies and more. Where production, distribution and exchange of content is owned by the creators and regulated by the community, such that creators and fans can connect and share in a low cost, fair and open marketplace.
 
 ## The Lightstream Token
 
