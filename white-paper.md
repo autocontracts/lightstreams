@@ -45,6 +45,8 @@ https://www.nytimes.com/2016/03/18/business/media/spotify-reaches-settlement-wit
 - Facebook
 http://www.campaignlive.co.uk/article/rootzoo-sues-facebook-ad-click-dispute/920220
 
+TODO...
+
 ## Mission Statement
 
 Lightstreams mission is to create a peer to peer marketplace for the delivery of online digital content from digital books, magazines, music to movies. Where the network for distribution and exchange of content is owned by the creators and regulated by the community, such that creators and fans can connect and share in a low cost, fair and open marketplace.
@@ -127,6 +129,7 @@ Just as any online bookstore, the marketplace will show free information to the 
 A listing fee will be charged for publishing the book on the marketplace. The fee will cover the costs of reviewing uploaded content to the marketplace to ensure the quality of the marketplace is maintained.
 
 ## Lightstream Clients
+TODO...
 
 ## Network Consensus
 
@@ -142,6 +145,8 @@ Authors with the highest number of sales above a certain threshold per year and 
 1. To inspect network transactions to ensure that they are valid, and then broadcast to the rest of the network.
 2. Propose new resolutions to be voted by the community via smart contracts.
 3. Propose and decide by majority vote on an arbitrator for resolving transaction disputes.
+
+TODO..
 
 ## Permissioned Blocks
 
