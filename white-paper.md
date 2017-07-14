@@ -2,10 +2,24 @@
 
 ## Executive Summary
 
+This white paper outlines plans by Autonomous Contracts to develop Lightstreams, a peer to peer marketplace for online digital content. Digital content covering but not limited to digital books, magazines, music and movies. Lightstreams will be developed using Web 3.0 blockchain technology, including the already built and award winning "Permissioned Blocks" technology developed by Autonomous Contracts.
 
-## Problems for Authors using Online Digital Bookstores
+The initial focus of the Lightstreams project and the scope of this paper is the development of a new generation of online bookstore with the initial focus on creating a peer to peer marketplace for academic books. Once market traction has been established in this segment, horizontal expansion into other book categories will be undertaken, and then onto streaming music and video content. Streaming of music and video content will be made possible via IPFS, a peer-to-peer file distribution technology used in Permissioned Blocks, the key technology of the Lightstreams network.
 
-Authors of digital books face the current problems with using online digital platforms for distributing their works.
+By using a peer to peer content delivery model, with blockchain technology as the enabler, will allow Lightstreams to leapfrog incumbent platforms that employ a centralised content delivery model. Centralised platforms such as Amazon, Spotify and Netflix. Lightstreams will do this by:
+- Significantly reducing the cost of publishing content.
+- Giving content creators control of the distribution channel of their works to best decide how to serve their customers.
+- Allowing the direct flow of information between content creators and consumers to create a better experience for all participants.
+
+The Lightstream network will operate via a Lightstream digital token (LST) that can be bought and exchanged for purchasing digital content. Content creators will receive LST tokens into their digital wallets as a form of income that can then be exchanged for fiat currency. 
+
+A fundraising round will be announce in due course where LST tokens will sold to early adoptors in order to fund the development outlined in this paper.   
+
+## Problems using Online Digital Bookstores
+
+Lightstream's initial focus will be to build an online peer to peer marketplace for digital academic books.
+
+Authors of digital books today face the following issues when using traditional online digital platforms for selling and distributing their works.
 
 ### High sales fees 
 
@@ -19,21 +33,21 @@ For example a book valued at $9.99 sold on Amazon, there are the following fees:
 
 ### Failure to report sales
 
-The lack of transparency by online platforms creates a lack of trust between the creators and owners of content and the plaforms. For example here have been the following cases where online platforms have failed to report sales or attribute royalites to owners:
+The lack of transparency by online platforms creates a lack of trust between the creators and owners of content and the platforms. For example here have been the following cases where online platforms have failed to report sales or attribute royalties to owners:
 - Spotify
 https://www.nytimes.com/2016/03/18/business/media/spotify-reaches-settlement-with-publishers-in-licensing-dispute.html
 - Amazon https://jeanettevaughan.wordpress.com/2012/09/28/do-amazon-and-createspace-rip-off-indie-publishers-with-failure-to-correctly-report-sales/
 - Facebook
 http://www.campaignlive.co.uk/article/rootzoo-sues-facebook-ad-click-dispute/920220
 
-### Lack of data provenance
+### Data provenance
 Online bookstores control the ownership, custody and storage of customer and sales data. This means that authors have less information about the consumers of their content than the online delivery platform. 
 
-Due to the lack of data, an opportunity is lost by authors to connect with their readers, to gain feedback, develop insightful new ideas, and access a new sales channel to realse early dafts to interested fans.
+Due to the online bookstore acting at the intermediary and depriving the authors of customer data, an opportunity is lost for a deeper connection to be made between authors and their readership, to gain feedback and develop new ideas.
 
 ## Mission Statement
 
-LightStreams mission is to create a peer to peer marketplace for online content: books, music, movies and more. Where production, distribution and exchange of content is owned by the creators and regulated by the community, such that creators and fans can connect and share in a low cost, fair and open marketplace.
+Lightstreams mission is to create a peer to peer marketplace for the delivery of online digital content from digital books, music to movies. Where the network for distribution and exchange of content is owned by the creators and regulated by the community, such that creators and fans can connect and share in a low cost, fair and open marketplace.
 
 ## The Lightstream Token
 
@@ -133,5 +147,3 @@ Authors with the highest number of sales above a certain threshold per year and 
 
 [1] http://andrewhy.de/amazons-markup-of-digital-delivery-to-indie-authors-is-129000/
 [2] http://business.time.com/2013/12/03/heres-how-much-money-top-musicians-are-making-on-spotify/
-
-
