@@ -1,4 +1,4 @@
-# LightStreams White Paper
+# Lightstreams White Paper
 
 ## Executive Summary
 
