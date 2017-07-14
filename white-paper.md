@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This white paper outlines plans by Autonomous Contracts to develop Lightstreams, a peer to peer marketplace for digital content. Digital content covering but not limited to books, magazines, music and movies. Lightstreams will be developed using Web 3.0 blockchain technology, including the award winning "Permissioned Blocks" technology already developed by Autonomous Contracts.
+This white paper outlines plans by Autonomous Contracts to develop Lightstreams, a peer to peer marketplace for all digital content. Digital content from books, magazines, music to movies and more. Lightstreams will be developed using Web 3.0 blockchain technology, including the award winning "Permissioned Blocks" technology already developed by Autonomous Contracts.
 
 The initial focus of content delivery for the Lightstreams project and the scope of this paper is the development of a new generation of online bookstore. In order to achieve early adoption it is envisioned that a peer to peer marketplace for academic books focussing on readers of technical books to gain market traction. Once traction has been established in this niche segment, horizontal expansion into other book categories will be undertaken, and then expansion into other forms of digital content such as the streaming music and video. As mentioned, Permissioned Blocks will be the key technology underpinning the Lightstreams network. Streaming of music and video will be made possible via IPFS, a peer-to-peer file distribution technology that has been used in the development of Permissioned Blocks.
 
