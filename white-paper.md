@@ -2,14 +2,14 @@
 
 ## Executive Summary
 
-This white paper outlines plans by Autonomous Contracts to develop Lightstreams, a peer to peer marketplace for online digital content. Digital content covering but not limited to digital books, magazines, music and movies. Lightstreams will be developed using Web 3.0 blockchain technology, including the already built and award winning "Permissioned Blocks" technology developed by Autonomous Contracts.
+This white paper outlines plans by Autonomous Contracts to develop Lightstreams, a peer to peer marketplace for digital content. Digital content covering but not limited to books, magazines, music and movies. Lightstreams will be developed using Web 3.0 blockchain technology, including the award winning "Permissioned Blocks" technology already developed by Autonomous Contracts.
 
-The initial focus of the Lightstreams project and the scope of this paper is the development of a new generation of online bookstore with the initial focus on creating a peer to peer marketplace for academic books. Once market traction has been established in this segment, horizontal expansion into other book categories will be undertaken, and then onto streaming music and video content. Streaming of music and video content will be made possible via IPFS, a peer-to-peer file distribution technology used in Permissioned Blocks, the key technology of the Lightstreams network.
+The initial focus of content delivery for the Lightstreams project and the scope of this paper is the development of a new generation of online bookstore. In order to achieve early adoption it is envisioned that a peer to peer marketplace for academic books focussing on readers of technical books to gain market traction. Once traction has been established in this niche segment, horizontal expansion into other book categories will be undertaken, and then expansion into other forms of digital content such as the streaming music and video. As mentioned, Permissioned Blocks will be the key technology underpinning the Lightstreams network. Streaming of music and video will be made possible via IPFS, a peer-to-peer file distribution technology that has been used in the development of Permissioned Blocks.
 
-By using a peer to peer content delivery model, with blockchain technology as the enabler, will allow Lightstreams to leapfrog incumbent platforms that employ a centralised content delivery model. Centralised platforms such as Amazon, Spotify and Netflix. Lightstreams will do this by:
+By using a peer to peer content delivery model, with blockchain technology as the enabler, will allow Lightstreams to leapfrog incumbent platforms that employ a centralised content delivery model. Lightstreams will do this by:
 - Significantly reducing the cost of publishing content.
 - Giving content creators control of the distribution channel of their works to best decide how to serve their customers.
-- Allowing the direct flow of information between content creators and consumers to create a better experience for all participants.
+- Allowing the direct flow of information between content creators and consumer, creating a better experience for all participants.
 
 The Lightstream network will operate via a Lightstream digital token (LST) that can be bought and exchanged for purchasing digital content. Content creators will receive LST tokens into their digital wallets as a form of income that can then be exchanged for fiat currency. 
 
@@ -31,6 +31,11 @@ For example a book valued at $9.99 sold on Amazon, there are the following fees:
 
 2. For a subscription sale, an approximate 50% fee is charged. This calculation is based on the subscription fee structure, where the author receives $0.00496 per page read, with a max payout of $5.00 for a 1000 page book.
 
+### Data provenance
+Online bookstores control the ownership, custody and storage of customer and sales data. This means that authors have less information about the consumers of their content than what the incumbent platforms are prepared to share. 
+
+Due to the online bookstore acting as the intermediary and depriving the authors of customer data, an opportunity is lost for a deeper connection to be made between authors and their readership, to gain feedback and develop new ideas.
+
 ### Failure to report sales
 
 The lack of transparency by online platforms creates a lack of trust between the creators and owners of content and the platforms. For example here have been the following cases where online platforms have failed to report sales or attribute royalties to owners:
@@ -40,14 +45,9 @@ https://www.nytimes.com/2016/03/18/business/media/spotify-reaches-settlement-wit
 - Facebook
 http://www.campaignlive.co.uk/article/rootzoo-sues-facebook-ad-click-dispute/920220
 
-### Data provenance
-Online bookstores control the ownership, custody and storage of customer and sales data. This means that authors have less information about the consumers of their content than the online delivery platform. 
-
-Due to the online bookstore acting at the intermediary and depriving the authors of customer data, an opportunity is lost for a deeper connection to be made between authors and their readership, to gain feedback and develop new ideas.
-
 ## Mission Statement
 
-Lightstreams mission is to create a peer to peer marketplace for the delivery of online digital content from digital books, music to movies. Where the network for distribution and exchange of content is owned by the creators and regulated by the community, such that creators and fans can connect and share in a low cost, fair and open marketplace.
+Lightstreams mission is to create a peer to peer marketplace for the delivery of online digital content from digital books, magazines, music to movies. Where the network for distribution and exchange of content is owned by the creators and regulated by the community, such that creators and fans can connect and share in a low cost, fair and open marketplace.
 
 ## The Lightstream Token
 
@@ -57,17 +57,17 @@ The lightstream token (LST) is a blockchain token with the following capabilitie
 2. Can be exchanged via a floating exchange rate for fiat or digital currency.
 4. Indirectly used for voting on network decisions. Voting power is based upon number of tokens collected via sales over a fixed period.
 
-The genesis block will specify the number of tokens and the account distribution based upon that outcome of a fundraising event. Upon the genesis block being published the number of tokens in circulation will remain fixed. 
+An intial sale of LST tokens during a fundraising event will determine the initial distribution of tokens. The number of tokens in circulation will always remain fixed. 
 
 ## Blockchain Architecture
 
-The Light Stream architecture is an Ethereum based blockchain network. It has the following features:
+The Lightstream blockchain is Ethereum based blockchain network, but operating independently of the main Ethereum chain. The Lightstream blockchain will have the following features:
 
-- Is a public network where any user can gain access and transmit transactions.
-- Is an independant blockchain network that is ethereum compliant. 
-- Uses Permissioned Blocks technology to achieve transaction level privacy and the sharing of digital content. This means that only certain accounts will be able to access specific information as the result of a sale of digital content. For example, the author of a digital book will be able to view certain details that have been authorised by the reader who bought their book, and the reader will only be able to view the digital content that they have bought.
-- Is a high speed network designed for global scalability. A maximum throughput of 8,000 transactions per second and a maximum network latency of 2 secs.
-- Uses a Tendermint consensus algorithm for achieving network consensus.
+- It will be a public network where any user can gain access and transmit transactions.
+- It will have an ethereum compliant API. 
+- It will employ Permissioned Blocks technology to achieve transaction level privacy for the transmission of digital content. This means that only certain accounts will be able to access specific information as the result of a sale of digital content. For example, the author of a digital book will be able to view certain details that have been authorised by the reader who bought their book, and the reader will only be able to view the digital content that they have bought.
+- It will will use a Tendermint consensus algorithm for achieving network consensus.
+- It will be a global scalability network with a high throughput of approximately 8,000 transactions per second and a maximum network latency of 5 secs.
 
 <p align="center">
 <img src="/images/lightstreams-architecture.png">
