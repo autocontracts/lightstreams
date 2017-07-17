@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This white paper outlines plans by Autonomous Contracts to develop Lightstreams, a peer to peer distribution network for digital content, ranging from books, magazines, music to movies and more. The Lightstreams network will enable any individual to publish digital content directly to consumers without the need to use a traditional online intermediaries such as Amazon, Spotity or Netflix. 
+This white paper outlines plans by Autonomous Contracts to develop Lightstreams, a peer to peer distribution network for digital content, ranging from books, magazines, music to movies and more. The Lightstreams network will enable any individual to publish digital content directly to consumers without the need to use a traditional online intermediaries such as Amazon, Spotity or Netflix. In the traditional online publishing model the intermediary provides the technical infrastruction in the form of large data centres in order to reach a global online audience. As a resul of this model, the intermediary tightly controls the channel and takes a substantial fee for providing the service. 
 
 <p align="center">
 <img src="/images/centralised-distribution.png">
@@ -10,7 +10,7 @@ This white paper outlines plans by Autonomous Contracts to develop Lightstreams,
 <b>Traditional Centralised Distribution</b> - Sale of digital content to consumers via intermediaries 
 </p>
 
-The unfair advantage for Lightstreams over incumbents is the new generation Web 3.0 technology built upon blockchain and smart contract technology, that includes the award winning "Permissioned Blocks" peer to peer protocol developed by Autonomous Contracts.
+Lightstreams will render incumbents obselete by using the new generation of Web 3.0 technology built upon blockchain and smart contract technology, including the award winning "Permissioned Blocks" peer to peer protocol developed by Autonomous Contracts. Using this technology means it is unnecessary for an intermediary to provide the infrustructure for content to be distributed to a global audience. Just as in the same manner as peer to peer file sharing networks such as torrent do not require the centralised infrustructure, Lightstreams will provide a peer to peer file sharing network but as opposed to torrent networks, publishes will be paid by consumers of their digital content.
 
 <p align="center">
 <img src="/images/peer-to-peer-distribution.png">
