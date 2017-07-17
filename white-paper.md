@@ -2,28 +2,28 @@
 
 ## Executive Summary
 
-This white paper outlines plans by Autonomous Contracts to develop Lightstreams, a peer to peer distribution network for digital content, ranging from books, magazines, music to movies and more. This network will enable any individual to publish content directly to consumers without needing to use a traditional online intermediary such as Amazon, Spotity or Netflix. 
+This white paper outlines plans by Autonomous Contracts to develop Lightstreams, a peer to peer distribution network for digital content, ranging from books, magazines, music to movies and more. The Lightstreams network will enable any individual to publish digital content directly to consumers without the need to use a traditional online intermediaries such as Amazon, Spotity or Netflix. 
 
 <p align="center">
 <img src="/images/centralised-distribution.png">
 <br>
-<b>Traditional Centralised Distribution - Sale of digital content to consumers via intermediaries</b> 
+<b>Traditional Centralised Distribution</b> - Sale of digital content to consumers via intermediaries 
 </p>
 
-The enabling factor that will make this possible is new the generation Web 3.0 built upon blockchain and smart contract technology, that includes the award winning "Permissioned Blocks" peer to peer protocol developed by Autonomous Contracts.
+The unfair advantage for Lightstreams over incumbents is the new generation Web 3.0 technology built upon blockchain and smart contract technology, that includes the award winning "Permissioned Blocks" peer to peer protocol developed by Autonomous Contracts.
 
 <p align="center">
 <img src="/images/peer-to-peer-distribution.png">
 <br>
-<b>Lightstream Peer to Peer Distribution - Sale of digital content directly to consumers</b> 
+<b>Lightstream Peer to Peer Distribution</b> - Sale of digital content directly to consumers 
 </p>
 
 By using a peer to peer distribution model, will allow Lightstreams to leapfrog incumbents by:
 - Decreasing the publishing costs of digital works.
-- Increasing the revenue streams to creators, artists and publishers of digital works.
+- Increasing the revenue streams to creators, artists and publishers.
 - Allowing creators, artists and publishers to own and control the distribution channel in order to best serve their customers.
 
-The initial focus of the Lightstreams network and the scope of this paper will be the development of a distribution network for the sale of digital books, with the particular focus on academic and technical books market. By selecting this niche market we believe that we can maximise market traction by focus on a targetted consumer group of IT professionals who we believe will be the most likely of early adopters. Once traction has been established in this niche book category, horizontal expansion into other book categories will occur, afterwhich Lightstreams will extend to other forms of digital distribution such as music and video streaming. 
+The initial focus of the Lightstreams network and the scope of this paper will be the development of a distribution channel for the sale of digital books, with the particular focus on academic and technical books market. By selecting this niche market we believe that we can maximise market traction by targetting a consumer group of IT professionals who we believe will be the most likely of early adopters. Once traction has been established in this niche market, horizontal expansion into other book categories will occur, afterwhich Lightstreams will expand to other forms of digital distribution such as music and video streaming. 
 
 Permissioned Blocks will be the governing protocol of the Lightstreams network that has music and video streaming capabilities via an IPFS protocol layer, which is a peer to peer file distribution technology.
 
