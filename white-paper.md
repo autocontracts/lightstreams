@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This white paper outlines plans by Autonomous Contracts to develop Lightstreams, a peer to peer distribution network for digital content. Digital content ranging from books, magazines, music to movies and more. This network will enable any individual to publish content directly to consumers without the need to use an online intermediary such as Amazon, Spotity or Netflix. The enabling factor that makes this possible is new the generation Web 3.0 built upon blockchain and smart contract technology, that includes the award winning "Permissioned Blocks" protocol developed by Autonomous Contracts.
+This white paper outlines plans by Autonomous Contracts to develop Lightstreams, a peer to peer distribution network for digital content, ranging from books, magazines, music to movies and more. This network will enable any individual to publish content directly to consumers without needing to use a traditional online intermediary such as Amazon, Spotity or Netflix. 
 
 <p align="center">
 <img src="/images/centralised-distribution.png">
@@ -10,9 +10,7 @@ This white paper outlines plans by Autonomous Contracts to develop Lightstreams,
 <b>Traditional Centralised Distribution - Sale of digital content to consumers via intermediaries</b> 
 </p>
 
-The initial focus of the Lightstreams network and the scope of this paper will be the distribution of digital books with the particular focus on academic and technical books. This is in order to achieve early adoption by a chosen target group of IT professionals in order to get early feedback and market traction. Once traction has been established in this niche segment, horizontal expansion into other book categories will occur, afterwhich the network will extend to other forms of digital distribution such as music and video streaming. Permissioned Blocks will be the governing protocol of the Lightstreams network that has music and video streaming capabilities via an IPFS protocol layer, which is a peer to peer file distribution technology.
-
-By using a peer to peer distribution model, with blockchain as the enabling technology, allows Lightstreams to leapfrog incumbent platforms that employ centralised distribution models. 
+The enabling factor that will make this possible is new the generation Web 3.0 built upon blockchain and smart contract technology, that includes the award winning "Permissioned Blocks" peer to peer protocol developed by Autonomous Contracts.
 
 <p align="center">
 <img src="/images/peer-to-peer-distribution.png">
@@ -20,10 +18,14 @@ By using a peer to peer distribution model, with blockchain as the enabling tech
 <b>Lightstream Peer to Peer Distribution - Sale of digital content directly to consumers</b> 
 </p>
 
-Lightstreams will do this by:
-- Significantly reducing the cost of publishing content.
-- Giving content creators control of the distribution channel of their works to best decide how to serve their customers.
-- Allowing the direct flow of information between content creators and consumer, creating a better experience for all participants.
+By using a peer to peer distribution model, will allow Lightstreams to leapfrog incumbents by:
+- Decreasing the publishing costs of digital works.
+- Increasing the revenue streams to creators, artists and publishers of digital works.
+- Allowing creators, artists and publishers to own and control the distribution channel in order to best serve their customers.
+
+The initial focus of the Lightstreams network and the scope of this paper will be the development of a distribution network for the sale of digital books, with the particular focus on academic and technical books market. By selecting this niche market we believe that we can maximise market traction by focus on a targetted consumer group of IT professionals who we believe will be the most likely of early adopters. Once traction has been established in this niche book category, horizontal expansion into other book categories will occur, afterwhich Lightstreams will extend to other forms of digital distribution such as music and video streaming. 
+
+Permissioned Blocks will be the governing protocol of the Lightstreams network that has music and video streaming capabilities via an IPFS protocol layer, which is a peer to peer file distribution technology.
 
 The Lightstream network will operate via a Lightstream digital token (LST) that can be bought and exchanged for purchasing digital content. Content creators will receive LST tokens into their digital wallets as a form of income that can then be exchanged for fiat currency. 
 
