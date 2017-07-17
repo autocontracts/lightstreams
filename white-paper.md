@@ -18,54 +18,60 @@ The unfair advantage for Lightstreams over incumbents is the new generation Web 
 <b>Lightstream Peer to Peer Distribution</b> - Sale of digital content directly to consumers 
 </p>
 
-By using a peer to peer distribution model, will allow Lightstreams to leapfrog incumbents by:
+By using a peer to peer distribution model, will allow Lightstreams to leapfrog industry incumbents by:
 - Decreasing the publishing costs of digital works.
-- Increasing the revenue streams to creators, artists and publishers.
-- Allowing creators, artists and publishers to own and control the distribution channel in order to best serve their customers.
+- Increasing revenue streams for creators, artists and authors of digital content.
+- Allowing creators, artists and authors to own and control the distribution channel in order to best serve their audiences.
 
-The initial focus of the Lightstreams network and the scope of this paper will be the development of a distribution channel for the sale of digital books, with the particular focus on academic and technical books market. By selecting this niche market we believe that we can maximise market traction by targetting a consumer group of IT professionals who we believe will be the most likely of early adopters. Once traction has been established in this niche market, horizontal expansion into other book categories will occur, afterwhich Lightstreams will expand to other forms of digital distribution such as music and video streaming. 
+The initial focus of the Lightstreams network and the scope of this paper will be the development of a distribution channel for the sale of digital books, with the particular focus on the academic and technical books market. By selecting this niche market group, we believe this will give the greatest opportunity to maximise early market traction through targetting the most likely of early adopters, that being the consumer groups of IT and technical professionals. Once traction has been established in this niche market, horizontal expansion into other book categories will occur, afterwhich Lightstreams will expand to other forms of digital distribution such as music and video streaming. 
 
-Permissioned Blocks will be the governing protocol of the Lightstreams network that has music and video streaming capabilities via an IPFS protocol layer, which is a peer to peer file distribution technology.
+The Lightstreams network will be capable of music and video streaming via its IPFS protocol layer, which is a proven peer to peer file distribution technology for multiple file types.
 
-The Lightstream network will operate via a Lightstream digital token (LST) that can be bought and exchanged for purchasing digital content. Content creators will receive LST tokens into their digital wallets as a form of income that can then be exchanged for fiat currency. 
+The Lightstream network will operate via a Lightstream digital token (LST) that will be bought and exchanged for the purpose of purchasing digital content. Content publishers will receive LST tokens into a digital wallets that can be exchanged for fiat currency (USD, EUR, GBP, etc.) 
 
-A fundraising round will be announce in due course where LST tokens will sold to early adoptors in order to fund the development outlined in this paper.   
+A fundraising round via the sale of LST tokens will be announce in due course in order to fund the development actvities outlined in this paper.
 
-## Problems using Online Digital Bookstores
+## Problems for Publishers using Online Bookstores
 
-Lightstream's initial focus will be to build an online peer to peer marketplace for digital academic books.
+Lightstream's initial focus will be to develop a new distribution channel and marketplace for digital books.
 
-Authors of digital books today face the following issues when using traditional online digital platforms for selling and distributing their works.
+Authors and publishers of digital books currently face the following pain points today when using traditional online digital delivery platforms for selling and distributing their works.
 
-### High sales fees 
+### High Sales Fees 
 
-The current high fees of online digital bookstores used by authors to sell their works mean that authors receive up to 50% less revenue than their potential. 
+High sales fees for using online bookstores mean that authors receive up to 50% less revenue for their works than if they were able to sell directly to their customers. 
 
-For example a book valued at $9.99 sold on Amazon, there are the following fees:
+For example a book valued at $9.99 sold on Amazon, has the following fees:
 
-1. For a direct sale, an approximate 48% fee is charged, this comprises a 30% platform fee plus and an electronic delivery fee of $2.58.
+1. For a standard sale, an approximate 48% fee is charged, this comprises a 30% platform fee plus and an electronic delivery fee of $2.58.
 
-2. For a subscription sale, an approximate 50% fee is charged. This calculation is based on the subscription fee structure, where the author receives $0.00496 per page read, with a max payout of $5.00 for a 1000 page book.
+2. For a subscription sale, an approximate 50% fee is charged. This is calculated using the subscription fee structure, where the author receives $0.00496 per page read, with a max payout of $5.00 for a 1000 page book.
 
-### Data provenance
-Online bookstores control the ownership, custody and storage of customer and sales data. This means that authors have less information about the consumers of their content than what the incumbent platforms are prepared to share. 
+### Unable to Generate Sales via Direct Marketing
 
-Due to the online bookstore acting as the intermediary and depriving the authors of customer data, an opportunity is lost for a deeper connection to be made between authors and their readership, to gain feedback and develop new ideas.
+Acting as intermediaries, online bookstore control the ownership, custody and storage of customer information and sales data. Only a small subset of this data is shared with authors and publishers hampering their ability to track sales and gain insights into their readership. 
 
-### Failure to report sales
+The lack of customer contact informationn also means that authors are unable to communicate directly with their fanbase to gain feedback, make announcements and release early drafts to interested readers.
 
-The lack of transparency by online platforms creates a lack of trust between the creators and owners of content and the platforms. For example here have been the following cases where online platforms have failed to report sales or attribute royalties to owners:
-- Spotify
-https://www.nytimes.com/2016/03/18/business/media/spotify-reaches-settlement-with-publishers-in-licensing-dispute.html
-- Amazon https://jeanettevaughan.wordpress.com/2012/09/28/do-amazon-and-createspace-rip-off-indie-publishers-with-failure-to-correctly-report-sales/
-- Facebook
-http://www.campaignlive.co.uk/article/rootzoo-sues-facebook-ad-click-dispute/920220
+This lack of customer and sales information ultimately creates a lost maketing opportunity to generate new sales.
 
-TODO...
+### Lack of Trust in Reported Sales
+
+Authors and publishers have no ablity to trace and verify sales data generated by online plaforms. The lack of transparent data provenance creates a lack of trust in the sales reports that are issued by  patforms who receive frequent complaints and in certain cases legal action has been taken:
+- Amazon apologizes for concerns raised about Kindle Edition Normalized Page Count (KENPC) anomolies [3] 
+- AgeView Press published the ebook title "Flying Solo" on Amazon's Kindle Direct via the Createspace e-store and filed a complaint about incorrect sales reporting. [2]
+- Spotify settled a $20 million dispute with music publishers for the failure to report and pay licensing fees for distribution of copyright material [1].
+- RootZoo sues Facebook for overcharging of advertising fees by incorrectly reporting on advertisement clicks [4].
+
+### Fake Book Reviews that Impact Sales
+
+Companies can employ teams of writers to rave about certain products and slate others. It has been reported where novelists have paid people to write favourably about their books, bumping them up the bestseller's list and creating an unfair advantage over other authors. 
+
+- In 2016, Orlando Figes, a respected history professor at Birkbeck, University of London was discovered to have posted fake reviews on Amazon lavishing high praise on his own book whilst describing other books as 'awful'. [5]
 
 ## Mission Statement
 
-Lightstreams mission is to create a peer to peer marketplace for the delivery of online digital content from digital books, magazines, music to movies. Where the network for distribution and exchange of content is owned by the creators and regulated by the community, such that creators and fans can connect and share in a low cost, fair and open marketplace.
+Lightstreams mission is to create a peer to peer distribution for the delivery of online digital content from digital books, magazines, music to movies. Where the network for distribution and exchange of content is owned by the creators and regulated by the community, such that creators and fans can connect and share in a low cost, fair and open marketplace.
 
 ## The Lightstream Token
 
@@ -167,4 +173,10 @@ TODO..
 ## Permissioned Blocks
 
 [1] http://andrewhy.de/amazons-markup-of-digital-delivery-to-indie-authors-is-129000/
-[2] http://business.time.com/2013/12/03/heres-how-much-money-top-musicians-are-making-on-spotify/
+
+[1] https://www.nytimes.com/2016/03/18/business/media/spotify-reaches-settlement-with-publishers-in-licensing-dispute.html
+[2] https://jeanettevaughan.wordpress.com/2012/09/28/do-amazon-and-createspace-rip-off-indie-publishers-with-failure-to-correctly-report-sales/
+[3] https://teleread.org/2016/10/08/amazon-kdp-select-authors-are-losing-page-reads-apparently-due-to-software-glitches/
+[4] http://www.campaignlive.co.uk/article/rootzoo-sues-facebook-ad-click-dispute/920220
+[5] http://www.dailymail.co.uk/news/article-1393412/Amazon-TripAdvisor-centre-scandal-companies-post-fake-reviews.html?ito=feeds-newsxml
+
