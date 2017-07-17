@@ -5,7 +5,7 @@
 This white paper outlines plans by Autonomous Contracts to develop Lightstreams, a peer to peer distribution network for digital content. Digital content ranging from books, magazines, music to movies and more. This network will enable any individual to publish content directly to consumers without the need to use an online intermediary such as Amazon, Spotity or Netflix. The enabling factor that makes this possible is new the generation Web 3.0 built upon blockchain and smart contract technology, that includes the award winning "Permissioned Blocks" protocol developed by Autonomous Contracts.
 
 <p align="center">
-<img src="/images/peer-to-peer-distribution.png">
+<img src="/images/centralised-distribution.png">
 <br>
 <b>Peer to Peer Distribution - Sale of digital content to consumers</b> 
 </p>
@@ -15,7 +15,7 @@ The initial focus of the Lightstreams network and the scope of this paper will b
 By using a peer to peer distribution model, with blockchain as the enabling technology, allows Lightstreams to leapfrog incumbent platforms that employ centralised distribution models. 
 
 <p align="center">
-<img src="/images/centralised-distribution.png">
+<img src="/images/peer-to-peer-distribution.png">
 <br>
 <b>Centralised Distribution - Traditional sale of digital content to consumers via intermediaries</b> 
 </p>
