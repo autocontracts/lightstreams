@@ -1,8 +1,12 @@
 # Lightstreams White Paper
 
-## Executive Summary
+## Introduction
 
-This white paper outlines plans by Autonomous Contracts to develop Lightstreams, a peer to peer distribution network for digital content, ranging from books, magazines, music to movies and more. The Lightstreams network will enable any individual to publish digital content directly to consumers without the need to use a traditional online intermediaries such as Amazon, Spotity or Netflix. In the traditional online publishing model the intermediary provides the technical infrastruction in the form of large data centres in order to reach a global online audience. As a resul of this model, the intermediary tightly controls the channel and takes a substantial fee for providing the service. 
+This white paper outlines plans by Autonomous Contracts to develop the Lightstreams network, a peer to peer distribution network for digital content, ranging from books, magazines, music to movies and more. 
+
+The Lightstreams network will enable any individual to publish digital content directly to consumers without the need to use traditional online intermediaries such as Amazon, Spotity or Netflix. 
+
+Traditional online intermediaries provide the infrastructure in the form of computer hardware hosted in global data centres in order to scale to a global online audience. Using Lightstreams will mean that such infrustructure is no longer required. 
 
 <p align="center">
 <img src="/images/centralised-distribution.png">
@@ -10,7 +14,7 @@ This white paper outlines plans by Autonomous Contracts to develop Lightstreams,
 <b>Traditional Centralised Distribution</b> - Sale of digital content to consumers via intermediaries 
 </p>
 
-Lightstreams will render incumbents obselete by using the new generation of Web 3.0 technology built upon blockchain and smart contract technology, including the award winning "Permissioned Blocks" peer to peer protocol developed by Autonomous Contracts. Using this technology means it is unnecessary for an intermediary to provide the infrustructure for content to be distributed to a global audience. Just as in the same manner as peer to peer file sharing networks such as torrent do not require the centralised infrustructure, Lightstreams will provide a peer to peer file sharing network but as opposed to torrent networks, publishes will be paid by consumers of their digital content.
+Lightstreams will be made possible through the new generation of Web 3.0 technology built upon blockchain and smart contract technology. This includes the award winning Permissioned Blocks peer to peer protocol developed by Autonomous Contracts. 
 
 <p align="center">
 <img src="/images/peer-to-peer-distribution.png">
@@ -18,12 +22,17 @@ Lightstreams will render incumbents obselete by using the new generation of Web 
 <b>Lightstream Peer to Peer Distribution</b> - Sale of digital content directly to consumers 
 </p>
 
-By using a peer to peer distribution model, will allow Lightstreams to leapfrog industry incumbents by:
-- Decreasing the publishing costs of digital works.
-- Increasing revenue streams for creators, artists and authors of digital content.
-- Allowing creators, artists and authors to own and control the distribution channel in order to best serve their audiences.
+The current state of digital publishing is that of an oligopoly market structure where a few internet firms have a large majority of maket share. As such, they are able to tightly control the distribution channel, resulting in significant fees charged to content creators whilst providing a substandard service.
 
-The initial focus of the Lightstreams network and the scope of this paper will be the development of a distribution channel for the sale of digital books, with the particular focus on the academic and technical books market. By selecting this niche market group, we believe this will give the greatest opportunity to maximise early market traction through targetting the most likely of early adopters, that being the consumer groups of IT and technical professionals. Once traction has been established in this niche market, horizontal expansion into other book categories will occur, afterwhich Lightstreams will expand to other forms of digital distribution such as music and video streaming. 
+By using a peer to peer distribution model, Lightstreams will be able to leapfrog incumbents by:
+- Decreasing the publishing costs of digital content.
+- Increasing revenue streams for content creators, artists and authors of digital content.
+- Allowing content creators, artists and authors to control their own distribution channel in order to best serve their audiences.
+
+
+The initial focus of the Lightstreams network and the scope of this paper is to the development of a distribution channel for the sale of digital books. With the particular focus on the academic and technical books market. By selecting this niche market group, we believe this will give the greatest opportunity to maximise market traction through targetting the most likely early adopters, that being the consumer groups of IT and technical professionals. 
+
+Once traction has been established in this niche market, horizontal expansion into other book categories will occur, afterwhich Lightstreams will expand to other forms of digital distribution such as music and video streaming. 
 
 The Lightstreams network will be capable of music and video streaming via its IPFS protocol layer, which is a proven peer to peer file distribution technology for multiple file types.
 
@@ -31,13 +40,13 @@ The Lightstream network will operate via a Lightstream digital token (LST) that 
 
 A fundraising round via the sale of LST tokens will be announce in due course in order to fund the development actvities outlined in this paper.
 
-## Problems for Publishers using Online Bookstores
+## Problems facing Publishers when using Online Bookstores
 
 Lightstream's initial focus will be to develop a new distribution channel and marketplace for digital books.
 
 Authors and publishers of digital books currently face the following pain points today when using traditional online digital delivery platforms for selling and distributing their works.
 
-### High Sales Fees 
+### High Fees 
 
 High sales fees for using online bookstores mean that authors receive up to 50% less revenue for their works than if they were able to sell directly to their customers. 
 
@@ -82,6 +91,12 @@ The lightstream token (LST) is a blockchain token with the following capabilitie
 4. Indirectly used for voting on network decisions. Voting power is based upon number of tokens collected via sales over a fixed period.
 
 An intial sale of LST tokens during a fundraising event will determine the initial distribution of tokens. The number of tokens in circulation will always remain fixed. 
+
+## Scaling to a Global Audience
+
+Permissioned Peer to peer file sharing 
+
+Using this technology means it is unnecessary for an intermediary to provide the infrustructure for content to be distributed to a global audience. Just as in the same manner as peer to peer file sharing networks such as torrent do not require the centralised infrustructure, Lightstreams will provide a peer to peer file sharing network but as opposed to torrent networks, publishes will be paid by consumers of their digital content.
 
 ## Blockchain Architecture
 
