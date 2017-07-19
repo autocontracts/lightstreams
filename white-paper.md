@@ -2,11 +2,13 @@
 
 ## Introduction
 
-This white paper outlines plans by Autonomous Contracts to develop the Lightstreams network, a peer to peer distribution network for digital content. Digital content ranging from books, magazines, music to movies and more. 
+This white paper outlines plans by Autonomous Contracts to develop the Lightstreams network, a peer to peer network for the distribution of digital content. 
 
-The Lightstreams network will enable any individual or business to publish digital content directly to consumers without the need of traditional online intermediaries such as Amazon, Spotity or Netflix. 
+The Lightstreams network will enable any individual or business to publish digital content ranging from books, magazines, music to movies directly to consumers without the need of using traditional online intermediary networks such as Amazon, Spotity or Netflix. 
 
-In order to scale to global online audiences, traditional intermediaries provide computer hardware infrastructure that is hosted in global data centres. Using Lightstreams will mean that such infrustructure is no longer required. 
+Lightstreams is made possible through the new generation of Web 3.0 technology built upon blockchain and smart contract technology. This includes the award winning Permissioned Blocks protocol developed by Autonomous Contracts. 
+
+The fundamental service that traditional online intermediaries provide publishers today is the ability to digitally publish content to audiences on a global scale via the internet. To do this, intermediaries own and maintain the necessary computer infrastructure in global data centres. Lightstream's disruptive distribution model will make the necessitity of such infrustructure obsolete. Instead through a peer to peer file sharing model, customers themselves will inherently provide the infrustructure that enables global scalability.
 
 <p align="center">
 <img src="/images/centralised-distribution.png">
@@ -15,9 +17,7 @@ In order to scale to global online audiences, traditional intermediaries provide
 </p>
 <br>
 
-Lightstreams is made possible through the new generation of Web 3.0 technology built upon blockchain and smart contract technology. This includes the award winning Permissioned Blocks peer to peer protocol developed by Autonomous Contracts. 
-
-The disruptive power of the Lightstreams network is that by using a peer to peer file sharing model, the customers themselves provide the infrustructure that enables global scalability. For example, using only a laptop, an author can publish a title of an book to the Lightstreams network. A customer who purchases the title of the book, downloads a digital copy directly from the author's laptop to their computer. When a second customer purchases the book, they download parts of the book from both the author and the first customer's computer. The author could disconnect their laptop from the book would continue to keep selling, as a third customer purchasing the book would download parts from the first and second customer and so forth. And since the payments are being recorded using blockchain technology, the author can connect at any time and collect their earnings.
+ For example, using only a laptop, an author publishes a title of an ebook to the Lightstreams network. A customer who purchases the title, downloads a digital copy directly from the author's laptop to their computer. When a second customer purchases the ebook, they download content from both the author and the first customer's computer. The author could disconnect their laptop from the network and the ebook would continue to sell, as a third customer would the download content from the first and second customers and so forth. Since the payments are executed using blockchain technology, the author can reconnect at any time and collect their earnings.
 
 <p align="center">
 <img src="/images/peer-to-peer-distribution.png">
@@ -25,29 +25,26 @@ The disruptive power of the Lightstreams network is that by using a peer to peer
 <b>Lightstreams Model</b> - Distribution of digital content directly to consumers.
 </p>
 
-The current state of digital publishing is that of an oligopoly market structure where only a few internet firms have a large majority of maket share. As such, the imcumbents are able to tightly control the distribution channel resulting in very high fees whilst providing a substandard service.
+The current state of digital publishing is that of an oligopoly market where only a few internet firms have a large majority of market share. As such, the imcumbents are able to tightly control the distribution channel and charge high fees whilst providing a substandard service.
 
 By using a peer to peer distribution model, Lightstreams will be able to leapfrog the competition by:
 - Decreasing the publishing costs for creators, artists and authors of digital content.
 - Creating a community controlled network where creators, artists and authors of digital content can benefit from its success.
 - Having an open protocol that allows any entity to connect and provide new and improved channel services.
 
+The initial goal of the Lightstreams network and the scope of this paper is the development of a new sales channel for digital books, with the particular focus on the academic and technical books. By selecting this niche market category, we believe that this will give the greatest opportunity to maximise market traction by targetting the most likely early adopters, IT and technical professionals. 
 
-The initial goal of the Lightstreams network and the scope of this paper is the development of a new sales channel for digital books, with the particular focus on the academic and technical books. By selecting this niche market category, we believe this will give the greatest opportunity to maximise market traction through targetting the most likely early adopters, that being the consumer group of IT and technical professionals. 
+Once traction has been established in this niche market, horizontal expansion into other book categories can occur. Following this, Lightstreams will expand to other forms of digital content distribution such as music and video streaming. 
 
-Once traction has been established in this niche market, horizontal expansion into other book categories will occur. Following this, Lightstreams will expand to other forms of digital distribution such as music and video streaming. 
+The Lightstreams network will be capable of music and video streaming via an IPFS protocol layer, which is a proven peer to peer file distribution technology for serving multiple file types.
 
-The Lightstreams network will be capable of music and video streaming via its IPFS protocol layer, which is a proven peer to peer file distribution technology for serving multiple file types.
-
-The Lightstream network will operate via a Lightstream digital token (LST) that will be bought and exchanged for the purpose of purchasing digital content. Content publishers will receive LST tokens into a digital wallets that can be exchanged for fiat currency (USD, EUR, GBP, etc.) 
-
-A fundraising round via the sale of LST tokens will be announce in due course in order to fund the development actvities outlined in this paper.
+Content on the Lightstreams network will be purchased via a Lightstream digital token (LST). Content publishers will receive LST tokens into a digital wallets that can be exchanged for fiat currency (USD, EUR, GBP, etc). A fundraising round via the sale of LST tokens will be announce in due course in order to fund the development actvities outlined in this paper.
 
 ## Problems facing Publishers when using Online Bookstores
 
-Lightstream's initial focus will be to develop a new sales channel and marketplace for digital books.
+Lightstream's initial focus will be the development of a new sales channel and marketplace for digital books.
 
-Authors and publishers of digital books currently face the following pain points today when using traditional online platforms for selling and distributing their works.
+Authors and publishers of digital books currently face today the following pain points when using online bookstores for selling and distributing their works.
 
 ### High Fees 
 
@@ -59,25 +56,27 @@ For example a book valued at $9.99 sold on Amazon, has the following fees:
 
 2. For a subscription sale, an approximate 50% fee is charged. This is calculated using the subscription fee structure, where the author receives $0.00496 per page read, with a max payout of $5.00 for a 1000 page book.
 
-### Unable to Generate Sales via Direct Marketing
-
-Acting as intermediaries, online bookstore control the ownership, custody and storage of customer information and sales data. Only a small subset of the data is shared with authors and publishers. This hampers their ability to track sales and gain insights about their readers. 
-
-The lack of customer contact information also means that authors are unable to communicate directly with their fanbase for feedback, make announcements and release early drafts to interested readers.
-
-This lack of customer and sales information ultimately creates a missed maketing opportunity to generate new sales.
-
 ### Lack of Trust in Reported Sales
 
-Authors and publishers have no ablity to trace and verify the sales data generated by online plaforms. The lack of transparent data provenance creates a lack of trust in the issed sales reports. Platforms receive frequent complaints and in certain cases legal action has been taken against them:
+Authors and publishers today have no ablity to trace and verify the sales data generated by online bookstores. The lack of transparent data provenance creates a lack of trust in generated sales reports. 
+
+Not only limited to online bookstores, intermediaries often receive frequent complaints and in certain cases legal action has been taken against them for incorrect reporting:
 - Amazon apologizes for concerns raised about Kindle Edition Normalized Page Count (KENPC) anomolies [3] 
 - AgeView Press published the ebook title "Flying Solo" on Amazon's Kindle Direct via the Createspace e-store and filed a complaint about incorrect sales reporting. [2]
 - Spotify settled a $20 million dispute with music publishers for the failure to report and pay licensing fees for distribution of copyright material [1].
 - RootZoo sues Facebook for overcharging of advertising fees by incorrectly reporting on advertisement clicks [4].
 
-### Fake Book Reviews that Impact Sales
+### Unable to Generate Sales via Direct Marketing
 
-Most online platfroms provide an open review section where anyone can post comments and reviews about a product. In some cases reviews are written about a book by those that have not purchased or read the material. Third party services are available where teams of writers can be purchses to right positive endorsements about certain works and negative of others in order to progress further up best selling lists. In some cause it has been known that authors themselves have written favourably about their own works and negative of others to create an unfair advantage. 
+Acting as intermediaries, online bookstore control the ownership, custody and storage of customer information and sales data. Only a small subset of this data is shared with the authors and publishers. This hampers their ability to track sales and gain insights intor their readers behaviours and interests. 
+
+The lack of customer contact information also means that authors are unable to communicate directly with their fanbase for feedback, make announcements and release early drafts of their works to interested readers.
+
+This lack of customer and sales information ultimately creates a missed maketing opportunity for authors and publishers to generate new sales.
+
+### Fake Reviews that Impact Sales
+
+Most online bookstores often provide open review sections where anyone can post comments and reviews about a book. In some cases reviews are written about by those that have not purchased or read the material. Indead, third party services that can provide teams of writers to write positive and negative endorsements about certain works in order to progress them further up best selling lists. In some cause it has been known that authors themselves have written favourably about their own works and negative of others in order to create the unfair advantage. 
 
 - In 2016, Orlando Figes, a respected history professor at Birkbeck, University of London was discovered to have posted fake reviews on Amazon lavishing high praise on his own book whilst describing other books as 'awful'. [5]
 
@@ -85,7 +84,9 @@ Most online platfroms provide an open review section where anyone can post comme
 
 Lightstreams mission is to create a peer to peer distribution network for digital content from digital books, magazines, music to movies. Where the network for distribution and exchange is owned and regulated by the community, such that creators and fans can connect and share in a low cost, fair and open marketplace.
 
-## The Lightstream Token
+## Features
+
+### The Lightstream Token
 
 The lightstream token (LST) is a blockchain token with the following capabilities:
 
@@ -95,21 +96,23 @@ The lightstream token (LST) is a blockchain token with the following capabilitie
 
 An intial sale of LST tokens during a fundraising event will determine the initial distribution of tokens. The number of tokens in circulation will always remain fixed. 
 
-## Scaling to a Global Audience
+### Complete Customer Information and Sales History
 
-Permissioned Peer to peer file sharing 
+### A Direct Customer Communication Channel
 
-Using this technology means it is unnecessary for an intermediary to provide the infrustructure for content to be distributed to a global audience. Just as in the same manner as peer to peer file sharing networks such as torrent do not require the centralised infrustructure, Lightstreams will provide a peer to peer file sharing network but as opposed to torrent networks, publishes will be paid by consumers of their digital content.
+A twitter like communication medium where customers who have purchased content will be able to follow content creators.
+
+### Fair Customer Review and Feedback Channel
 
 ## Blockchain Architecture
 
-The Lightstream blockchain is Ethereum based blockchain network, but operating independently of the main Ethereum chain. The Lightstream blockchain will have the following features:
+The Lightstream blockchain will be an Ethereum compliant network operating independently of the main Ethereum chain with the following features:
 
-- It will be a public network where any user can gain access and transmit transactions.
-- It will have an ethereum compliant API. 
-- It will employ Permissioned Blocks technology to achieve transaction level privacy for the transmission of digital content. This means that only certain accounts will be able to access specific information as the result of a sale of digital content. For example, the author of a digital book will be able to view certain details that have been authorised by the reader who bought their book, and the reader will only be able to view the digital content that they have bought.
-- It will will use a Tendermint consensus algorithm for achieving network consensus.
-- It will be a global scalability network with a high throughput of approximately 8,000 transactions per second and a maximum network latency of 5 secs.
+- It will be a public network such that any user can openly connent and transmit transactions to the network.
+- It will have an Ethereum compliant API. 
+- It will use the Permissioned Blocks protocol for transaction level privacy. 
+- It will will use the Tendermint protocol for achieving transaction consensus.
+- It will be a global scalability network with an aimed throughput of approximately 8,000 transactions per second with a maximum network latency of 5 secs.
 
 <p align="center">
 <img src="/images/lightstreams-architecture.png">
@@ -117,9 +120,19 @@ The Lightstream blockchain is Ethereum based blockchain network, but operating i
 <b>Lightstreams Architecture</b> 
 </p>
 
-## Sales Mechanism for Digital Content
+## Scaling to a Global Audience
 
-The sale of digital content will be governed by a smart contract. The smart contract will use Permissoined Blocks technology that will control access to the digial content publishd by an author:
+Permissioned Peer to peer file sharing 
+
+Using this technology means it is unnecessary for an intermediary to provide the infrustructure for content to be distributed to a global audience. Just as in the same manner as peer to peer file sharing networks such as torrent do not require the centralised infrustructure, Lightstreams will provide a peer to peer file sharing network via the IPFS protocol layer of the Permissioned Blocks protocol.
+
+Transaction level privacy.
+
+This means that only certain accounts will be able to access specific information as the result of a sale of digital content. For example, the author of a digital book will be able to view certain details that have been authorised by the reader who bought their book, and the reader will only be able to view the digital content that they have bought.
+
+## Sales Models 
+
+There will be two different sales models for published content that will be controlled by smart contracts on the Lightstreams blockchain.
 
 - By granting permission as a result of a direct sale between the author and reader.
 - By granting permission based upon the reader being a member of a subscription based sales model.
