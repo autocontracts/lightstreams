@@ -4,11 +4,11 @@
 
 This white paper outlines plans by Autonomous Contracts to develop the Lightstreams network, a peer-to-peer digital publishing network for content ranging from books, magazines, music to movies. 
 
-The Lightstreams network will enable any individual or business to publish digital content directly to consumers without the need of using traditional online intermediaries such as Amazon, Spotity or Netflix. 
+The Lightstreams network will enable any individual or business to publish digital content directly to consumers replacing traditional online intermediaries such as Amazon, Spotity or Netflix. 
 
 Lightstreams is made possible through the new generation of Web 3.0 technology built upon blockchain and smart contract technology. This includes the award winning Permissioned Blocks protocol developed by Autonomous Contracts. 
 
-Traditional online intermediaries provide the service channel where content can be published in order to reach global audiences via the internet. To do this, intermediaries must own and maintain vast computer hardware in order to handle the loading requirements of consumers. Computer hardware that is housed in centralised infrastructure to reach a global scale. Lightstream's disruptive technology makes the necessity of such infrastructure obsolete. Instead through a peer to peer networking model, consumers will inherently provide the infrastructure required with their own devices as they consume content.
+Traditional online intermediaries provide the service channel for published content to reach global audiences via the internet. To do this, intermediaries must own and maintain the vast computer hardware in order to handle the on demand loading requirements of the consumers. Computer hardware that is housed as large centralised infrastructure in order to enable this global scale. 
 
 <p align="center">
 <img src="/images/centralised-distribution.png">
@@ -17,7 +17,9 @@ Traditional online intermediaries provide the service channel where content can 
 </p>
 <br>
 
- For example, using only a laptop, an author publishes a title of an e-book to the Lightstreams network. A customer who purchases the title, downloads a copy directly from the author's laptop to their computer. When a second customer purchases the e-book, they download content parts of the content simultaneously from the author and the first customer's computers. The author could disconnect their laptop from the network and the e-book would continue to sell, as a third customer would download content from the first and second customers and so forth. Since the payments are executed using blockchain technology, the author can reconnect to the network at any time and collect their earnings.
+Lightstream's disruptive technology makes the necessity of such infrastructure for distributing digital content obsolete. Instead, by using a peer-to-peer file shareing model, as consumers use their own devices to consume content, they will inherently provide the infrastructure for the network to scale globally.
+
+ For example, using only a laptop, an author publishes a title of an e-book to the Lightstreams network. A customer who purchases the title, downloads a copy directly from the author's laptop to their computer. When a second customer purchases the e-book, they download parts of the e-book simultaneously from the author and the first customer's devices. The author could disconnect his laptop from the network and the e-book would continue to sell, as a third customer would download content from the first and second customers and so forth. Since the payments are executed using blockchain technology, the author can reconnect to the network at any time and collect his earnings.
 
 <p align="center">
 <img src="/images/peer-to-peer-distribution.png">
@@ -27,7 +29,7 @@ Traditional online intermediaries provide the service channel where content can 
 
 The current state of digital publishing is that of an oligopoly market where only a few internet firms have a large majority of market share. As such, the incumbents are able to tightly control the distribution channel and charge high fees whilst providing a substandard service.
 
-By using a peer-to-peer distribution model, Lightstreams will have a superior advantage over the incumbents by:
+By using a peer-to-peer distribution model, Lightstreams will have a superior advantage over incumbents by:
 - Decreasing the publishing costs for creators, artists and authors of digital content.
 - Creating a community controlled network where creators, artists and authors of digital content can benefit from its success.
 - Having an open protocol that allows any entity to connect and provide new and improved channel services.
@@ -36,19 +38,19 @@ The initial goal of the Lightstreams network and the scope of this paper is the 
 
 Once traction has been established in this niche market, horizontal expansion into other book categories can occur. Following this, Lightstreams will expand to other forms of digital content publishing such as music and video streaming. 
 
-The Lightstreams network will be capable of music and video streaming via an IPFS protocol layer, which is a proven peer to peer file distribution technology for serving multiple file types.
+The Lightstreams network will be capable of music and video streaming via an IPFS protocol layer, which is a proven peer to peer file distribution technology for serving any file format.
 
-Content on the Lightstreams network will be purchased via a Lightstream digital token (LST). Content publishers will receive LST tokens into digital wallets that can be exchanged for fiat currency. A fundraising round via the sale of LST tokens will be announce in due course in order to fund the development activities outlined in this paper.
+Content on the Lightstreams network will be purchased via a Lightstream digital token (LST). Publishers will receive LST tokens into digital wallets that can be exchanged for fiat currency. A fundraising round via the sale of LST tokens will be announce in due course in order to fund the development activities outlined in this paper.
 
-## Problems facing Publishers when using Online Bookstores
+## Problems with Online Bookstores
 
-Lightstream's initial focus will be the development of a publishing channel for digital books.
+Lightstream's initial focus will be the development of a publishing channel for digital books. Afterwhich other forms of digial content will be introduced.
 
-Authors and publishers of digital books currently face today the following pain points when using online bookstores for publishing and selling their works.
+Authors and publishers currently face today the following pain points using online bookstores for publishing and selling books.
 
 ### High Fees 
 
-High sales fees for using online bookstores mean that authors receive up to 50% less revenue for their books than if they were able to sell directly to their customers. 
+High sales fees for using online bookstores mean that authors and publishers receive up to 50% less revenue for their books than if they were able to sell directly to their customers. 
 
 For example a book valued at $9.99 sold on Amazon, has the following fees:
 
@@ -58,9 +60,9 @@ For example a book valued at $9.99 sold on Amazon, has the following fees:
 
 ### Lack of Trust in Reported Sales
 
-Authors and publishers today have no ability to trace and verify the sales data generated by online bookstores. The lack of transparent data provenance creates a lack of trust in generated sales reports produced by the online bookstores. 
+Authors and publishers today have no ability to trace and verify the sales data generated by online bookstores. The lack of transparent data provenance creates a lack of trust in the sales reports that are delivered by the online bookstores. 
 
-Not only limited to online bookstores, intermediaries often receive frequent complaints and in certain cases legal action has been taken against them for incorrect reporting:
+Incorrect sales reporting is not only limited to online bookstores, many intermediaries often receive frequent complaints and in certain cases legal action has been taken against them:
 - Amazon apologizes for concerns raised about Kindle Edition Normalized Page Count (KENPC) anomalies [3] 
 - AgeView Press published the ebook title "Flying Solo" on Amazon's Kindle Direct via the Createspace e-store and filed a complaint about incorrect sales reporting. [2]
 - Spotify settled a $20 million dispute with music publishers for the failure to report and pay licensing fees for distribution of copyright material [1].
@@ -68,15 +70,15 @@ Not only limited to online bookstores, intermediaries often receive frequent com
 
 ### Inability to Direct Market
 
-Acting as intermediaries, online bookstores control the ownership, custody and storage of customer information and sales data. Only a small subset of this data is shared with the authors and publishers, which hampers their ability to track sales and gain insights into their reader's behaviour and interests. 
+As intermediaries, online bookstores control the ownership, custody and storage of customer information and sales data. Only a small subset of this data is shared with the authors and publishers, which hampers their ability to track sales and gain insights into their reader's behaviour and interests. 
 
-The lack of customer contact information also means that authors are unable to communicate directly with their fan base for feedback, make announcements and release early drafts of their works to interested readers.
+The lack of customer contact information also means that authors are unable to communicate directly with their fan base for feedback, make announcements and to easily release early drafts and rough cuts.
 
 This lack of customer and sales information ultimately creates a missed marketing opportunity for authors and publishers to generate new sales.
 
 ### Fake Reviews that Impact Sales
 
-Most online bookstores provide book review sections that are open to anyone for posting comments and reviews. There have been known cases where individuals that have not purchased or read the material have written reviews. In fact, there are third party services that can be hired with teams of writers who can write positive endorsements about certain books in order to progress them further up best selling lists. In some cause it has been known that authors themselves have written favourably about their own books and negative of others in order to create an unfair advantage. 
+Most online bookstores provide book review sections that are open to anyone to post comments. There have been known cases where individuals that have not purchased or read the material have written reviews. In fact, there are third party services that can be hired with teams of writers who can write positive endorsements about certain books in order to progress them further up best selling lists. In some cause it has been known that authors themselves have written favourably about their own books and negative of others in order to create an unfair advantage. 
 
 - In 2016, Orlando Figes, a respected history professor at Birkbeck, University of London was discovered to have posted fake reviews on Amazon lavishing high praise on his own book whilst describing other books as 'awful'. [5]
 
@@ -130,7 +132,7 @@ Transaction level privacy.
 
 This means that only certain accounts will be able to access specific information as the result of a sale of digital content. For example, the author of a digital book will be able to view certain details that have been authorised by the reader who bought their book, and the reader will only be able to view the digital content that they have bought.
 
-## Sales Models 
+## Smart Contract Sales  
 
 There will be two different sales models for published content that will be controlled by smart contracts on the Lightstreams blockchain.
 
