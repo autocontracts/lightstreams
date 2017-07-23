@@ -10,7 +10,7 @@ This white paper outlines plans by Autonomous Contracts[[1]](http://autocontract
 
 The Lightstreams network will be a new independent blockchain that enable any individual or business to publish digital content directly to consumers, replacing traditional online intermediaries such as Amazon, Spotity or Netflix. 
 
-Lightstreams is made possible through the new generation of Web 3.0 technology[[3]](https://nextconf.eu/2016/09/next16-blockchain-will-build-web-3-0-says-jamie-burke/) built upon blockchain and smart contract technology[[4]](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/). This includes the award winning[[5]](https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html) Permissioned Blocks[[6]](https://github.com/autocontracts/permissioned-blocks) protocol developed by Autonomous Contracts. 
+Lightstreams is made possible through the new generation of Web 3.0 technology[[3]](https://nextconf.eu/2016/09/next16-blockchain-will-build-web-3-0-says-jamie-burke/) built upon blockchain and smart contract technology[[4]](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/). This includes the award winning[[5]](https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html) Permissioned Blocks protocol[[6]](https://github.com/autocontracts/permissioned-blocks) developed by Autonomous Contracts. 
 
 Traditional online intermediaries provide the channel for content to reach global audiences via the internet. To handle the loading requirements, intermediaries must own and maintain large centralised computer infrastructure to enable this global scale. 
 
@@ -21,9 +21,9 @@ Traditional online intermediaries provide the channel for content to reach globa
 </p>
 <br>
 
-Lightstream's disruptive technology makes the necessity of such icentralised nfrastructure for distributing digital content obsolete. Instead, by using a peer-to-peer file sharing model, consumers themselves will provide the infrastructure to scale.  
+Lightstream's disruptive technology makes the necessity of such icentralised nfrastructure for distributing digital content obsolete. Instead, by using a peer-to-peer file sharing model[[7]](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing), consumers themselves will provide the infrastructure to scale.  
 
- For example, using only a laptop, an author publishes a title of an e-book to the Lightstreams network. A customer who purchases the title, downloads a copy directly from the author's laptop to their computer. When a second customer purchases the e-book, they download parts of the e-book simultaneously from the author and the first customer's devices. The author could disconnect his laptop from the network and the e-book would continue to sell, as a third customer would download content from the first and second customers and so forth. Since the payments are executed using blockchain technology, the author can reconnect to the network at any time and collect his earnings. Here we see that the customers have inherently provided the scaled network infrastructure as demand for the e-book increases.
+For example, using only a laptop, an author publishes a title of an e-book to the Lightstreams network. A customer who purchases the title, downloads a copy directly from the author's laptop to their computer. When a second customer purchases the e-book, they download parts of the e-book simultaneously from the author and the first customer's devices. The author could disconnect his laptop from the network and the e-book would continue to sell, as a third customer would download content from the first and second customers and so forth. Since the payments are executed using blockchain technology, the author can reconnect to the network at any time and collect his earnings. Here we see that the customers have inherently provided the scaled network infrastructure as demand for the e-book increases.
 
 <p align="center">
 <img src="/images/peer-to-peer-distribution.png">
@@ -54,9 +54,9 @@ Lightstream's initial focus will be the development of a publishing channel for 
 
 High sales fees for using online sales channels mean that authors receive 50% less revenue for their content than if they were able to sell directly to the customer. 
 
-For example a book valued at $9.99 sold on Amazon, has the following fees:
+For example a book valued at $9.99 sold on Amazon, has the following fees[[8]](https://kdp.amazon.com/en_US/help/topic/A29FL26OKE7R7B):
 
-1. For a standard sale, an approximate 48% fee is charged; this comprises a 30% platform fee plus and an electronic delivery fee of $2.58.
+1. For a standard sale[[9]](http://andrewhy.de/amazons-markup-of-digital-delivery-to-indie-authors-is-129000/), an approximate 48% fee is charged; this comprises a 30% platform fee plus and an electronic delivery fee of $2.58.
 
 2. For a subscription sale, an approximate 50% fee is charged. This is calculated using the subscription fee structure, where the author receives $0.00496 per page read, with a max payout of $5.00 for a 1000 page book.
 
@@ -67,10 +67,10 @@ If the Author also chooses to use a publishing house for printing and distriubut
 Authors have no ability to trace and verify the sales data generated by online bookstores. This lack of transparent data provenance creates a lack of trust in the acuracy of the data that is provided by the online bookstores. Also, non-standard calculation of sales creates confusion and frustration.  
 
 Incorrect sales reporting is not only limited to online bookstores, many intermediaries often receive frequent complaints and in certain cases legal action has been taken against them:
-- Amazon apologizes for concerns raised about Kindle Edition Normalized Page Count (KENPC) anomalies. [3] 
-- AgeView Press filed a complaint about incorrect sales reporting for an ebook published titlef "Flying Solo" on Amazon's Kindle Direct via the Createspace e-store. [2]
-- Spotify settled a $20 million dispute with music publishers for the failure to report and pay licensing fees for distribution of copyright material [1].
-- RootZoo sues Facebook for overcharging of advertising fees by incorrectly reporting on advertisement clicks [4].
+- Amazon apologizes for concerns raised about Kindle Edition Normalized Page Count (KENPC)[[10]](https://kdp.amazon.com/en_US/help/topic/AI3QMVN4FMTXJ) anomalies. [[11]](https://teleread.org/2016/10/08/amazon-kdp-select-authors-are-losing-page-reads-apparently-due-to-software-glitches/) 
+- AgeView Press filed a complaint about incorrect sales reporting for an ebook published titlef "Flying Solo" on Amazon's Kindle Direct via the Createspace e-store. [[12]]( https://jeanettevaughan.wordpress.com/2012/09/28/do-amazon-and-createspace-rip-off-indie-publishers-with-failure-to-correctly-report-sales/)
+- Spotify settled a $20 million dispute with music publishers for the failure to report and pay licensing fees for distribution of copyright material [[13]](https://www.nytimes.com/2016/03/18/business/media/spotify-reaches-settlement-with-publishers-in-licensing-dispute.html).
+- RootZoo sues Facebook for overcharging of advertising fees by incorrectly reporting on advertisement clicks [[14]](http://www.campaignlive.co.uk/article/rootzoo-sues-facebook-ad-click-dispute/920220).
 
 ### Inability to Direct Market to Consumers
 
@@ -266,12 +266,12 @@ It is envisioned that the Lightstreams Foundation will be domiciled in Switzerla
 - [[4]](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/) "A Gentle Introduction to Smart Contracts" by Antony Lewis https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts
 - [[5]](https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html) Permissioned Blocks - Hackathon Win! Consensus 2017
 - [[6]](https://github.com/autocontracts/permissioned-blocks) Permissioned Blocks White Paper https://github.com/autocontracts/permissioned-blocks
-
-[1] http://andrewhy.de/amazons-markup-of-digital-delivery-to-indie-authors-is-129000/
-
-[1] https://www.nytimes.com/2016/03/18/business/media/spotify-reaches-settlement-with-publishers-in-licensing-dispute.html
-[2] https://jeanettevaughan.wordpress.com/2012/09/28/do-amazon-and-createspace-rip-off-indie-publishers-with-failure-to-correctly-report-sales/
-[3] https://teleread.org/2016/10/08/amazon-kdp-select-authors-are-losing-page-reads-apparently-due-to-software-glitches/
-[4] http://www.campaignlive.co.uk/article/rootzoo-sues-facebook-ad-click-dispute/920220
-[5] http://www.dailymail.co.uk/news/article-1393412/Amazon-TripAdvisor-centre-scandal-companies-post-fake-reviews.html?ito=feeds-newsxml
+- [[7]](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) Wikipedia: Peer-to-peer file sharing
+- [[8]](https://kdp.amazon.com/en_US/help/topic/A29FL26OKE7R7B) Amazon Kindle Direct Publishing Fees https://kdp.amazon.com/en_US/help/topic/A29FL26OKE7R7B
+- [[9]](http://andrewhy.de/amazons-markup-of-digital-delivery-to-indie-authors-is-129000/) Amazon’s markup of digital delivery to indie authors is ~129,000% by Andrew Hyde
+- [[10]](https://kdp.amazon.com/en_US/help/topic/AI3QMVN4FMTXJ) Royalties in Kindle Unlimited and Kindle Owners' Lending Library
+- [[11]](https://teleread.org/2016/10/08/amazon-kdp-select-authors-are-losing-page-reads-apparently-due-to-software-glitches/) Amazon KDP Select authors are losing page reads, apparently due to software glitches by David VanDyke 
+- [[12]]( https://jeanettevaughan.wordpress.com/2012/09/28/do-amazon-and-createspace-rip-off-indie-publishers-with-failure-to-correctly-report-sales/) Do Amazon and Createspace rip off Indie publishers with failure to correctly report sales? https://jeanettevaughan.wordpress.com/2012/09/28/do-amazon-and-createspace-rip-off-indie-publishers-with-failure-to-correctly-report-sales/
+- [[13]](https://www.nytimes.com/2016/03/18/business/media/spotify-reaches-settlement-with-publishers-in-licensing-dispute.html) Spotify Reaches Settlement With Publishers in Licensing Dispute, New York Time March 17, 2016 https://www.nytimes.com/2016/03/18/business/media/spotify-reaches-settlement-with-publishers-in-licensing-dispute.html
+- [[14]](http://www.campaignlive.co.uk/article/rootzoo-sues-facebook-ad-click-dispute/920220) RootZoo sues Facebook over ad click dispute 
 
