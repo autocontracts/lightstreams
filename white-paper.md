@@ -148,7 +148,7 @@ The Lightstreams blockchain will be an Ethereum compliant network operating as a
 <p align="center">
 <img src="/images/lightstreams-architecture.png">
 <br>
-<b>Lightstreams Architecture</b> 
+<b>Lightstreams Architecture</b> - A high level architecture overview.
 </p>
 
 ## Scaling to a Global Audience
