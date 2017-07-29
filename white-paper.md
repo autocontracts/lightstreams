@@ -264,6 +264,20 @@ The Lightstreams Foundation will primarily purpose will be to maintain a core te
 
 It is envisioned that the Lightstreams Foundation will be domiciled in Switzerland with development teams located primarilty in Germany and Spain.
 
+## Roadmap
+
+Lightstreams has already finished its prototyping phase and plans launching of the network in Q4 2017. The following roadmap outlines the project's planned timeline:
+
+| Project Phase / Milestone | Date      | Comments                                                                                                                                                                                                                                                                                                                                                  |
+|---------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Prototype                 | Completed | The prototype of using the Permissions Blocks protocol for content publishing has already been completed and demonstrated and won an award in May 2017 at the Consensus Hackathon 2017.                                                                                                                                                                   |
+| Seed raising round        | Aug 2017  | A seed raising round will be conducted in order to fund the project to the network launch date of Q1 2018.                                                                                                                                                                                                                                                |
+| Network launch            | Q1 2018   | It is planned that the network will launch in early 2018 where the first token of the platform will be available for sale. A major fundraising event will occur upon launch of the platform with the sale of LST tokens will occur and customers will be immediately able to purchase digital content that is added to the network by content producers.  |
+| Desktop client MVP        | Q1 2018   | The Minimal Viable Product version of the Lightstreams Desktop Client will be available for download. This will have a minimum function set for selling and purchasing of digital content.                                                                                                                                                                |
+| Desktop client v1         | Q2 2018   | Version 1 of the Lightstreams Desktop Client will be available for download, which will have a more comprehensive function set.                                                                                                                                                                                                                           |
+| Discovery Service         | Q2 2018   | The Lightstreams Discovery Service will be launched which will better assist users to search and browse for content.                                                                                                                                                                                                                                      |
+| Mobile client v1          | Q3 2018   | The Lightstream Moble Client will be launched where customers can install an app on their tablet or mobile for reading content.              
+
 ## Citations
 
 - [[1]](http://autocontracts.io/) Autonomous Contracts http://autocontracts.io/
