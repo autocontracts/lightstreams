@@ -94,13 +94,15 @@ Lightstreams mission is to create a publishing network for digital content rangi
 
 ### The Lightstreams Token
 
-The Lightstreams network will consist of a hybrid blockchain network that is based on the Ethereum codebase but in an independant chain. Rather than Ether as the cyptocurrency, the Lightstreams network will function by a Lightstreams token (LST) that has a unit value called a Photon.
+The Lightstreams network will consist of a hybrid blockchain network that is based on the Ethereum codebase but in an independant chain. Rather than Ether (ETH), the Lightstreams network will function by a Lightstreams token (LST) that has a unit value called a Photon.
 
-The utility of the LST token will be for:
+The utility function of the LST token will be for the facilitation of:
 
 1. Purchasing digital content.
 2. Rewarding users for giving quality reviews of content.
 3. Governance of the network where voting power is based upon sales revenue.
+
+Note: The Lightstreams Token (LST) is not a not a digital currency, security or commodity. 
 
 Unlike the Ethereum network, there will be no token rewards given miners, as miners as such will not exist on the Lightstreams network. This is because Lightstream will use a Proof of Authority (PoA) consensus algorithm as opposed to a Proof of Work (PoW) consensus algorithm. 
 
