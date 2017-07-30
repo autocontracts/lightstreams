@@ -116,7 +116,7 @@ The current value chain for digital books from the producer to consumer is via p
 
 Through Lightstream peer-to-peer network model, authors will be able to publish books directly to their readers. This will disintermidate both the traditional publishers and online bookstores that exist today.
 
-This will result in the redistribution of sales revenue significantly in the favor of producers of that content. It will also mean, there is no delay in producers receiving payments. As sales of occur, smart contracts will instantly distribute LST tokens into digital wallets of producers, which can be exchanged at any time for fiat currency.
+This will result in the redistribution of sales revenue significantly in the favor of producers of that content. It will also mean, there is no delay in producers receiving payments. As sales of occur, smart contracts will instantly distribute LST tokens into the digital wallets of producers. The LST token can the be exchanged at any time for the equivalent amount of fiat currency.
 
 ### In depth Customer and Sales Data
 
