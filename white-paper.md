@@ -235,23 +235,27 @@ In order to protect the network from malicious smart contracts being published, 
 
 ## Governance
 
-Authors with the highest number of sales above a certain threshold per year and per subject category will be invited to become network validators. Network validators have the responsibility to:
+Authors with the highest number of sales above a certain threshold per year and per subject category will be invited to become network validators. 
+
+Note: Authors may outsource the operational aspects of being a validator whilst retaining control and oversight. 
+
+Network validators have the responsibility to:
 
 1. To inspect network transactions to ensure that they are valid, and then broadcast these valid transactions in blocks to the rest of the network.
 2. Propose new resolutions to be voted by the community via smart contracts.
 3. Propose and decide by majority vote, an arbitrator for resolving any transaction disputes.
 
-In order to host a validator node, validators will need to ensure that they build their node to a specified standard to enusure a minimum level of security and transaction throughput.
+In order to host a validator node, validators will need to ensure that they build their node to a specified standard to ensure a minimum level of security and transaction throughput.
 
 ## The Lightstreams Client
 
 The Lightstreams client software will be open sourced licenced software. Key functional improvements will be specified via community proposals that are also voted on by the community. The Lightstreams Foundation will, however, reserve the right to veto specific proposals.
 
-Development of client features will be undertken by both community volunteers and core developers of the Lightstream Foundation. The Lightstream client will be initially developed for two target categories; desktop and mobile devices.
+Development of client features will be undertaken by both open source development and core developers of the Lightstream Foundation. The Lightstream client will be initially developed for two target categories; desktop and mobile devices.
 
-Desktop clients will contain the full feature set of the Lightstreams client. It is envisions that the primary use of the desktop client will be for content producers to add and manage their digital content. However consumers may also prefer to use this client to access content.
+Desktop clients will contain the full feature set of the Lightstreams client. It is envisioned that the primary use of the desktop client will be for content producers to add and manage their digital content. However consumers may also prefer to use this client to access content.
 
-The mobile version will be a light client version that will be optimised for tablet and mobile phone devices. Due to network bandwidth and processing contraints not all features will be available on this version.
+The mobile version will be a light client version that will be optimised for tablet and mobile phone devices. Due to network bandwidth and processing constraints not all features will be available on this version.
 
 ## Go to Market Plan
 
