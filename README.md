@@ -1,7 +1,9 @@
+
+<p align="center">**** ANNOUNCEMENT ****</p> <p align="center">Upcoming token sale: http://lightstreams.network </p>
+
 # Lightstreams Content Publishing
 
 Lightstreams is a decentralised content publishing network. 
-
 
 ## Run Client
 
