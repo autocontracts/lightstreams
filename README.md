@@ -7,8 +7,6 @@ Lightstreams is a decentralised content publishing network.
 
 ## Run Client
 
-A executable file will be available for download soon...
-
 For now, a docker image has been created as the easiest way to run the lightstream client, with all the environment settings setup for you. If you don't have Docker installed on your machine follow these instructions [here](https://docs.docker.com/engine/installation/). 
 
 Then run the following command:
