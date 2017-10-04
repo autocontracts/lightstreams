@@ -1,10 +1,9 @@
-<p align="center">**** ANNOUNCEMENT ****</p> <p align="center">Upcoming token sale: http://lightstreams.network </p>
-
 <h1 align="center">Lightstreams White Paper</h1>
 <p align="center">
 By <a href="https://mikesmo.github.io/">Michael Smolenski</a>
 </p>
 
+<p align="center">**** ANNOUNCEMENT ****</p> <p align="center">Upcoming token sale: http://lightstreams.network </p>
 
 ## Introduction
 
@@ -306,3 +305,4 @@ Lightstreams has already finished its prototyping phase and plans to launch the 
 - [[17]](https://github.com/ethereum/wiki/wiki/Mining) Ethereum Mining https://github.com/ethereum/wiki/wiki/Mining
 - [[18]](https://cointelegraph.com/news/why-blockchain-needs-proof-of-authority-instead-of-proof-of-stake) Why Blockchain Needs ‘Proof of Authority’ Instead of ‘Proof of Stake’ https://cointelegraph.com/news/why-blockchain-needs-proof-of-authority-instead-of-proof-of-stake 
 - [[19]](https://tendermint.com/) Tendermint - Byzantine fault-tolerant replicated state machines in any programming language https://tendermint.com/
+
