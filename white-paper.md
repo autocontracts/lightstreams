@@ -38,6 +38,7 @@ By using a peer-to-peer distribution model, Lightstreams will have a superior ad
 - Redistributing the revenue proceeds in favor of the producers.
 - Creating a community controlled network where producers of digital content can benefit from its success.
 - Creating a protocol layer that allows the integration of additional services to the network.
+- Making the process completely transparent.
 
 The initial goal of the Lightstreams network and the scope of this paper is the development of a publishing channel for digital books, with the particular focus on the academic and technical books. By selecting this niche market category, we believe that this will give the greatest opportunity to maximise market traction by targeting the most likely early adopters, IT and technical professionals.
 
@@ -103,6 +104,7 @@ The utility of the LST token will be for:
 1. Purchasing digital content.
 2. Rewarding users for giving quality reviews of content.
 3. Governance of the network, where voting power is based upon sales revenue.
+4. Rewarding users for sharing content.
 
 Unlike the Ethereum network, there will be no token rewards given miners, for solving a Proof of Work (PoW) consensus algorithm[[17]](https://github.com/ethereum/wiki/wiki/Mining). This is because Lightstream will instead use a Proof of Authority (PoA) consensus algorithm[[18]](https://cointelegraph.com/news/why-blockchain-needs-proof-of-authority-instead-of-proof-of-stake).
 
@@ -116,7 +118,9 @@ The current value chain for digital books from the producer to consumer is via p
 
 Through the Lightstream peer-to-peer network model, authors will be able to publish books directly to their readers. This will disintermediate both the traditional publishing houses and online bookstores that exist today.
 
-This will result in the redistribution of sales revenue significantly in the favor of producers of digital content. It will also mean, there is no delay in producers receiving payments. As sales of occur, smart contracts will instantly distribute LST tokens into the digital wallets of producers, which can be exchanged at any time for fiat currency.
+This will result in the redistribution of sales revenue significantly in the favor of producers of digital content. It will also mean, there is no delay in producers receiving payments of LST coins into their digital wallets, which can be exchanged at any time for fiat currency.
+
+Note: In order to protect consumers from situations of fraud, new authors without a reputation, may be required to have the revenue they earn held in the smart contract of the content being sold for a short period of time. If the content being sold infringes upon a copyright or is not as advertised then consumers will have the ability to report these abuses. In these situations, consumers will be refunded and the smart contract will be destroyed.
 
 ### In depth Customer and Sales Data
 
@@ -131,6 +135,8 @@ All permissioned data that is recorded by smart contracts will be immediately av
 Users of the Lightstreams network will have the ability to follow producers of content and themes that producers tag their works. This will serve as a twitter like communication medium where users will be able to be directly informed about subjects and content that interest them.
 
 Customers who have purchased content will also be able to direct feedback to content producers who have opted in for this service. Using the Permissioned Blocks protocol, all direct feedback will be private with the option for producers to enable selected feedback to become public.
+
+Content Producers will also be able to reward customers with tokens for recommending content they have bought to people in their network.
 
 ### Credible Customer Reviews
 
@@ -213,7 +219,7 @@ At the end of each month the total LST tokens collected for the month per subjec
 
 ## Lightstreams Discovery Service
 
-The lightstreams network will provide a discovery service for readers to search and browse for books and content available for sale. Readers will be able to search via book subject, author, popularity or promoted works. Upon selection of a book, the reader can choose to view the content based on a direct or subscription based purchase depending upon the sales model.
+The Lightstreams network will provide a discovery service for readers to search and browse for books and content available for sale. Readers will be able to search via book subject, author, popularity or promoted works. Upon selection of a book, the reader can choose to view the content based on a direct or subscription based purchase depending upon the sales model.
 
 Just as any online bookstore, the discovery service will provide information about books to aid readers in their purchasing decision:
 
@@ -232,7 +238,7 @@ Since the Lightstreams is a peer to peer network, consensus is required between 
 
 Validators do not charge a fee for validating transactions. Instead validators are incentivised by having a stake in the successful operation of the network. Therefore validators will be selected by those participants that maintain the highest sales volumes.
 
-In order to protect the network from malicious smart contracts being published, validators will only permit lightstream contracts to be added to the blockchain. The lightstream contracts will be multi-signature contract templates, where both the author and the lightstreams Foundation need to sign the contract. The Lightstreams Foundation will only sign valid smart contracts.
+In order to protect the network from malicious smart contracts being published, validators will only permit lightstream contracts to be added to the blockchain. The lightstream contracts will be multi-signature contract templates, where both the author and the Lightstreams Foundation need to sign the contract. The Lightstreams Foundation will only sign valid smart contracts.
 
 ## Governance
 
@@ -277,12 +283,14 @@ Lightstreams has already finished its prototyping phase and plans to launch the 
 | Project Phase / Milestone | Date      | Comments                                                                                                                                                                                                                                                                                                                                                  |
 |---------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Prototype                 | Completed | The prototype of using the Permissions Blocks protocol for content publishing has already been completed and demonstrated and won an award in May 2017 at the Consensus Hackathon 2017.                                                                                                                                                                   |
-| Pre-Token Sale        | Sep 2017  | Pre-Token Sale event will be conducted to fund the project to the network launch date of Q1 2018.                                                                                                                                                                                                                                                |
+| Pre-Token Sale            | Q4 2017   | Pre-Token Sale event will be conducted to fund the project to the network launch date of Q1 2018.                                                                                                                                                                                                                                                |
 | Network launch            | Q1 2018   | It is planned that the network will launch in early 2018 where the first token of the platform will be available for sale. A major fundraising event will occur upon launch of the platform with the sale of LST tokens will occur, and customers will be immediately able to purchase digital content that is added to the network by content producers.  |
-| Desktop client MVP        | Q1 2018   | The Minimal Viable Product version of the Lightstreams Desktop Client will be available for download. This will have a minimum function set for selling and purchasing of digital content.                                                                                                                                                                |
-| Desktop client v1         | Q2 2018   | Version 1 of the Lightstreams Desktop Client will be available for download, which will have a more comprehensive function set.                                                                                                                                                                                                                           |
-| Discovery Service         | Q2 2018   | The Lightstreams Discovery Service will be launched which will better assist users to search and browse for content.                                                                                                                                                                                                                                      |
-| Mobile client v1          | Q3 2018   | The Lightstream Mobile Client will be launched where customers can install an app on their tablet or mobile for reading content.        
+| Desktop client MVP        | Q2 2018   | The Minimal Viable Product version of the Lightstreams Desktop Client will be available for download. This will have a minimum function set for selling and purchasing of digital content.                                                                                                                                                                |
+| Desktop client v1         | Q3 2018   | Version 1 of the Lightstreams Desktop Client will be available for download, which will have a more comprehensive function set.                                                                                                                                                                                                                           |
+| Discovery Service         | Q3 2018   | The Lightstreams Discovery Service will be launched which will better assist users to search and browse for content.                                                                                                                                                                                                                                      |
+| Mobile client MVP         | Q4 2018   | MVP Mobile Client will be launched where customers will be able to test the minimum functionalities for read and discover content.        
+| Mobile client v1          | Q1 2019   | The Lightstream Mobile Client will be launched where customers can install an app on their tablet or mobile for reading or uploading content.        
+| API/SDK                   | Q2 2019   | Release of an API / SDK to allow third parties to build on top of Lightstreams Network.        
 
 ## Citations
 
