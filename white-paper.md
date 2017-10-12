@@ -118,7 +118,9 @@ The current value chain for digital books from the producer to consumer is via p
 
 Through the Lightstream peer-to-peer network model, authors will be able to publish books directly to their readers. This will disintermediate both the traditional publishing houses and online bookstores that exist today.
 
-This will result in the redistribution of sales revenue significantly in the favor of producers of digital content. It will also mean, there is no delay in producers receiving payments. As sales of occur, smart contracts will hold LST tokens for a small amount of time to avoid fraud situations and distribute into the digital wallets of producers, which can be exchanged at any time for fiat currency.
+This will result in the redistribution of sales revenue significantly in the favor of producers of digital content. It will also mean, there is no delay in producers receiving payments of LST coins into their digital wallets, which can be exchanged at any time for fiat currency.
+
+Note: In order to protect consumers from situations of fraud, new authors without a reputation, may be required to have the revenue they earn held in the smart contract of the content being sold for a short period of time. If the content being sold infringes upon a copyright or is not as advertised then consumers will have the ability to report these abuses. In these situations, consumers will be refunded and the smart contract will be destroyed.
 
 ### In depth Customer and Sales Data
 
@@ -132,7 +134,9 @@ All permissioned data that is recorded by smart contracts will be immediately av
 
 Users of the Lightstreams network will have the ability to follow producers of content and themes that producers tag their works. This will serve as a twitter like communication medium where users will be able to be directly informed about subjects and content that interest them.
 
-Customers who have purchased content will also be able to direct feedback to content producers who have opted in for this service. They will be able also to get tokens sharing the content that they already bought. Using the Permissioned Blocks protocol, all direct feedback will be private with the option for producers to enable selected feedback to become public.
+Customers who have purchased content will also be able to direct feedback to content producers who have opted in for this service. Using the Permissioned Blocks protocol, all direct feedback will be private with the option for producers to enable selected feedback to become public.
+
+Content Producers will also be able to reward customers with tokens for recommending content they have bought to people in their network.
 
 ### Credible Customer Reviews
 
