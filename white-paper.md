@@ -3,11 +3,11 @@
 By <a href="https://mikesmo.github.io/">Michael Smolenski</a>
 </p>
 
-<p align="center">**** ANNOUNCEMENT ****</p> <p align="center">Upcoming token sale: http://Lightstreams.network </p>
+<p align="center">**** ANNOUNCEMENT ****</p> <p align="center">Upcoming token sale: http://lightstreams.network </p>
 
 ## Introduction
 
-This white paper outlines plans by Autonomous Contracts[[1]](http://autocontracts.io/) to develop the Lightstreams Network[[2]](http://Lightstreams.io/), a peer-to-peer digital publishing network for content ranging from books, magazines, music, TV to movies. 
+This white paper outlines plans by Autonomous Contracts[[1]](http://autocontracts.io/) to develop the Lightstreams Network[[2]](http://lightstreams.io/), a peer-to-peer digital publishing network for content ranging from books, magazines, music, TV to movies. 
 
 The Lightstreams network will be a new independent blockchain that enables any individual or business to publish digital content directly to consumers, replacing traditional online intermediaries such as Amazon, Spotify or Netflix.
 
@@ -150,7 +150,7 @@ The Lightstreams blockchain will be an Ethereum compliant network operating as a
 - It will use a Proof of Authority (PoA) consensus algorithm to enable high transaction throughput and governance features.
 
 <p align="center">
-<img src="/images/Lightstreams-architecture.png">
+<img src="/images/lightstreams-architecture.png">
 <br>
 <b>Lightstreams Architecture</b> - A high level architecture overview.
 </p>
@@ -291,7 +291,7 @@ Lightstreams has already finished its prototyping phase and plans to launch the 
 ## Citations
 
 - [[1]](http://autocontracts.io/) Autonomous Contracts http://autocontracts.io/
-- [[2]](http://Lightstreams.io/) The Lightstream Network http://Lightstreams.io/
+- [[2]](http://lightstreams.io/) The Lightstream Network http://lightstreams.io/
 - [[3]](https://nextconf.eu/2016/09/next16-blockchain-will-build-web-3-0-says-jamie-burke/) Blockchain wil Build Wedb 3.0, Jamie Burke https://nextconf.eu/2016/09/next16-blockchain-will-build-web-3-0-says-jamie-burke/
 - [[4]](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/) "A Gentle Introduction to Smart Contracts" by Antony Lewis https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts
 - [[5]](https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html) Permissioned Blocks - Hackathon Win! Consensus 2017 https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html
