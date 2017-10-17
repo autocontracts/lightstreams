@@ -35,3 +35,60 @@ To clean up:
 $ docker stop device-2
 $ docker rm device-2
 ```
+
+## Download the chain
+
+Lightstreams uses the following clients for managing the Lightstreams blockchain
+- [Ethermint](https://github.com/tendermint/ethermint) - Is based on a folk of the Go-Ethereum (Geth) client
+- [Tendermint](https://github.com/tendermint/tendermint) - A consensus engine that used PoA instead of PoW
+
+Download the following binaries from the Tendermint website for your operating system
+https://tendermint.com/downloads
+- Ethermint
+- Tendermint
+
+Unzip these binaries into your executing path of you OS. 
+
+For example, for a macOS, open the terminal and switch to the folder:
+
+```
+$ unzip -d /usr/local/bin ethermint_0.4.0_darwin-10.6-amd64.zip
+$ unzip -d /usr/local/bin tendermint_0.10.3_darwin_amd64.zip
+```
+
+Clone lightstreams 
+```
+$ git clone https://github.com/lightstreams/lightstreams.git
+$ cd lightstreams
+```
+
+### Initialise 
+
+Make a directory for the Lightstreams and copy genesis
+```
+$ mkdir -p ~/.lightstreams/tendermint
+$ cp config/tendermint/genesis.json ~/.lightstreams/tendermint
+```
+
+Initialise Ethermint 
+```
+$ ethermint --datadir ~/.lightstreams init config/ethereum/genesis.json
+```
+
+### Run 
+
+Run Tendermint
+```
+$ tendermint --home ~/.lightstreams/tendermint node --p2p.seeds '35.202.8.19:46656,35.188.125.85:46656,35.184.16.47:46656'
+```
+
+In another console window, run ethermint
+```
+$ ethermint --datadir ~/.lightstreams
+```
+
+### Conneting Geth
+
+```
+$ geth attach http://localhost:8545
+```
