@@ -3,8 +3,6 @@
 By <a href="https://mikesmo.github.io/">Michael Smolenski</a>
 </p>
 
-<p align="center">**** ANNOUNCEMENT ****</p> <p align="center">Upcoming token sale: http://lightstreams.network </p>
-
 ## Introduction
 
 This white paper outlines plans by Autonomous Contracts[[1]](http://autocontracts.io/) to develop the Lightstreams Network[[2]](http://lightstreams.io/), a peer-to-peer digital publishing network for content ranging from books, magazines, music, TV to movies. 
