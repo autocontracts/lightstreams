@@ -1,9 +1,6 @@
+# Lightstreams Network
 
-<p align="center">**** ANNOUNCEMENT ****</p> <p align="center">Upcoming token sale: http://lightstreams.network </p>
-
-# Lightstreams Content Publishing
-
-Lightstreams is a decentralised content publishing network. 
+[Lightstreams](http://lightstreams.network) is a distributed content publishing network. What makes Lightstreams unique is its authorisation protocol that allows owners of smart contracts to consent to others to access confidential or copyright data.
 
 ## Run Client
 
