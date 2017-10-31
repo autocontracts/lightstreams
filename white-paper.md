@@ -1,4 +1,4 @@
-<h1 align="center">Lightstreams White Paper</h1>
+<h1 align="center"><a href="http://www.lightstreams.network">Lightstreams</a> White Paper</h1>
 <p align="center">
 By <a href="https://mikesmo.github.io/">Michael Smolenski</a>
 </p>
@@ -7,9 +7,9 @@ By <a href="https://mikesmo.github.io/">Michael Smolenski</a>
 
 This white paper outlines plans by Autonomous Contracts[[1]](http://autocontracts.io/) to develop the Lightstreams Network[[2]](http://lightstreams.io/), a peer-to-peer digital publishing network for content ranging from books, magazines, music, TV to movies. 
 
-The Lightstreams network will be a new independent blockchain that enables any individual or business to publish digital content directly to consumers, replacing traditional online intermediaries such as Amazon, Spotify or Netflix.
+The [Lightstreams network](http://lightstreams.network) will be a new independent blockchain that enables any individual or business to publish digital content directly to consumers, replacing traditional online intermediaries such as Amazon, Spotify or Netflix.
 
-Lightstreams is made possible through the new generation of Web 3.0 technology[[3]](https://nextconf.eu/2016/09/next16-blockchain-will-build-web-3-0-says-jamie-burke/) built upon blockchain and smart contract technology[[4]](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/). Blockchain technology that includes the award winning [Permissioned Blocks](https://github.com/autocontracts/permissioned-blocks/blob/master/whitepaper.md) protocol developed by Autonomous Contracts. [[5]](https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html) [[6]](https://github.com/autocontracts/permissioned-blocks) 
+[Lightstreams](http://lightstreams.network) is made possible through the new generation of Web 3.0 technology[[3]](https://nextconf.eu/2016/09/next16-blockchain-will-build-web-3-0-says-jamie-burke/) built upon blockchain and smart contract technology[[4]](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/). Blockchain technology that includes the award winning [Permissioned Blocks](https://github.com/autocontracts/permissioned-blocks/blob/master/whitepaper.md) protocol developed by Autonomous Contracts. [[5]](https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html) [[6]](https://github.com/autocontracts/permissioned-blocks) 
 
 Today, traditional online intermediaries provide the channel to distribute content to a global audience via the internet. To reach this scale, intermediaries must own and maintain large centralised computer infrastructure to handle the loading requirements of such audiences.
 
@@ -289,6 +289,12 @@ Lightstreams has already finished its prototyping phase and plans to launch the 
 | Mobile client MVP         | Q4 2018   | MVP Mobile Client will be launched where customers will be able to test the minimum functionalities for read and discover content.        
 | Mobile client v1          | Q1 2019   | The Lightstream Mobile Client will be launched where customers can install an app on their tablet or mobile for reading or uploading content.        
 | API/SDK                   | Q2 2019   | Release of an API / SDK to allow third parties to build on top of Lightstreams Network.        
+
+## More resources
+- [Lighstreams website](http://lightstreams.network)
+- [Telegram group](https://t.me/joinchat/DZfAhw2IZSYcQchG3DPWaQ)
+- [Twitter](https://twitter.com/lightstreams_io)
+- [Blog](https://medium.com/lightstreams)
 
 ## Citations
 
