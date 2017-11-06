@@ -38,9 +38,7 @@ By using a peer-to-peer distribution model, Lightstreams will have a superior ad
 - Creating a protocol layer that allows the integration of additional services to the network.
 - Making the process completely transparent.
 
-The initial goal of the Lightstreams network and the scope of this paper is the development of a publishing channel for digital books, with the particular focus on the academic and technical books. By selecting this niche market category, we believe that this will give the greatest opportunity to maximise market traction by targeting the most likely early adopters, IT and technical professionals.
-
-Once traction has been established in this niche market, horizontal expansion into other book categories will occur. Following this, Lightstreams will expand to other forms of digital content such as music and video streaming. 
+The scope of this paper describes a publishing channel for digital books, however the scope of the Lightstreams project extends to all forms of digital content such as music and video streaming.
 
 The Lightstreams network will be capable of music and video streaming via the IPFS[[8]](https://ipfs.io/) protocol layer, which is a proven peer-to-peer file distribution technology for serving content in format.
 
@@ -208,6 +206,8 @@ An author can opt to sell their content via a subscription sales model. Using th
 Subscription contracts will be divided into subject categories. Readers will pay a monthly LST subscription fee in order to gain access to unlimited content within the subject category controlled by the subscription contract. At any time the reader can decide to discontinue paying the monthly subscription fee, upon which their membership will be removed.
 
 At the end of each month the total LST tokens collected for the month per subject category is distributed to the authors less the Lightstreams service fee. The tokens will be divided and distributed by the ratio of pages accessed per book. If a book has more than 1000 pages, then the total number of pages for calculation purposes is capped to a 1000 pages.
+
+Authors are rewarded by providing quality content to new subject categories by taking a greater proportion of the funds that later authors who join once the subject category becomes more popular.
 
 <p align="center">
 <img src="/images/subscription-contract.png">
