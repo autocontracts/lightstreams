@@ -76,7 +76,7 @@ $ ethermint --datadir ~/.lightstreams init config/ethereum/genesis.json
 
 Run Tendermint
 ```
-$ tendermint --home ~/.lightstreams/tendermint node --p2p.seeds '35.202.8.19:46656,35.188.125.85:46656,35.184.16.47:46656'
+$ tendermint --home ~/.lightstreams/tendermint node --p2p.seeds '35.193.87.136:46656,35.192.228.28:46656,35.192.64.32:46656'
 ```
 
 In another console window, run ethermint
