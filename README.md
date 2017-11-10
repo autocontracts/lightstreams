@@ -41,8 +41,8 @@ Lightstreams uses the following clients for managing the Lightstreams blockchain
 
 Download the following binaries from the Tendermint website for your operating system
 https://tendermint.com/downloads
-- Ethermint
-- Tendermint
+- Ethermint (0.4.0)
+- Tendermint (0.10.3)
 
 Unzip these binaries into your executing path of you OS. 
 
