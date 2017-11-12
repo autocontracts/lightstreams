@@ -7,7 +7,7 @@
           "type": "ed25519",
           "data": "92554298268CAE8521EF57C79BAA6CABFEF757954819A53D58A3D26E73527FC5"
         },
-        "amount": 10,
+        "power": 10,
         "name": "validator1"
       },
       {
@@ -15,7 +15,7 @@
           "type": "ed25519",
           "data": "D64D3C50CFD4DF84166F74DD7E488296ED443537B473A76391E3F30EA0E11156"
         },
-        "amount": 10,
+        "power": 10,
         "name": "validator2"
       },
       {
@@ -23,7 +23,7 @@
           "type": "ed25519",
           "data": "804305DD52DD47187BFBC7861ACC0BC3CCF5AF232C439410A68FDFA6657D408F"
         },
-        "amount": 10,
+        "power": 10,
         "name": "validator3"
       },
       {
@@ -31,7 +31,7 @@
           "type": "ed25519",
           "data": "2D42779DAA57159D12A47AABC8E4C4CAECE864F93037DCB6F3E3C2A511E5F655"
         },
-        "amount": 10,
+        "power": 10,
         "name": "validator4"
       }
     ],
