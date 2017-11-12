@@ -39,18 +39,21 @@ Lightstreams uses the following clients for managing the Lightstreams blockchain
 - [Ethermint](https://github.com/tendermint/ethermint) - Is based on a folk of the Go-Ethereum (Geth) client
 - [Tendermint](https://github.com/tendermint/tendermint) - A consensus engine that used PoA instead of PoW
 
-Download the following binaries from the Tendermint website for your operating system
-https://tendermint.com/downloads
-- Ethermint (0.4.0)
-- Tendermint (0.10.3)
+Build from source the following versions
+- Ethermint (0.5.3)
+- Tendermint (0.12.0)
 
-Unzip these binaries into your executing path of you OS. 
+Ensure you are using go 1.8.3
+``` 
+$ go get -u -d github.com/tendermint/ethermint
+$ cd $GOPATH/src/github.com/tendermint/ethermint
+$ git reset --hard b72a1eef6edca2e8dfe03296fc665de025a5ae78
+$ make install
 
-For example, for a macOS, open the terminal and switch to the folder:
-
-```
-$ unzip -d /usr/local/bin ethermint_0.4.0_darwin-10.6-amd64.zip
-$ unzip -d /usr/local/bin tendermint_0.10.3_darwin_amd64.zip
+$ go get -u github.com/tendermint/tendermint/cmd/tendermint
+$ cd $GOPATH/src/github.com/tendermint/tendermint
+$ git reset --hard e236302256b8b0b75441e8e44c6d0d3f5b5152c6 
+$ go install ./cmd/tendermint
 ```
 
 Clone lightstreams 
