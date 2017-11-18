@@ -5,13 +5,13 @@ By <a href="https://mikesmo.github.io/">Michael Smolenski</a>
 
 ## Introduction
 
-This white paper outlines plans by Autonomous Contracts[[1]](http://autocontracts.io/) to develop the Lightstreams Network[[2]](http://lightstreams.io/), a peer-to-peer digital publishing network for content ranging from books, magazines, music, TV to movies. 
+This white paper outlines plans by Autonomous Contracts[[1]](http://autocontracts.io/) to develop the [Lightstreams network](http://lightstreams.network)[[2]](http://lightstreams.io/), a peer-to-peer digital publishing network for content ranging from books, magazines, music, TV to movies and more.
 
-The [Lightstreams network](http://lightstreams.network) will be a new independent blockchain that enables any individual or business to publish digital content directly to consumers, replacing traditional online intermediaries such as Amazon, Spotify or Netflix.
+The Lightstreams network will be an independent blockchain that is an Ethereum hybrid enabling any individual or business to publish digital content directly to consumers, replacing traditional online intermediaries such as Amazon, Spotify or Netflix.
 
 [Lightstreams](http://lightstreams.network) is made possible through the new generation of Web 3.0 technology[[3]](https://nextconf.eu/2016/09/next16-blockchain-will-build-web-3-0-says-jamie-burke/) built upon blockchain and smart contract technology[[4]](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/). Blockchain technology that includes the award winning [Permissioned Blocks](https://github.com/autocontracts/permissioned-blocks/blob/master/whitepaper.md) protocol developed by Autonomous Contracts. [[5]](https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html) [[6]](https://github.com/autocontracts/permissioned-blocks) 
 
-Today, traditional online intermediaries provide the channel to distribute content to a global audience via the internet. To reach this scale, intermediaries must own and maintain large centralised computer infrastructure to handle the loading requirements of such audiences.
+Today, traditional online intermediaries provide the distribution channel to deliver content to a global audience via the internet. To reach this scale, intermediaries own and maintain a large centralised computer infrastructure in order to handle the loading requirements of such audiences.
 
 <p align="center">
 <img src="/images/centralised-distribution.png">
@@ -20,9 +20,9 @@ Today, traditional online intermediaries provide the channel to distribute conte
 </p>
 <br>
 
-Lightstream's disruptive technology makes such centralised infrastructure for distributing digital content obsolete. Instead, by using a peer-to-peer file sharing model[[7]](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing), consumers themselves will provide the necessary infrastructure to scale.
+Lightstream's disruptive technology makes such centralised infrastructure for distributing digital content obsolete. Instead, by using a peer-to-peer file sharing model[[7]](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing), network participants will provide the necessary infrastructure in order for the network to scale globally.
 
-For example, using only a laptop, an author publishes a title of an e-book to the Lightstreams network. A customer who purchases the title downloads a copy directly from the author's laptop to their computer. When a second customer purchases the e-book, they download parts of the e-book simultaneously from the author and the first customer's devices. The author could disconnect his laptop from the network, and the e-book would continue to sell, as a third customer would download content from the first and second customers and so forth. Since the payments are executed using blockchain technology, the author can reconnect to the network at any time and collect his earnings. In this example, we see that the network infrastructure has scaled as demand for the e-book increases by using the customer's devices.
+Consider the following example, using only a laptop, an author publishes a title of an e-book to the Lightstreams network. A customer who purchases the book downloads a copy directly from the author's laptop to their tablet. When a second customer purchases the e-book, they download parts of the e-book simultaneously from the author and the first customer. The author could disconnect his laptop from the network, and the e-book would continue to sell, as a third customer could download content from the first and second customers and so forth. Since the payments are executed using blockchain technology, the author will continue to be paid even though they are offline. This demonstrates how the Lightstreams uses the participant's devices in the network as the infrastructure to scale and provide the bandwidth as demand increases.
 
 <p align="center">
 <img src="/images/peer-to-peer-distribution.png">
@@ -30,19 +30,18 @@ For example, using only a laptop, an author publishes a title of an e-book to th
 <b>Lightstreams Model</b> - Distribution of digital content directly to consumers via a peer-to-peer network that dynamically scales as demand increases.
 </p>
 
-The current state of digital publishing is that of an oligopoly market where only a few internet firms have a significant majority of market share. As such, the incumbents can tightly control the distribution channel and charge high fees while providing a less than ideal service.
+The current state of digital distribution is that of an oligopoly marketplace where only a few internet firms have the majority of the market share. As such, the incumbents tightly control the distribution channel and charge high fees while providing a less than ideal service for artists. By artists, we refer to authors, musicians, composers, songwriters, online course producers,  directors of self-made videos and any other creator of digital content.
 
-By using a peer-to-peer distribution model, Lightstreams will have a superior advantage over incumbents by:
-- Redistributing the revenue proceeds in favor of the producers.
-- Creating a community controlled network where producers of digital content can benefit from its success.
-- Creating a protocol layer that allows the integration of additional services to the network.
-- Making the process completely transparent.
+By using a peer-to-peer distribution model, Lightstreams will create a network with the following principles:
+- A revenue model that gives a fair share to the artist.
+- A network the incentivises participants for being good stewards and building the community.
+- Promotes ever-expanding features by allowing for new and innovative applications and services to be built upon the network protocol. 
 
 The scope of this paper describes a publishing channel for digital books, however the scope of the Lightstreams project extends to all forms of digital content such as music and video streaming.
 
-The Lightstreams network will be capable of music and video streaming via the IPFS[[8]](https://ipfs.io/) protocol layer, which is a proven peer-to-peer file distribution technology for serving content in format.
+The discussion of this paper is limited to creating a publishing channel for the distribution of digital books for the purpose of illustrating the use and benefits of the Lightstreams network. However, the scope of Lightstreams is not limited to digital books as the technology has been designed with audio and video streaming capabilities in mind using an IPFS[[8]](https://ipfs.io/) protocol layer. Therefore topics discussed in this paper are applicable to all forms of digital content inclusive of audio and video streaming.
 
-The Lightstream network will be an Ethereum based blockchain network that has smart contract capabilities. Smart contracts, along with a digital token known as a Lightstream token will be the key feature of the network. The utility value of the token will be through the facilitation of purchasing digital content. 
+Lightstreams will be an Ethereum-hybrid network inheriting many of the features of the Ethereum network by keeping feature releases synchronised with the main Ethereum code base. A digital token known as a Photon (PHT) token will be the cryptocurrency of the network. The primary utility value of the Photon will be in the facilitation of purchasing digital content.
 
 ## Problems with Content Publishing Today
 
