@@ -88,22 +88,18 @@ Lightstreams mission is to create a publishing network for all things digital. A
 
 ## Features
 
-### The Lightstreams Token
+### The Lightstreams Photon Token
 
-The Lightstreams network will consist of an independent blockchain that is Ethereum compliant. Rather than Ether as the network cryptocurrency, the Lightstreams network will operate through a Lightstreams token (LST) that will have a unit value called a <b>Photon</b>.
+The Lightstreams network will consist of an independent blockchain that is Ethereum based and compliant. Rather than Ether (ETH) as the native network cryptocurrency, the Lightstreams network will process payments via a cryptocurrency that will have a unit value called a Photon (PHT).
 
-The utility of the LST token will be for:
+The utility of the PHT token is for:
 
 1. Purchasing digital content.
-2. Rewarding users for giving quality reviews of content.
-3. Governance of the network, where voting power is based upon sales revenue.
-4. Rewarding users for sharing content.
+2. Rewarding participants for actions that encourage the growth of the network.
+3. Rewarding validators for creating blocks.
+4. Governance of the network, where voting power is based upon sales.
 
-Unlike the Ethereum network, there will be no token rewards given miners, for solving a Proof of Work (PoW) consensus algorithm[[17]](https://github.com/ethereum/wiki/wiki/Mining). This is because Lightstream will instead use a Proof of Authority (PoA) consensus algorithm[[18]](https://cointelegraph.com/news/why-blockchain-needs-proof-of-authority-instead-of-proof-of-stake).
-
-By employing a PoA blockchain configuration will result in a highly scalable network that has an order of magnitude in transaction throughput over tradition Ethereum, and will allow for the implementation of a unique governance system.
-
-The sale of LST tokens during a fundraising event will determine the initial distribution of tokens. The number of tokens in circulation will remain fixed.
+A token sale event will determine the initial allocation of PHT tokens between accounts describe in a genesis block.
 
 ### Disintermediation of Traditional Publishers and Sales Channels
 
@@ -229,11 +225,16 @@ A listing fee will be charged for publishing the book on the marketplace. The fe
 
 ## Network Consensus
 
-Since the Lightstreams is a peer to peer network, consensus is required between nodes to determine the valid state of the network. Standard Ethereum uses a Proof-of-Work(PoW) algorithm to achieve consensus. However, PoW does not scale well, with transaction throughputs of ~10 transactions per second. Lightstream will instead use a Proof-of-Authority (PoA) algorithm where a set of "validator" nodes that are explicitly allowed to create new blocks and secure the blockchain. Using a PoA algorithm such as Tendermint[[19]](https://tendermint.com/) will allow for an order of magnitude increase in scalability ~10,000 transactions per second while also allowing for a governance model for chain maintenance and keep the block issuers accountable.
+A blockchain is distributed network that requires consensus between nodes in order to determine the valid state of the network at any given point in time. 
 
-Validators do not charge a fee for validating transactions. Instead validators are incentivised by having a stake in the successful operation of the network. Therefore validators will be selected by those participants that maintain the highest sales volumes.
+The Ethereum network uses a Proof of Work (PoW) consensus[[17]](https://github.com/ethereum/wiki/wiki/Mining) model where validator nodes known as miners validate transactions. Validators are incentivised to validate transactions by being rewarded with tokens if they can solve a complicated algorithm before the other validators in the network.
 
-In order to protect the network from malicious smart contracts being published, validators will only permit lightstream contracts to be added to the blockchain. The lightstream contracts will be multi-signature contract templates, where both the author and the Lightstreams Foundation need to sign the contract. The Lightstreams Foundation will only sign valid smart contracts.
+However, PoW does not scale well, with an overall network throughput of ~10 transactions per second. Lightstreams will instead use a Proof-of-Authority (PoA)[[18]](https://cointelegraph.com/news/why-blockchain-needs-proof-of-authority-instead-of-proof-of-stake) consensus algorithm where a set of "validator" nodes that are explicitly allowed to create new blocks and secure the blockchain. Using a PoA algorithm such as Tendermint[[19]](https://tendermint.com/) will allow for an order of magnitude increase in scalability ~10,000 transactions per second while also allowing for a governance model for chain maintenance and keep the block issuers accountable.
+
+Lightstreams validators will earn a fee for validating transactions. Nodes that achieve a certain level of sales on the network will have the option to become validators. Validators will be required to pass a  
+Validators are incentivised by having a stake in the successful operation of the network. Therefore validators will be selected by those participants that maintain the highest sales volumes.
+
+In order to protect the network from malicious smart contracts being published, validators will only permit contracts that have been certified by Lightstreams Foundation to become part of the blockchain. In order to permit this behaviour smart contracts will be multi-signature where both the artist and an account operated by the Lightstreams Foundation will need to have signed for a validator to accept the transaction.  
 
 ## Governance
 
