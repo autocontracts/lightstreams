@@ -35,7 +35,7 @@ The current state of digital distribution is that of an oligopoly marketplace wh
 By using a peer-to-peer distribution model, Lightstreams will create a network with the following principles:
 - A revenue model that gives a fair share to the artist.
 - A network the incentivises participants for being good stewards and building the community.
-- Promotes ever-expanding features by allowing for new and innovative applications and services to be built upon the network protocol. 
+- Promotes an ever-expanding set of applications and services by allowing open access for anyone to use and build upon infrastructure. 
 
 The scope of this paper describes a publishing channel for digital books, however the scope of the Lightstreams project extends to all forms of digital content such as music and video streaming.
 
