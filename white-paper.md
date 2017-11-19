@@ -133,12 +133,12 @@ Reviewers will be incentivised by receiving PHT tokens that are awarded to them 
 
 ## Blockchain Architecture
 
-The Lightstreams blockchain will be an Ethereum compliant network operating as an independent chain with the following features:
+The Lightstreams blockchain will be an independent Ethereum-based blockchain with the following features:
 
-- It will be a public network such that any user can openly connect and transmit transactions on the network.
-- It will have an Ethereum compliant API that wil be kept synchronised with the latest version of Etheruem.
-- It will use the Permissioned Blocks protocol for the privacy of customer information.
-- It will use a Proof of Authority (PoA) consensus algorithm to enable high transaction throughput and governance features.
+- It will be an open public network such that any user can connect and transmit transactions on the network.
+- It will have an Ethereum compliant API that will be kept synchronised with the latest version of Ethereum.
+- It will use the Permissioned Blocks protocol for the privacy and confidentiality of customer information.
+- It will use a Proof of Authority (PoA) consensus algorithm.
 
 <p align="center">
 <img src="/images/lightstreams-architecture.png">
@@ -146,24 +146,32 @@ The Lightstreams blockchain will be an Ethereum compliant network operating as a
 <b>Lightstreams Architecture</b> - A high level architecture overview.
 </p>
 
-## Scaling to a Global Audience
+## Scaling for Global Demand
 
-The Lightstreams network will scale globally through a peer-to-peer file sharing protocol known as Permissioned Blocks. Using this technology means it becomes unnecessary for an intermediary to provide the infrastructure for distributing content. Instead, the consumers of content in the network provide the infrastructure inherently through the devices that they are using. A feature of peer-to-peer file sharing networks is that as demand increases for content so does bandwidth scale for serving that content.
+The Lightstreams network will dynamically scale for distributing content via a private peer-to-peer file-sharing protocol known as Permissioned Blocks. The benefit of using a peer-to-peer file sharing protocol it that this eliminates the need for any intermediary to provide the distribution infrastructure. Instead, the network participants provide the infrastructure via their own devices. This means that as demand increases so does bandwidth increase for distributing content.
 
-Each device in the network will store downloaded content on a modified version of IPFS, which is a distributed file sharing layer that is part of the Permissioned Blocks protocol. As part of the Permissioned Blocks protocol, IPFS has been modified such that content is only shared with those that have been permissioned to read the content, that is, users who have paid to view content.
+Each node in the network will store content on a modified version of IPFS, a file sharing layer that is part of the Permissioned Blocks protocol. The protocol will operate such that content is only shared with those that have been authorised, that is, they purchased the content.
+
+## Seeding Services
+
+Authors that do not wish to keep their node connected to the network can choose a seeding service for their books available to readers to download. These seeding nodes will provide this service for a fee that will host their books in a temporary cache until the content reaches a level of demand that it can be self-sustaining in the network.
+
+The fee will be a scaling price structure based on the size of the content. This will avoid scenarios where the seeding services could be maliciously attacked with large files.
 
 ## Smart Contract Sales
 
-There will be two different sales models for digital content that will be governed by smart contracts on the Lightstreams blockchain.
+The network will initially have two different models for selling content that will be controlled by smart contracts.
 
-- A direct sale between producer and consumer.
-- A subscription sale where a consumer pays a monthly fee to access content.
+- A direct sale between author and reader.
+- A subscription sale where a subscriber pays a monthly fee to read content from a subject category.
+
+A benefit of using a smart contract is that the allocation of sales revenue is completely transparent and traceable to all network. 
 
 ### Direct Sales
 
-In a direct sale, the author sets the price of their book for sale. This price is set as an amount in LST tokens. At any time the author can choose to adjust the price of their book. Authors can also update the version of a published book at any time, and readers who have purchased the book will be able to view the most up to date version, or any previous version.
+In a direct sale, the author sets the price of their book as an amount of PHT tokens. At any time the author can choose to adjust the price of their book and the version of a published book. Readers who have purchased the book will be able to view the most up to date version, or any previous version.
 
-Accessing content will be governed by a direct sales smart contract. Using the Permissioned Blocks protocol, the smart contract will only grant access to the digital content to those that have purchased the content.
+Consuming content will be governed by a smart contract such that only that have purchased the content are granted access to the content in order to download to their network node.
 
 The process of a direct sale is as follows:
 
@@ -192,13 +200,14 @@ The process of a direct sale is as follows:
 
 ### Subscription Sales
 
-An author can opt to sell their content via a subscription sales model. Using this model, an author will earn revenue based upon a normalised price per page accessed by the reader. To utilise this model, the author attaches their digital book to a smart contract that uses Permissioned Blocks technology to control access to each page of the book. The smart contract only permits readers that are members of a subscription contract to access pages.
+In a subscription sales model, an author will earn revenue based upon a normalised price per page accessed by readers. 
+Access to each page of the book will be controlled by a smart contract that only permits readers that are subscribers to a book subject category.
 
-Subscription contracts will be divided into subject categories. Readers will pay a monthly LST subscription fee in order to gain access to unlimited content within the subject category controlled by the subscription contract. At any time the reader can decide to discontinue paying the monthly subscription fee, upon which their membership will be removed.
+Readers will pay a monthly fee in PHT tokens for each subject category they subscribe to. At any time the reader can decide to discontinue paying the subscription fee, upon which they will be unable to download content.
 
-At the end of each month the total LST tokens collected for the month per subject category is distributed to the authors less the Lightstreams service fee. The tokens will be divided and distributed by the ratio of pages accessed per book. If a book has more than 1000 pages, then the total number of pages for calculation purposes is capped to a 1000 pages.
+At the end of each month, the total PHT tokens collected for a subject category will be distributed to the authors less a service fee. The tokens will be divided and distributed by the ratio of pages accessed per book. If a book has more than 1000 pages, then the total number of pages is capped at 1000 pages.
 
-Authors are rewarded by providing quality content to new subject categories by taking a greater proportion of the funds that later authors who join once the subject category becomes more popular.
+Authors are rewarded for adding content to new subject categories such that they will take a greater proportion of the funds than authors who join once the subject category becomes popular.
 
 <p align="center">
 <img src="/images/subscription-contract.png">
