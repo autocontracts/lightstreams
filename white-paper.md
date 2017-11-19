@@ -245,13 +245,13 @@ In order to protect the network from malicious smart contracts being published, 
 
 ## Governance
 
-Authors with the highest number of sales above a certain threshold per year and per subject category will be invited to become network validators. 
+Authors with the high sales per year and per subject category will be invited to become network validators.
 
 Note: Authors may outsource the operational aspects of being a validator whilst retaining control and oversight. 
 
-Network validators have the responsibility to:
+Network validators will have the responsibility to:
 
-1. To inspect network transactions to ensure that they are valid, and then broadcast these valid transactions in blocks to the rest of the network.
+1. To inspect network transactions to ensure that they are valid, and then broadcast these valid transactions as blocks to the rest of the network.
 2. Propose new resolutions to be voted by the community via smart contracts.
 3. Propose and decide by majority vote, an arbitrator for resolving any transaction disputes.
 
@@ -263,15 +263,15 @@ The Lightstreams client software will be open sourced licenced software. Key fun
 
 Development of client features will be undertaken by both open source development and core developers of the Lightstream Foundation. The Lightstream client will be initially developed for two target categories; desktop and mobile devices.
 
-Desktop clients will contain the full feature set of the Lightstreams client. It is envisioned that the primary use of the desktop client will be for content producers to add and manage their digital content. However consumers may also prefer to use this client to access content.
+Desktop clients will contain the full feature set of the Lightstreams client. It is envisioned that the primary use of the desktop client will be for content producers to add and manage their digital content. However, consumers may also prefer to use this client to access content.
 
-The mobile version will be a light client version that will be optimised for tablet and mobile phone devices. Due to network bandwidth and processing constraints not all features will be available on this version.
+The mobile version will be a light client version that will be optimised for tablet and mobile phone devices. Due to network bandwidth and processing constraints, not all features will be available in this version.
 
 ## Go to Market Plan
 
 The initial goal of the Lightstreams network and the scope of this paper is the development of a publishing channel for digital books, with the particular focus on the academic and technical books. By selecting this niche market category, we believe that this will give the greatest opportunity to maximise market traction by targeting the most likely early adopters, IT and technical professionals.
 
-Once traction has been established in this niche market, horizontal expansion into other book categories will occur. Following this, Lightstreams will expand to other forms of digital content such as music and video streaming.
+Once traction has been established and the network hardened to servce this niche market, horizontal expansion into other book categories will occur. Following this, Lightstreams will expand to other forms of digital content such as music and video streaming.
 
 ## The Lightstreams Foundation
 
@@ -281,12 +281,11 @@ It is envisioned that the Lightstreams Foundation will be domiciled in Switzerla
 
 ## Roadmap
 
-Lightstreams has already finished its prototyping phase and plans to launch the network in Q1 2018. The following roadmap outlines the project's planned timeline:
+Lightstreams has already finished its prototyping phase and plans to launch the network in Q1 2018. The following roadmap outlines the project's planned timeline.
 
 | Project Phase / Milestone | Date      | Comments                                                                                                                                                                                                                                                                                                                                                  |
 |---------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Prototype                 | Completed | The prototype of using the Permissions Blocks protocol for content publishing has already been completed and demonstrated and won an award in May 2017 at the Consensus Hackathon 2017.                                                                                                                                                                   |
-| Pre-Token Sale            | Q4 2017   | Pre-Token Sale event will be conducted to fund the project to the network launch date of Q1 2018.                                                                                                                                                                                                                                                |
+| Prototype                 | Completed | The prototype of using the Permissions Blocks protocol for content publishing has already been completed and demonstrated and won an award in May 2017 at the Consensus Hackathon 2017.                                                                                                                                                                                                                                                                                                                                                                                                              |
 | Network launch            | Q1 2018   | It is planned that the network will launch in early 2018 where the first token of the platform will be available for sale. A major fundraising event will occur upon launch of the platform with the sale of LST tokens will occur, and customers will be immediately able to purchase digital content that is added to the network by content producers.  |
 | Desktop client MVP        | Q2 2018   | The Minimal Viable Product version of the Lightstreams Desktop Client will be available for download. This will have a minimum function set for selling and purchasing of digital content.                                                                                                                                                                |
 | Desktop client v1         | Q3 2018   | Version 1 of the Lightstreams Desktop Client will be available for download, which will have a more comprehensive function set.                                                                                                                                                                                                                           |
