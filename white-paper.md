@@ -101,37 +101,35 @@ The utility of the PHT token is for:
 
 A token sale event will determine the initial allocation of PHT tokens between accounts describe in a genesis block.
 
-### Disintermediation of Traditional Publishers and Sales Channels
+### Disintermediation of Traditional Intermediaries
 
-The current value chain for digital books from the producer to consumer is via publishers and sales channels. Sales channels being in the form of online bookstores, where currently Amazon Bookstore having the greatest market share.
+The value chain for digital books from the author to readers is via publishing houses and online bookstores, where currently Amazon Bookstore has the greatest market share.
 
-Through the Lightstream peer-to-peer network model, authors will be able to publish books directly to their readers. This will disintermediate both the traditional publishing houses and online bookstores that exist today.
+By using the Lightstream peer-to-peer network, authors will be able to publish books directly to their readers, disintermediate both the traditional publishing houses and online bookstores.
 
-This will result in the redistribution of sales revenue significantly in the favor of producers of digital content. It will also mean, there is no delay in producers receiving payments of LST coins into their digital wallets, which can be exchanged at any time for fiat currency.
+This will result in the redistribution of sales revenue significantly in the favour of authors. It will also mean, there is no delay in receiving payments, as authors will receive PHT coins directly from readers into their digital wallets.
 
-Note: In order to protect consumers from situations of fraud, new authors without a reputation, may be required to have the revenue they earn held in the smart contract of the content being sold for a short period of time. If the content being sold infringes upon a copyright or is not as advertised then consumers will have the ability to report these abuses. In these situations, consumers will be refunded and the smart contract will be destroyed.
+Note: In order to protect consumers from situations of fraud, new authors without a reputation, may be required to have the revenue they earn on sales held in the smart contract for a short period of time. This will be in order to ensure that if the content being sold infringes upon any copyright or is not as advertised then consumers will have the ability to report such abuse. If complaints reach certain levels then consumers will be refunded and the smart contract related to the content destroyed.
 
-### In depth Customer and Sales Data
+### Detailed Customer and Sales Data
 
-Customer information and sales history will be recorded by smart contracts that execute on the Lightstreams blockchain network. Unlike current blockchain systems, this data will be privately stored and available only to those that have been granted permission. This capability will be provided by the Permissioned Blocks protocol. This is a decentralised data storage system based upon IPFS that only allows those that have been permitted to read the private data.
+Customer information and sales history will be recorded by smart contracts that execute on the Lightstreams network. This data will be confidentially and available only to the author and those that have been granted permission. This feature will be based upon a distributed secure vault that is part of the Permissioned Blocks protocol.
 
-All sales activity of a book will only be available to authors and those that authors have granted permission. Customer information such as gender, location and reading preferences will be an opt in service chosen by those readers who wish to share this information with authors.
+All sales activity of a book will only be available to authors. Customer information such as gender, location and reading preferences will be opt-in by readers that wish to share this information.
 
-All permissioned data that is recorded by smart contracts will be immediately available to authors in real time.
+Data that is recorded by smart contracts will be immediately available to authors in real time. Since Lightstreams will be an open protocol, any third party can create analytical tools and services for authors to interpret this raw data.
 
-### A Direct Customer Communication Channel
+### An Open Communication Channel
 
-Users of the Lightstreams network will have the ability to follow producers of content and themes that producers tag their works. This will serve as a twitter like communication medium where users will be able to be directly informed about subjects and content that interest them.
+Users of the Lightstreams network will have the ability to follow authors and themes. This will serve as a twitter-like communication channel where users will be able to follow authors and subjects matters of their interest.
 
-Customers who have purchased content will also be able to direct feedback to content producers who have opted in for this service. Using the Permissioned Blocks protocol, all direct feedback will be private with the option for producers to enable selected feedback to become public.
-
-Content Producers will also be able to reward customers with tokens for recommending content they have bought to people in their network.
+Authors will also be able to opt-in to a service where customers who have purchased content will be able to send their feedback. Authors can choose feedback to be either a private or public channel.
 
 ### Credible Customer Reviews
 
-Authors will have the option to have their books reviewed by users of the system. Users will be graded based upon their activity using the network. This grading system will form part of a credibility rating score for reviewers of content. Users can then judge the value of the reviewer's feedback based upon this score. 
+Authors will have the option to have their books reviewed by users of the system. Users will receive karma point similar to Reddit based on their activity. This grading system will form part of a credibility rating score for reviews. Those that do not have enough karma point will not be able to post reviews. Users will have the ability to upvote and downvote reviews.
 
-Reviewers will be incentivised by receiving LST tokens that are awarded to them by users who enjoy the quality of their reviews. This grading by other users will also feed back into the reveiwer’s credibility score.
+Reviewers will be incentivised by receiving PHT tokens that are awarded to them for upvotes.
 
 ## Blockchain Architecture
 
