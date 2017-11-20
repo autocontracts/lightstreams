@@ -88,9 +88,9 @@ Lightstreams mission is to create a publishing network for all things digital. A
 
 ## Features
 
-### The Lightstreams Photon Token
+### The Photon Token
 
-The Lightstreams network will consist of an independent blockchain that is Ethereum based and compliant. Rather than Ether (ETH) as the native network cryptocurrency, the Lightstreams network will process payments via a cryptocurrency that will have a unit value called a Photon (PHT).
+The Lightstreams network will consist of an independent blockchain that is Ethereum based and compliant. Rather than Ether (ETH) as the native network cryptocurrency, the Lightstreams network will facilitate payments via a cryptocurrency that will have a unit value called a Photon (PHT).
 
 The utility of the PHT token is for:
 
