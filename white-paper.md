@@ -10,6 +10,12 @@ This white paper outlines plans to develop the [Lightstreams network](http://lig
 The Lightstreams network is a blockchain network that enables artists to publish digital content directly to consumers, replacing traditional online intermediaries including Amazon, Spotify or Netflix. Artists being musicians, authors, directors and any other digital content curator.
 
 The music streaming industry is a $16Bn market, on-demand video is $24Bn and the e-Books industry is $15Bn. These are healthy growing markets with growth rates between 6% to 15%. However, we believe these markets are open to disruption by the intersection of peer-to-peer file sharing and blockchain technology. This combination opens up the possibility for people to buy and sell content directly between one another.
+<p align="center">
+<img src="/images/peer-to-peer-sales.png">
+<br>
+<b>Peer-to-peer sales</b> - Direct sales of digital content.
+</p>
+<br>
 
 Most artists are fundamentally not happy with how the online digital content industry has evolved to leave them with a bad deal and with little control to do anything about it. 
 - <b>High Fees</B> — Intermediaries take up to 70% of sales.
