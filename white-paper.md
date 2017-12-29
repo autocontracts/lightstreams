@@ -5,7 +5,7 @@ By <a href="https://mikesmo.github.io/">Michael Smolenski</a>
 
 # Introduction
 
-This white paper outlines plans to develop the Lightstreams Network[Lightstreams network](http://lightstreams.network)[[2]](http://lightstreams.io/), a peer-to-peer digital publishing network for content ranging from books, magazines, music, TV to movies.
+This white paper outlines plans to develop the [Lightstreams network](http://lightstreams.network)[[2]](http://lightstreams.io/), a peer-to-peer digital publishing network for content ranging from books, magazines, music, TV to movies.
 
 The Lightstreams network is a blockchain network that enables artists to publish digital content directly to consumers, replacing traditional online intermediaries including Amazon, Spotify or Netflix. Artists being musicians, authors, directors and any other digital content creator.
 The music streaming industry is a $16Bn market, on-demand video is $24Bn and the e-Books industry is $15Bn. These are healthy growing markets with growth rates between 6% to 15%. However, we believe these markets are open to disruption by the intersection of peer-to-peer file sharing and blockchain technology. This combination opens up the possibility for people to buy and sell content directly between one another.
@@ -36,7 +36,7 @@ Lightstreams has identified the following pain points for artists selling conten
 ## High Fees
 
 High fees for using online sales channels mean artists receive 50-70% less revenue for content than if they were able to sell directly to the consumer.
-For example, a book valued at $9.99 sold on Amazon, has the following fees[9]](https://kdp.amazon.com/en_US/help/topic/A29FL26OKE7R7B):
+For example, a book valued at $9.99 sold on Amazon, has the following fees[[9]](https://kdp.amazon.com/en_US/help/topic/A29FL26OKE7R7B):
 1. For a standard sale, an approximate 48% fee is charged; this comprises a 30% platform fee plus and an electronic delivery fee of $2.58. [[10]](http://andrewhy.de/amazons-markup-of-digital-delivery-to-indie-authors-is-129000/)
 2. For a subscription sale, an approximate 50% fee is charged. This is calculated using the subscription fee structure, where the author receives $0.00496 per page read, with a max payout of $5.00 for a 1000 page book. 
 
