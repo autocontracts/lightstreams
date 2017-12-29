@@ -7,7 +7,8 @@ By <a href="https://mikesmo.github.io/">Michael Smolenski</a>
 
 This white paper outlines plans to develop the [Lightstreams network](http://lightstreams.network)[[2]](http://lightstreams.io/), a peer-to-peer digital publishing network for content ranging from books, magazines, music, TV to movies.
 
-The Lightstreams network is a blockchain network that enables artists to publish digital content directly to consumers, replacing traditional online intermediaries including Amazon, Spotify or Netflix. Artists being musicians, authors, directors and any other digital content creator.
+The Lightstreams network is a blockchain network that enables artists to publish digital content directly to consumers, replacing traditional online intermediaries including Amazon, Spotify or Netflix. Artists being musicians, authors, directors and any other digital content curator.
+
 The music streaming industry is a $16Bn market, on-demand video is $24Bn and the e-Books industry is $15Bn. These are healthy growing markets with growth rates between 6% to 15%. However, we believe these markets are open to disruption by the intersection of peer-to-peer file sharing and blockchain technology. This combination opens up the possibility for people to buy and sell content directly between one another.
 
 Most artists are fundamentally not happy with how the online digital content industry has evolved to leave them with a bad deal and with little control to do anything about it. 
