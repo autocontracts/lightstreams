@@ -1,179 +1,189 @@
-<h1 align="center"><a href="http://www.lightstreams.network">Lightstreams</a> White Paper</h1>
+<h1 align="center"><a href="http://www.lightstreams.network">Lightstreams White Paper</a></h1>
 <p align="center">
 By <a href="https://mikesmo.github.io/">Michael Smolenski</a>
 </p>
 
-## Introduction
+# Introduction
 
-This white paper outlines plans by Autonomous Contracts[[1]](http://autocontracts.io/) to develop the [Lightstreams network](http://lightstreams.network)[[2]](http://lightstreams.io/), a peer-to-peer digital publishing network for content ranging from books, magazines, music, TV to movies and more.
+This white paper outlines plans to develop the Lightstreams Network[Lightstreams network](http://lightstreams.network)[[2]](http://lightstreams.io/), a peer-to-peer digital publishing network for content ranging from books, magazines, music, TV to movies.
 
-The Lightstreams network will be an independent blockchain that is an Ethereum hybrid enabling any individual or business to publish digital content directly to consumers, replacing traditional online intermediaries such as Amazon, Spotify or Netflix.
+The Lightstreams network is a blockchain network that enables artists to publish digital content directly to consumers, replacing traditional online intermediaries including Amazon, Spotify or Netflix. Artists being musicians, authors, directors and any other digital content creator.
+The music streaming industry is a $16Bn market, on-demand video is $24Bn and the e-Books industry is $15Bn. These are healthy growing markets with growth rates between 6% to 15%. However, we believe these markets are open to disruption by the intersection of peer-to-peer file sharing and blockchain technology. This combination opens up the possibility for people to buy and sell content directly between one another.
 
-[Lightstreams](http://lightstreams.network) is made possible through the new generation of Web 3.0 technology[[3]](https://nextconf.eu/2016/09/next16-blockchain-will-build-web-3-0-says-jamie-burke/) built upon blockchain and smart contract technology[[4]](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/). Blockchain technology that includes the award winning [Permissioned Blocks](https://github.com/autocontracts/permissioned-blocks/blob/master/whitepaper.md) protocol developed by Autonomous Contracts. [[5]](https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html) [[6]](https://github.com/autocontracts/permissioned-blocks) 
+Most artists are fundamentally not happy with how the online digital content industry has evolved to leave them with a bad deal and with little control to do anything about it. 
+- <b>High Fees</B> — Intermediaries take up to 70% of sales.
+- <b>Lack of Transparency & Trust</b> — No access to raw sales figures. Intermediaries have been shown to incorrectly pay attribution and royalties fees.
+- <b>Limited Access to Funding</b> — New artists find it difficult to find investment.
+- <b>Fake Reviews & Impressions</b> — It is difficult to gauge who are genuine consumers of content versus bots.
 
-Today, traditional online intermediaries provide the distribution channel to deliver content to a global audience via the internet. To reach this scale, intermediaries own and maintain a large centralised computer infrastructure in order to handle the loading requirements of such audiences.
+The primary aims of the Lightstreams project are to:
+- Redistribute the revenue proceeds in favour of artists and to sustain the ecosystem through incentivising network participants.
+- Create a community controlled network where curators of digital content benefit from its success.
+- Design an open protocol that allows services to be built on top of the Lightstreams protocol stack to provide the best experience for network participants.
+
+Lightstreams will be made possible through the new generation of Web 3.0 technology[[3]](https://nextconf.eu/2016/09/next16-blockchain-will-build-web-3-0-says-jamie-burke/) built upon blockchain and smart contract technology[[4]](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/). Blockchain technology that includes the award-winning Permissioned Blocks protocol already developed by the Lightstreams team. [[5]](https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html) [[6]](https://github.com/autocontracts/permissioned-blocks) 
+
+The Lightstream network will be an Ethereum-compliant network and as such will have smart contract capabilities along with a digital token known as a Photon token. The primary utility value of the token will be through the facilitation of purchasing digital content.
+
+# Mission Statement
+
+Lightstreams’ mission is to give freedom back to artists so that they are ultimately in control of their content and not at the mercy of record labels, production companies, publishing houses and other intermediaries. A network owned and regulated by the community, where artists and fans can connect in a low cost, fair and open marketplace.
+
+# Content Publishing Problems
+
+Lightstreams has identified the following pain points for artists selling content online. 
+
+## High Fees
+
+High fees for using online sales channels mean artists receive 50-70% less revenue for content than if they were able to sell directly to the consumer.
+For example, a book valued at $9.99 sold on Amazon, has the following fees[9]](https://kdp.amazon.com/en_US/help/topic/A29FL26OKE7R7B):
+1. For a standard sale, an approximate 48% fee is charged; this comprises a 30% platform fee plus and an electronic delivery fee of $2.58. [[10]](http://andrewhy.de/amazons-markup-of-digital-delivery-to-indie-authors-is-129000/)
+2. For a subscription sale, an approximate 50% fee is charged. This is calculated using the subscription fee structure, where the author receives $0.00496 per page read, with a max payout of $5.00 for a 1000 page book. 
+
+## Lack of Transparency and Trust
+
+Intermediaries control the ownership, custody and storage of customer information and sales data they generate. Only a small subset of this data is shared with artists, which hampers their ability to track and verify sales and gain insights into their audiences behaviour and interests.
+
+The opaque data provenance creates a lack of trust in the accuracy of the data provided and there has been in certain cases legal action over incorrect sales reporting. Also, non-standard calculation of sales between intermediaries creates confusion and frustration.
+
+- Spotify settled a $20 million dispute with music publishers for the failure to report and pay licensing fees for distribution of copyrighted material. [[14]](https://www.nytimes.com/2016/03/18/business/media/spotify-reaches-settlement-with-publishers-in-licensing-dispute.html)
+- RootZoo sues Facebook for overcharging of advertising fees by incorrectly reporting on advertisement clicks. [[15]](http://www.campaignlive.co.uk/article/rootzoo-sues-facebook-ad-click-dispute/920220)
+- Amazon apologizes for concerns raised about Kindle Edition Normalized Page Count (KENPC)[[11]](https://kdp.amazon.com/en_US/help/topic/AI3QMVN4FMTXJ) anomalies. [[12]](https://teleread.org/2016/10/08/amazon-kdp-select-authors-are-losing-page-reads-apparently-due-to-software-glitches/) 
+- AgeView Press filed a complaint about incorrect sales reporting for an ebook published titled "Flying Solo" on Amazon's Kindle Direct via the Createspace e-store. [[13]]( https://jeanettevaughan.wordpress.com/2012/09/28/do-amazon-and-createspace-rip-off-indie-publishers-with-failure-to-correctly-report-sales/)
+
+## Fake Reviews and Impressions
+
+Most online sites provide open review sections for posting comments about content. This, however, is open to abuse by fake reviewers that are not genuine content consumers who post comments either in favour or not in favour of the material for various motives. 
+For example, within the e-book industry there are third party services that can be hired to write positive endorsements about books to progress them further up best selling lists. In some cases, it has been known that authors themselves have written favourably about their books and negative of others to create an unfair advantage.
+
+- Orlando Figes, a respected history professor at Birkbeck, University of London was discovered to have posted fake reviews on Amazon lavishing high praise on his own book whilst posting critical reviews of others. [[16]](https://www.theguardian.com/books/2010/jul/16/orlando-figes-fake-amazon-reviews)
+
+In terms audio or video content, there are bots that are used to increase the number of viewing impressions in order appear more popular and thus more attractive to advertisers to pay for advertising slots.
+
+## Limited Access to Funding
+
+Investment in new artists typically comes from investment channels like record labels, production companies or publishing houses. However, it can be difficult for the average artist to tap into these channels.
+Artists today also utilise CrowdFunding websites for raising funds, however these are typically through the goodwill of the public through donations. 
+
+On the investor side either the risk-reward is not right to invest in most artists or the complexity of tracking sales and distributing profits is not considered viable. 
+The lack of a standardised marketplace for investing in artists generally means many simply miss out on the opportunity to pursue their dreams.
+
+# Features
+
+## Direct Sales and Instant Payments
+
+The current value chain for distribution of digital content from are via online intermediaries including Amazon, Spotify, YouTube and Netflix. Lightstreams aim is to disintermediate these existing distribution models by employing a peer-to-peer network model where content curators can published directly to consumers. 
+
+By breaking the traditional model will eliminate the high fees and via using transparent smart contracts, sales revenue can be significantly aligned in favour of producers of digital content. 
+
+This will also mean there is no delay in artists being paid since smart contracts will distribute PHT tokens in real time their digital wallets as sales occur. The PHT tokens can then be exchanged at any time of their choosing to fiat currency.
+Content producers can select the sales model from their preference of:
+
+- <b>Pay-per-read</b> - A one-off payment to read text content per page.
+- <b>Pay-per-view</b> - A one-off payment to rent video content. 
+- <b>Licensed</b> - A licensed purchase of the content. 
+- <b>Subscription</b> - A monthly fee for access to a category of content.
+- <b>Advertisement</b> - Free access to content with revenue generated by advertising.
+
+## In-depth Customer and Sales Data
+
+Customer information and sales history will be recorded by smart contracts that execute on the Lightstreams blockchain network. This information will be only accessible to the owners of the smart contract and to those they granted permission via the Permissioned Blocks protocol. Permissioned Blocks utilises a decentralised storage network based upon IPFS with the additional capability that permits access to private data by authorised accounts.
+
+All sales activity will be available to content produces and those that they have grant permission. Customer information will be an opt-in service chosen by consumers who wish to share this information with content producers.
+All data recorded by smart contracts will be immediately available in real time.
+
+## Genuine Customer Reviews and Impressions
+
+Content producers will have the option to have their work reviewed by consumers who purchase content. Consumers will be graded on their activity using the network. This grading system will form part of a reputation score. Other users of the network can then judge the value of the reviewer's feedback based on their reputation.
+
+Reviewers will be incentivised by PHT tokens that can awarded to them by users who enjoy the quality of their reviews. The awarding of tokens to reviewers will also feed back into the reviewer’s credibility score.
+An Impression rating for the popularity of content will be on sales and an attention metric recorded by smart contracts. The attention metric will be derived from the type of content:
+
+- <b>Text</b> - Numbers of pages downloaded or lines of text scrolled
+- <b>Audio</b> - The length of time listening to a track.
+- <b>Video</b> - The length of time viewing a content.
+
+## Revenue Sharing Scheme
+
+Content producers will have the option to allocate sales revenues to investors who have funded the creation of their works. This mechanism will be automatically governed by smart contracts such that revenue is dispersed instantly and according to the terms of the agreement negotiated between the producers and investors. 
+
+This smart contract mechanism will provide a more efficient and transparent model over today’s accounting systems where it can take up to three months from the time content is streamed to when investors and artists are paid.
+
+By having a more efficient and transparent allocation of revenue will open up the possibility for micro-investments. Investors can diversify their portfolios and a greater amount of artists will be able to access funding.
+
+# Content Distribution
+
+The current state of digital publishing is of an oligopoly market where only a few internet firms have a significant majority of market share through tightly controlling the distribution channels. As a result they are able to in turn charge disproportionate fees for this service.
+
+In today’s online distribution model, intermediaries provide the channel for publisher distribute content to a global online audience. To reach this scale, intermediaries own and maintain large centralised computer infrastructure to handle the loading requirements of such demand.
 
 <p align="center">
 <img src="/images/centralised-distribution.png">
 <br>
-<b>Traditional Model</b> - Distribution of digital content to consumers globally via centralised intermediaries.
+<b>Traditional Distribution Model</b> - Distribution of digital content to consumers via centralised intermediaries.
 </p>
 <br>
 
-Lightstream's disruptive technology makes such centralised infrastructure for distributing digital content obsolete. Instead, by using a peer-to-peer file sharing model[[7]](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing), network participants will provide the necessary infrastructure in order for the network to scale globally.
+Lightstream believes that by employing a peer-to-peer file sharing model[[7]](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing), the existing business model can be disrupted. Instead of relying on a centralised entity to provide the infrastructure for distribution, network participants themselves will provide the necessary infrastructure to scale.
 
-Consider the following example, using only a laptop, an author publishes a title of an e-book to the Lightstreams network. A customer who purchases the book downloads a copy directly from the author's laptop to their tablet. When a second customer purchases the e-book, they download parts of the e-book simultaneously from the author and the first customer. The author could disconnect his laptop from the network, and the e-book would continue to sell, as a third customer could download content from the first and second customers and so forth. Since the payments are executed using blockchain technology, the author will continue to be paid even though they are offline. This demonstrates how the Lightstreams uses the participant's devices in the network as the infrastructure to scale and provide the bandwidth as demand increases.
+Peer-to-peer file sharing technology, like BitTorrent, has been established for some time with many global users. However, these peer-to-peer file sharing technologies tend to be used for sharing content illegally by infringing on the copyright by duplicating the material without permission of the owners. These networks also rely on the goodwill of the participants to provide digital storage and transmission bandwidth of the content. No incentive system has been put in place along with formal agreements to permit the duplication of content.
+
+We believe that through combining smart contract technology with peer-to-peer file sharing then such an incentive system can be put in place with the express permission of the owners of the digital content.
 
 <p align="center">
 <img src="/images/peer-to-peer-distribution.png">
 <br>
-<b>Lightstreams Model</b> - Distribution of digital content directly to consumers via a peer-to-peer network that dynamically scales as demand increases.
+<b>Lightstreams' Distribution Model</b> - Digital content is distributed to consumers via a peer-to-peer network that scales as demand increases.
 </p>
 
-The current state of digital distribution is that of an oligopoly marketplace where only a few internet firms have the majority of the market share. As such, the incumbents tightly control the distribution channel and charge high fees while providing a less than ideal service for artists. By artists, we refer to authors, musicians, composers, songwriters, online course producers,  directors of self-made videos and any other creator of digital content.
+For example, using only a laptop, an author publishes a title of an e-book to the Lightstreams network. A customer who purchases the title downloads a copy directly from the author's laptop to their computer. When a second customer purchases the e-book, they download parts of the e-book simultaneously from the author and the first customer's devices. The author could disconnect his laptop from the network, and the e-book would continue to sell, as a third customer would download content from the first and second customers and so forth. Since the payments are executed using blockchain technology, the author can reconnect to the network at any time and collect his earnings. In this example, we see the network infrastructure has scaled as demand for the e-book increases by using the customer's devices.
 
-By using a peer-to-peer distribution model, Lightstreams will create a network with the following principles:
-- A revenue model that gives a fair share to the artist.
-- A network the incentivises participants for being good stewards and building the community.
-- Promotes an ever-expanding set of applications and services by allowing open access for anyone to use and build upon infrastructure. 
+If demand is insufficient to support the self-sustaining distribution of content, the author can pay a small fee to a Seeding Service that will distribute the ebook until demand increases.
 
-The scope of this paper describes a publishing channel for digital books, however the scope of the Lightstreams project extends to all forms of digital content such as music and video streaming.
+## Audio and Video Streaming 
 
-The discussion of this paper is limited to creating a publishing channel for the distribution of digital books for the purpose of illustrating the use and benefits of the Lightstreams network. However, the scope of Lightstreams is not limited to digital books as the technology has been designed with audio and video streaming capabilities in mind using an IPFS[[8]](https://ipfs.io/) protocol layer. Therefore topics discussed in this paper are applicable to all forms of digital content inclusive of audio and video streaming.
+The Lightstreams network is capable of music and video streaming currently via an IPFS[[8]](https://ipfs.io/) protocol layer, a proven peer-to-peer file distribution technology for streaming content. 
 
-Lightstreams will be an Ethereum-hybrid network inheriting many of the features of the Ethereum network by keeping feature releases synchronised with the main Ethereum code base. A digital token known as a Photon (PHT) token will be the cryptocurrency of the network. The primary utility value of the Photon will be in the facilitation of purchasing digital content.
+We are also doing research and development into employing Ethereum’s SWARM technology.
+Multiplexing services like LivePeer can plug into the Lightreams technology stack to provide Transcoding services so that content can be consumed in the target format.
 
-## Problems with Content Publishing
+Lightstreams plans to develop a number of different client applications to target various devices for streaming.
 
-Authors currently face today the following pain-points when using traditional publishing houses and online bookstores for distributing their ebooks.
+1. A desktop application with full peer-to-peer streaming capabilities.
+2. A browser-based library for embedding in any web page. 
+3. A native (Apple and Android) application optimised for mobile devices.
 
-### An Unfair Sales Model
+# The Lightstreams Token
 
-The high fees for using an online sales channel means that authors receive 50% less revenue than if they were able to sell directly to the customer.
+The Lightstreams network will consist of an independent blockchain that is Ethereum compliant. Rather than Ether as the network cryptocurrency, the Lightstreams network will operate through a Lightstreams token (PHT) that will have a unit value called a Photon.
 
-For example, a book valued at $9.99 sold on Amazon, has the following fees[[9]](https://kdp.amazon.com/en_US/help/topic/A29FL26OKE7R7B):
-
-1. For a standard sale, an approximate 48% fee is charged; this comprises a 30% platform fee plus and an electronic delivery fee of $2.58. [[10]](http://andrewhy.de/amazons-markup-of-digital-delivery-to-indie-authors-is-129000/)
-
-2. For a subscription sale, an approximate 50% fee is charged. This is calculated using a fee structure, where the author receives $0.00496 per page read, with a max payout of $5.00 for a 1000 page book.
-
-### A Lack of Trust in Reporting Sales
-
-Online bookstores control the ownership, custody and storage of customer information and sales data. Only a small subset of this data is shared with authors and they have no ability to trace and verify the validity of the data. This lack of transparent data provenance creates mistrust in the accuracy of sales. Adding to this is a complicated revenue-sharing model that is not standardised across bookstores and causes further frustration and confusion.
-
-Incorrect sales reporting is not limited to online bookstores, too often many internet intermediaries receive complaints and in certain cases, legal action has been taken as shown in these examples: 
-
-- Amazon apologizes for concerns raised about Kindle Edition Normalized Page Count (KENPC)[[11]](https://kdp.amazon.com/en_US/help/topic/AI3QMVN4FMTXJ) anomalies. [[12]](https://teleread.org/2016/10/08/amazon-kdp-select-authors-are-losing-page-reads-apparently-due-to-software-glitches/) 
-- AgeView Press filed a complaint about incorrect sales reporting for an ebook published titled "Flying Solo" on Amazon's Kindle Direct via the Createspace e-store. [[13]]( https://jeanettevaughan.wordpress.com/2012/09/28/do-amazon-and-createspace-rip-off-indie-publishers-with-failure-to-correctly-report-sales/)
-- Spotify settled a $20 million dispute with music publishers for the failure to report and pay licensing fees for distribution of copyrighted material. [[14]](https://www.nytimes.com/2016/03/18/business/media/spotify-reaches-settlement-with-publishers-in-licensing-dispute.html)
-- RootZoo sues Facebook for overcharging of advertising fees by incorrectly reporting on advertisement clicks. [[15]](http://www.campaignlive.co.uk/article/rootzoo-sues-facebook-ad-click-dispute/920220)
-
-### A closed communication channel
-
-Online bookstores control the distribution channel and so are selective in the data shared with authors. There is no way for the author to connect directly with their readers. Readers who may want the option to have an open communication channel to the author of the book that they have purchased.
-
-This hampers the author's ability to gain insights into the interests and receive direct feedback from their readership.
-
-This control of the channel means that authors are unable to seek feedback, make announcements and to easily release early drafts and rough cuts.
-
-### Fake Reviews that Impact Sales
-
-Most online bookstores provide a review section for posting comments about books. Being open to anyone to write a review mean that it is open to abuse by fake reviewers. There have been known cases of fake reviews by those that have not purchased or read the material. In fact, there are third-party services that can be hired to write positive endorsements about books in order to progress them further up best selling lists. In some cases, it has been known that authors themselves have written favourably about their books and negative of others to create an unfair advantage.
-
-- Orlando Figes, a respected history professor at Birkbeck, University of London was discovered to have posted fake reviews on Amazon lavishing high praise on his own book whilst posting critical reviews of others. [[16]](https://www.theguardian.com/books/2010/jul/16/orlando-figes-fake-amazon-reviews)
-
-## Mission Statement
-
-Lightstreams mission is to create a publishing network for all things digital. A network that is owned and regulated by the community, where artists and fans can connect at a low cost, fair and open marketplace.
-
-## Features
-
-### The Photon Token
-
-The Lightstreams network will consist of an independent blockchain that is Ethereum based and compliant. Rather than Ether (ETH) as the native network cryptocurrency, the Lightstreams network will facilitate payments via a cryptocurrency that will have a unit value called a Photon (PHT).
-
-The utility of the PHT token is for:
+The utility of the PHT token will be for:
 
 1. Purchasing digital content.
-2. Rewarding participants for actions that encourage the growth of the network.
-3. Rewarding validators for creating blocks.
-4. Governance of the network, where voting power is based upon sales.
+2. Rewarding users for giving quality reviews of content.
+3. Governance of the network, where voting power is based on sales revenue
 
-A token sale event will determine the initial allocation of PHT tokens between accounts describe in a genesis block.
+Unlike the Ethereum network, there will be no token rewards given miners, for solving a Proof of Work (PoW) consensus algorithm[[17]](https://github.com/ethereum/wiki/wiki/Mining). This is because Lightstream will instead use a Proof of Authority (PoA) consensus algorithm[[18]](https://cointelegraph.com/news/why-blockchain-needs-proof-of-authority-instead-of-proof-of-stake).
 
-### Disintermediation of Traditional Intermediaries
+By employing a PoA blockchain configuration will result in a highly scalable network that has an order of magnitude in transaction throughput over using the Ethereum network, and will allow for the implementation of a unique governance system.
 
-The value chain for digital books from the author to readers is via publishing houses and online bookstores, where currently Amazon Bookstore has the greatest market share.
+The sale of PHT tokens during a fundraising event will determine the initial distribution of tokens. The number of tokens in circulation will remain fixed.
 
-By using the Lightstream peer-to-peer network, authors will be able to publish books directly to their readers, disintermediate both the traditional publishing houses and online bookstores.
+# Sales Models
 
-This will result in the redistribution of sales revenue significantly in the favour of authors. It will also mean, there is no delay in receiving payments, as authors will receive PHT coins directly from readers into their digital wallets.
+The following are the possible sales models that will be governed by smart contracts on the Lightstreams blockchain. The smart contracts will be controlled by a single owner who has majority rights to the content available for purchase.
 
-Note: In order to protect consumers from situations of fraud, new authors without a reputation, may be required to have the revenue they earn on sales held in the smart contract for a short period of time. This will be in order to ensure that if the content being sold infringes upon any copyright or is not as advertised then consumers will have the ability to report such abuse. If complaints reach certain levels then consumers will be refunded and the smart contract related to the content destroyed.
+In all models the owner of the contract will set the price in PHT for the content. At any time the owner can choose to adjust the price and update the version of a published material. If the owner permits, consumers purchasing the content can choose to access the most up to date version, or any previous version.
 
-### Detailed Customer and Sales Data
+Lightstreams will charge a contract fee per smart contract transaction. 
 
-Customer information and sales history will be recorded by smart contracts that execute on the Lightstreams network. This data will be confidentially and available only to the author and those that have been granted permission. This feature will be based upon a distributed secure vault that is part of the Permissioned Blocks protocol.
+## Pay-per-Read Model
 
-All sales activity of a book will only be available to authors. Customer information such as gender, location and reading preferences will be opt-in by readers that wish to share this information.
+In the Pay-per-Read model, the consumer will pay per page of text downloaded to their device. The author will set a price for the complete material and the price per page will be calculated as a proportional of the total price. 
 
-Data that is recorded by smart contracts will be immediately available to authors in real time. Since Lightstreams will be an open protocol, any third party can create analytical tools and services for authors to interpret this raw data.
+Using the Permissioned Blocks protocol, the smart contract will only grant access to the digital content to those that have purchased the content.
 
-### An Open Communication Channel
-
-Users of the Lightstreams network will have the ability to follow authors and themes. This will serve as a twitter-like communication channel where users will be able to follow authors and subjects matters of their interest.
-
-Authors will also be able to opt-in to a service where customers who have purchased content will be able to send their feedback. Authors can choose feedback to be either a private or public channel.
-
-### Credible Customer Reviews
-
-Authors will have the option to have their books reviewed by users of the system. Users will receive karma point similar to Reddit based on their activity. This grading system will form part of a credibility rating score for reviews. Those that do not have enough karma point will not be able to post reviews. Users will have the ability to upvote and downvote reviews.
-
-Reviewers will be incentivised by receiving PHT tokens that are awarded to them for upvotes.
-
-## Blockchain Architecture
-
-The Lightstreams blockchain will be an independent Ethereum-based blockchain with the following features:
-
-- It will be an open public network such that any user can connect and transmit transactions on the network.
-- It will have an Ethereum compliant API that will be kept synchronised with the latest version of Ethereum.
-- It will use the Permissioned Blocks protocol for the privacy and confidentiality of customer information.
-- It will use a Proof of Authority (PoA) consensus algorithm.
-
-<p align="center">
-<img src="/images/lightstreams-architecture.png">
-<br>
-<b>Lightstreams Architecture</b> - A high level architecture overview.
-</p>
-
-## Scaling for Global Demand
-
-The Lightstreams network will dynamically scale for distributing content via a private peer-to-peer file-sharing protocol known as Permissioned Blocks. The benefit of using a peer-to-peer file sharing protocol it that this eliminates the need for any intermediary to provide the distribution infrastructure. Instead, the network participants provide the infrastructure via their own devices. This means that as demand increases so does bandwidth increase for distributing content.
-
-Each node in the network will store content on a modified version of IPFS, a file sharing layer that is part of the Permissioned Blocks protocol. The protocol will operate such that content is only shared with those that have been authorised, that is, they purchased the content.
-
-## Seeding Services
-
-Authors that do not wish to keep their node connected to the network can choose a seeding service for their books available to readers to download. These seeding nodes will provide this service for a fee that will host their books in a temporary cache until the content reaches a level of demand that it can be self-sustaining in the network.
-
-The fee will be a scaling price structure based on the size of the content. This will avoid scenarios where the seeding services could be maliciously attacked with large files.
-
-## Smart Contract Sales
-
-The network will initially have two different models for selling content that will be controlled by smart contracts.
-
-- A direct sale between author and reader.
-- A subscription sale where a subscriber pays a monthly fee to read content from a subject category.
-
-A benefit of using a smart contract is that the allocation of sales revenue is completely transparent and traceable to all network. 
-
-### Direct Sales
-
-In a direct sale, the author sets the price of their book as an amount of PHT tokens. At any time the author can choose to adjust the price of their book and the version of a published book. Readers who have purchased the book will be able to view the most up to date version, or any previous version.
-
-Consuming content will be governed by a smart contract such that only that have purchased the content are granted access to the content in order to download to their network node.
-
-The process of a direct sale is as follows:
+The smart contract behaviour is as follows:
 
 1. The author creates a smart contract with the price of the book and an IPFS address of the product details. 
 2. The author then uploads a version of the book which is stored in their local IPFS data store and linked to the smart contract.
@@ -198,109 +208,109 @@ The process of a direct sale is as follows:
 <b>Consuming of Content</b> - Consumer pays the price and retrieves a copy of the content.
 </p>
 
-### Subscription Sales
+## Pay-per-View Model
 
-In a subscription sales model, an author will earn revenue based upon a normalised price per page accessed by readers. 
-Access to each page of the book will be controlled by a smart contract that only permits readers that are subscribers to a book subject category.
+In the Pay-per-view model, the consumer will pay for viewing video content. This will be a similar experience to renting video content using Netflix. 
 
-Readers will pay a monthly fee in PHT tokens for each subject category they subscribe to. At any time the reader can decide to discontinue paying the subscription fee, upon which they will be unable to download content.
+The video content will be streamed to the user's device and they will have a period that they can review the content until it no longer becomes available.
 
-At the end of each month, the total PHT tokens collected for a subject category will be distributed to the authors less a service fee. The tokens will be divided and distributed by the ratio of pages accessed per book. If a book has more than 1000 pages, then the total number of pages is capped at 1000 pages.
+## Licensed Model
 
-Authors are rewarded for adding content to new subject categories such that they will take a greater proportion of the funds than authors who join once the subject category becomes popular.
+In the licensed model, the consumer pays to have access to the content for reuse on as many times as possible. This can be used for purchasing audio content such as in an iTunes model, or for purchasing text or video material that the consumer would like to use repeatedly.
+
+## Subscription Model
+
+In the subscription model, an owner earns revenue on a monthly bases for a proportional weight of downloads for a category their content is assigned. 
+
+In an e-book example, the text will be normalised to price per page. Consumers that have subscribed to the category that the e-book belongs will have access to read the entire content.
+
+Consumers who pay the subscription fee gain unlimited access to content within the category they have subscribed. At any time the consumer can decide to discontinue paying the subscription fee, upon which their membership to that category will cease.
+
+At the end of each month the total PHT tokens collected for the month per category will be distributed to the contract owners less the Lightstreams service fee. The tokens will be divided and distributed by the ratio of pages accessed per book. If a book has more than 1000 pages, then the number of pages for calculation purposes is capped to a 1000 pages.
+
+## Advertising Model
+TODO...
+
+# Blockchain Architecture
+
+The Lightstreams blockchain will be an Ethereum compliant network operating as an independent chain with the following features:
+
+- It will be a public network such that any user can openly connect and transmit transactions on the network.
+- It will have an Ethereum compliant API that will be kept synchronised with the latest version of Ethereum.
+- It will use the Permissioned Blocks protocol for the privacy of customer information.
+- It will use a Proof of Authority (PoA) consensus algorithm to enable high transaction throughput and governance features.
 
 <p align="center">
-<img src="/images/subscription-contract.png">
+<img src="/images/lightstreams-architecture.png">
 <br>
-<b>Subscription Contract</b> 
+<b>Lightstreams Architecture</b> - A high level architecture overview.
 </p>
 
-## Lightstreams Discovery Service
+# Lightstreams Software Development
 
-The Lightstreams network will provide a discovery service for readers to search and browse for books and content available for sale. Readers will be able to search via book subject, author, popularity or promoted works. Upon selection of a book, the reader can choose to view the content based on a direct or subscription based purchase depending upon the sales model.
+It is planned that key Lightstreams’ software will be released and governed by an open source license agreement. Key functional improvements will be specified via community proposals that are also voted on by the community. 
+
+Development of features will be undertaken by both open source development and core developers of the Lightstream team. The Lightstream client will be initially developed for two target categories; desktop and mobile devices.
+
+Desktop clients will contain the full feature set of the Lightstreams client. It is envisioned the primary use of the desktop client will be for content producers to add and manage their digital content. However, consumers may also prefer to use this client to access content.
+
+The mobile version will be a light client version that will be optimised for tablet and mobile phone devices. Due to network bandwidth and processing constraints not all features will be available on this version.
+
+## Discovery Service
+
+The Lightstreams network will provide a discovery service for readers to search and browse for books and content available for sale. Readers may search via book subject, author, popularity or promoted works. Upon selection of a book, the reader can choose to view the content on a direct or subscription based purchase depending upon the sales model.
 
 Just as any online bookstore, the discovery service will provide information about books to aid readers in their purchasing decision:
 
 - Author details
 - Front and back cover
 - Contents and index pages
-- Product details: Published year, ISBN, ASIN... 
+- Product details: Published year, ISBN, ASIN...
 - A short blurb
 - Reader reviews
 
 A listing fee will be charged for publishing the book on the marketplace. The fee will be paid out to reviewers to cover the costs of reviewing content to ensure the quality of the marketplace is maintained.
 
-## Network Consensus
+## Validators
 
-A blockchain is distributed network that requires consensus between nodes in order to determine the valid state of the network at any given point in time. 
+Since the Lightstreams is a peer to peer network, consensus is required between nodes to determine the valid state of the network. Standard Ethereum uses a Proof-of-Work(PoW) algorithm to achieve consensus. However, PoW does not scale well, with transaction throughputs of ~10 transactions per second. Lightstream will instead use a Proof-of-Authority (PoA) algorithm where a set of "validator" nodes that are explicitly allowed to create new blocks and secure the blockchain. Using a PoA algorithm like Tendermint[[19]](https://tendermint.com/) will allow for an order of magnitude increase in scalability ~10,000 transactions per second while also allowing for a governance model for chain maintenance and keep the block issuers accountable.
 
-The Ethereum network uses a Proof of Work (PoW) consensus[[17]](https://github.com/ethereum/wiki/wiki/Mining) model where validator nodes known as miners validate transactions. Validators are incentivised to validate transactions by being rewarded with tokens if they can solve a complicated algorithm before the other validators in the network.
+Validators do not charge a fee for validating transactions. Instead, validators are incentivised by having a stake in the successful operation of the network. Therefore, validators will be selected by those participants that maintain the highest sales volumes.
 
-However, PoW does not scale well, with an overall network throughput of ~10 transactions per second. Lightstreams will instead use a Proof-of-Authority (PoA)[[18]](https://cointelegraph.com/news/why-blockchain-needs-proof-of-authority-instead-of-proof-of-stake) consensus algorithm where a set of "validator" nodes that are explicitly allowed to create new blocks and secure the blockchain. Using a PoA algorithm such as Tendermint[[19]](https://tendermint.com/) will allow for an order of magnitude increase in scalability ~10,000 transactions per second while also allowing for a governance model for chain maintenance and keep the block issuers accountable.
+To protect the network from malicious smart contracts being published, validators will only permit Lightstreams' contracts to be added to the blockchain. The Lightstreams' contracts will be multi-signature contract templates, where both the author and the Lightstreams Foundation need to sign the contract. The Lightstreams Foundation will only sign valid smart contracts.
 
-Lightstreams validators will earn a fee for validating transactions. Nodes that achieve a certain level of sales on the network will have the option to become validators. Validators will be required to pass a  
-Validators are incentivised by having a stake in the successful operation of the network. Therefore validators will be selected by those participants that maintain the highest sales volumes.
+# Governance
 
-In order to protect the network from malicious smart contracts being published, validators will only permit contracts that have been certified by Lightstreams Foundation to become part of the blockchain. In order to permit this behaviour smart contracts will be multi-signature where both the artist and an account operated by the Lightstreams Foundation will need to have signed for a validator to accept the transaction.  
-
-## Governance
-
-Authors with the high sales per year and per subject category will be invited to become network validators.
+Authors with the highest number of sales above a certain threshold per year and per subject category will be invited to become network validators. 
 
 Note: Authors may outsource the operational aspects of being a validator whilst retaining control and oversight. 
+Network validators have the responsibility to:
 
-Network validators will have the responsibility to:
-
-1. To inspect network transactions to ensure that they are valid, and then broadcast these valid transactions as blocks to the rest of the network.
+1. To inspect network transactions to ensure they are valid, and then broadcast these valid transactions in blocks to the rest of the network.
 2. Propose new resolutions to be voted by the community via smart contracts.
 3. Propose and decide by majority vote, an arbitrator for resolving any transaction disputes.
 
-In order to host a validator node, validators will need to ensure that they build their node to a specified standard to ensure a minimum level of security and transaction throughput.
-
-## The Lightstreams Client
-
-The Lightstreams client software will be open sourced licenced software. Key functional improvements will be specified via community proposals that are also voted on by the community. The Lightstreams Foundation will, however, reserve the right to veto specific proposals.
-
-Development of client features will be undertaken by both open source development and core developers of the Lightstream Foundation. The Lightstream client will be initially developed for two target categories; desktop and mobile devices.
-
-Desktop clients will contain the full feature set of the Lightstreams client. It is envisioned that the primary use of the desktop client will be for content producers to add and manage their digital content. However, consumers may also prefer to use this client to access content.
-
-The mobile version will be a light client version that will be optimised for tablet and mobile phone devices. Due to network bandwidth and processing constraints, not all features will be available in this version.
-
-## Go to Market Plan
-
-The initial goal of the Lightstreams network and the scope of this paper is the development of a publishing channel for digital books, with the particular focus on the academic and technical books. By selecting this niche market category, we believe that this will give the greatest opportunity to maximise market traction by targeting the most likely early adopters, IT and technical professionals.
-
-Once traction has been established and the network hardened to servce this niche market, horizontal expansion into other book categories will occur. Following this, Lightstreams will expand to other forms of digital content such as music and video streaming.
-
-## The Lightstreams Foundation
-
-The Lightstreams Foundation primary purpose will be to maintain a core team of developers that will build new features and fix bugs to maintain the competitive edge of the Lightstream client.
-
-It is envisioned that the Lightstreams Foundation will be domiciled in Switzerland with development teams located primarily in Germany and Spain.
+To host a validator node, validators will need to ensure they build their node to a specified standard to ensure a minimum level of security and transaction throughput.
 
 ## Roadmap
 
-Lightstreams has already finished its prototyping phase and plans to launch the network in Q1 2018. The following roadmap outlines the project's planned timeline.
+Lightstreams has already finished its prototyping phase and plans to launch the network in Q2 2018. The following roadmap outlines the project's planned timeline:
 
-| Project Phase / Milestone | Date      | Comments                                                                                                                                                                                                                                                                                                                                                  |
-|---------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Prototype                 | Completed | The prototype of using the Permissions Blocks protocol for content publishing has already been completed and demonstrated and won an award in May 2017 at the Consensus Hackathon 2017.                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Network launch            | Q1 2018   | It is planned that the network will launch in early 2018 where the first token of the platform will be available for sale. A major fundraising event will occur upon launch of the platform with the sale of LST tokens will occur, and customers will be immediately able to purchase digital content that is added to the network by content producers.  |
-| Desktop client MVP        | Q2 2018   | The Minimal Viable Product version of the Lightstreams Desktop Client will be available for download. This will have a minimum function set for selling and purchasing of digital content.                                                                                                                                                                |
-| Desktop client v1         | Q3 2018   | Version 1 of the Lightstreams Desktop Client will be available for download, which will have a more comprehensive function set.                                                                                                                                                                                                                           |
-| Discovery Service         | Q3 2018   | The Lightstreams Discovery Service will be launched which will better assist users to search and browse for content.                                                                                                                                                                                                                                      |
-| Mobile client MVP         | Q4 2018   | MVP Mobile Client will be launched where customers will be able to test the minimum functionalities for read and discover content.        
-| Mobile client v1          | Q1 2019   | The Lightstream Mobile Client will be launched where customers can install an app on their tablet or mobile for reading or uploading content.        
-| API/SDK                   | Q2 2019   | Release of an API / SDK to allow third parties to build on top of Lightstreams Network.        
-
-## More resources
+| Project Phase / Milestone | Date      | Comments                                                                                                                                                                                                                                                                                      |
+|---------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Prototype                 | Completed | The prototype of using the Permissions Blocks protocol for content publishing has already been completed and demonstrated and won an award in May 2017 at the Consensus Hackathon 2017. In October 2017 the Test Network was launched with the first prototype of purchasing digital content. |
+| Network launch            | Q2 2018   | It is planned the network will launch in early 2018. A major fundraising event will occur prior to launch of the platform where the sale of PHT tokens will occur, and customers will be shortly soon after be able to purchase digital content sold on the network by content producers.     |
+| Desktop client MVP        | Q2 2018   | The Minimal Viable Product version of the Lightstreams Desktop Client will be available for download. This will have a minimum function set for selling and purchasing of digital content.                                                                                                    |
+| Desktop client v1         | Q3 2018   | Version 1 of the Lightstreams Desktop Client will be available for download, which will have a more comprehensive function set.                                                                                                                                                               |
+| Discovery Service         | Q3 2018   | The Lightstreams Discovery Service will be launched which will better assist users to search and browse for content.                                                                                                                                                                          |
+| Mobile client v1          | Q4 2018   | The Lightstream Mobile Client will be launched where customers can install an app on their tablet or mobile for reading content.                                                                                                                                                              |
+# More resources
 - [Lighstreams website](http://lightstreams.network)
 - [Telegram group](https://t.me/joinchat/DZfAhw2IZSYcQchG3DPWaQ)
 - [Twitter](https://twitter.com/lightstreams_io)
 - [Blog](https://medium.com/lightstreams)
 
-## Citations
+# Citations
 
 - [[1]](http://autocontracts.io/) Autonomous Contracts http://autocontracts.io/
 - [[2]](http://lightstreams.io/) The Lightstream Network http://lightstreams.io/
@@ -321,4 +331,10 @@ Lightstreams has already finished its prototyping phase and plans to launch the 
 - [[17]](https://github.com/ethereum/wiki/wiki/Mining) Ethereum Mining https://github.com/ethereum/wiki/wiki/Mining
 - [[18]](https://cointelegraph.com/news/why-blockchain-needs-proof-of-authority-instead-of-proof-of-stake) Why Blockchain Needs ‘Proof of Authority’ Instead of ‘Proof of Stake’ https://cointelegraph.com/news/why-blockchain-needs-proof-of-authority-instead-of-proof-of-stake 
 - [[19]](https://tendermint.com/) Tendermint - Byzantine fault-tolerant replicated state machines in any programming language https://tendermint.com/
+
+
+
+
+
+
 
