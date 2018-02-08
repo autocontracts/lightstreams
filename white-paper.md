@@ -5,11 +5,11 @@ By <a href="https://mikesmo.github.io/">Michael Smolenski</a>
 
 # Introduction
 
-This white paper outlines plans to develop the [Lightstreams network](http://lightstreams.network)[[2]](http://lightstreams.io/), a peer-to-peer digital publishing network for content ranging from books, magazines, music, TV to movies.
+This white paper outlines plans by Autonomous Contracts [[1]](http://autocontracts.io/) to develop the [Lightstreams network](http://lightstreams.network)[[2]](http://lightstreams.io/), a peer-to-peer digital publishing network for content ranging from books, magazines, music, TV to movies.
 
-The Lightstreams network is a blockchain network that enables artists to publish digital content directly to consumers, replacing traditional online intermediaries including Amazon, Spotify or Netflix. Artists being musicians, authors, directors and any other digital content curator.
+The Lightstreams network is a blockchain network that enables artists to publish digital content directly to consumers, replacing existing online distribution channels. In the Lightstreams context, artists are musicians, songwriters, composers, authors, directors and any other digital content curator.
 
-The music streaming industry is a $16Bn market, on-demand video is $24Bn and the e-Books industry is $15Bn. These are healthy growing markets with growth rates between 6% to 15%. However, we believe these markets are open to disruption by the intersection of peer-to-peer file sharing and blockchain technology. This combination opens up the possibility for people to buy and sell content directly between one another.
+The music streaming industry is a $16Bn market[[3]](http://www.ifpi.org/global-statistics.php), on-demand video is $24Bn[[4]](https://www.statista.com/download/outlook/whiterpaper/VideoOnDemand_Outlook_1016.pdf) and the e-Books industry is $15Bn[[5]](https://www.statista.com/statistics/280249/global-e-book-revenue-by-region/). These are healthy growing markets with growth rates between 6% to 15%. However, we believe these markets are open to disruption by the intersection of peer-to-peer file sharing and blockchain technology. This combination opens up the possibility for people to buy and sell content directly between one another.
 <p align="center">
 <img src="/images/peer-to-peer-sales.png">
 <br>
@@ -321,6 +321,9 @@ Lightstreams has already finished its prototyping phase and plans to launch the 
 
 - [[1]](http://autocontracts.io/) Autonomous Contracts http://autocontracts.io/
 - [[2]](http://lightstreams.io/) The Lightstream Network http://lightstreams.io/
+- [[3]](http://www.ifpi.org/global-statistics.php) IFPI - Global Statistics
+- [[4]](https://www.statista.com/download/outlook/whiterpaper/VideoOnDemand_Outlook_1016.pdf) Digital Media: Video-on-Demand, Statista
+- [[5]](https://www.statista.com/statistics/280249/global-e-book-revenue-by-region/) Global e-Book Revenue by Region, Statista
 - [[3]](https://nextconf.eu/2016/09/next16-blockchain-will-build-web-3-0-says-jamie-burke/) Blockchain will Build Wedb 3.0, Jamie Burke https://nextconf.eu/2016/09/next16-blockchain-will-build-web-3-0-says-jamie-burke/
 - [[4]](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/) "A Gentle Introduction to Smart Contracts" by Antony Lewis https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts
 - [[5]](https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html) Permissioned Blocks - Hackathon Win! Consensus 2017 https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html
