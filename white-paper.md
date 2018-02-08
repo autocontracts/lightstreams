@@ -43,8 +43,8 @@ Lightstreams has identified the following pain points for artists selling conten
 ## High Fees
 
 High fees for using online sales channels mean artists receive 50-70% less revenue for content than if they were able to sell directly to the consumer.
-For example, a book valued at $9.99 sold on Amazon, has the following fees[[9]](https://kdp.amazon.com/en_US/help/topic/A29FL26OKE7R7B):
-1. For a standard sale, an approximate 48% fee is charged; this comprises a 30% platform fee plus and an electronic delivery fee of $2.58. [[10]](http://andrewhy.de/amazons-markup-of-digital-delivery-to-indie-authors-is-129000/)
+For example, a book valued at $9.99 sold on Amazon, has the following fees[[10]](https://kdp.amazon.com/en_US/help/topic/A29FL26OKE7R7B):
+1. For a standard sale, an approximate 48% fee is charged; this comprises a 30% platform fee plus and an electronic delivery fee of $2.58. [[11]](http://andrewhy.de/amazons-markup-of-digital-delivery-to-indie-authors-is-129000/)
 2. For a subscription sale, an approximate 50% fee is charged. This is calculated using the subscription fee structure, where the author receives $0.00496 per page read, with a max payout of $5.00 for a 1000 page book. 
 
 ## Lack of Transparency and Trust
@@ -53,9 +53,9 @@ Intermediaries control the ownership, custody and storage of customer informatio
 
 The opaque data provenance creates a lack of trust in the accuracy of the data provided and there has been in certain cases legal action over incorrect sales reporting. Also, non-standard calculation of sales between intermediaries creates confusion and frustration.
 
-- Spotify settled a $20 million dispute with music publishers for the failure to report and pay licensing fees for distribution of copyrighted material. [[14]](https://www.nytimes.com/2016/03/18/business/media/spotify-reaches-settlement-with-publishers-in-licensing-dispute.html)
-- RootZoo sues Facebook for overcharging of advertising fees by incorrectly reporting on advertisement clicks. [[15]](http://www.campaignlive.co.uk/article/rootzoo-sues-facebook-ad-click-dispute/920220)
-- Amazon apologizes for concerns raised about Kindle Edition Normalized Page Count (KENPC)[[11]](https://kdp.amazon.com/en_US/help/topic/AI3QMVN4FMTXJ) anomalies. [[12]](https://teleread.org/2016/10/08/amazon-kdp-select-authors-are-losing-page-reads-apparently-due-to-software-glitches/) 
+- Spotify settled a $20 million dispute with music publishers for the failure to report and pay licensing fees for distribution of copyrighted material. [[12]](https://www.nytimes.com/2016/03/18/business/media/spotify-reaches-settlement-with-publishers-in-licensing-dispute.html)
+- RootZoo sues Facebook for overcharging of advertising fees by incorrectly reporting on advertisement clicks. [[13]](http://www.campaignlive.co.uk/article/rootzoo-sues-facebook-ad-click-dispute/920220)
+- Amazon apologizes for concerns raised about Kindle Edition Normalized Page Count (KENPC)[[14]](https://kdp.amazon.com/en_US/help/topic/AI3QMVN4FMTXJ) anomalies. [[12]](https://teleread.org/2016/10/08/amazon-kdp-select-authors-are-losing-page-reads-apparently-due-to-software-glitches/) 
 - AgeView Press filed a complaint about incorrect sales reporting for an ebook published titled "Flying Solo" on Amazon's Kindle Direct via the Createspace e-store. [[13]]( https://jeanettevaughan.wordpress.com/2012/09/28/do-amazon-and-createspace-rip-off-indie-publishers-with-failure-to-correctly-report-sales/)
 
 ## Fake Reviews and Impressions
@@ -330,13 +330,12 @@ Lightstreams has already finished its prototyping phase and plans to launch the 
 - [[9]](https://github.com/autocontracts/permissioned-blocks) Permissioned Blocks White Paper https://github.com/autocontracts/permissioned-blocks
 - [[7]](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) Wikipedia: Peer-to-peer file sharing https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing
 - [[8]](https://ipfs.io/) IPFS - A peer-to-peer hypermedia protocol https://ipfs.io/
-- [[9]](https://kdp.amazon.com/en_US/help/topic/A29FL26OKE7R7B) Amazon Kindle Direct Publishing Fees https://kdp.amazon.com/en_US/help/topic/A29FL26OKE7R7B
-- [[10]](http://andrewhy.de/amazons-markup-of-digital-delivery-to-indie-authors-is-129000/) Amazon’s markup of digital delivery to indie authors is ~129,000% by Andrew Hyde http://andrewhy.de/amazons-markup-of-digital-delivery-to-indie-authors-is-129000/
-- [[11]](https://kdp.amazon.com/en_US/help/topic/AI3QMVN4FMTXJ) Royalties in Kindle Unlimited and Kindle Owners' Lending Library https://kdp.amazon.com/en_US/help/topic/AI3QMVN4FMTXJ
+- [[10]](https://kdp.amazon.com/en_US/help/topic/A29FL26OKE7R7B) Amazon Kindle Direct Publishing Fees https://kdp.amazon.com/en_US/help/topic/A29FL26OKE7R7B
+- [[11]](http://andrewhy.de/amazons-markup-of-digital-delivery-to-indie-authors-is-129000/) Amazon’s markup of digital delivery to indie authors is ~129,000% by Andrew Hyde http://andrewhy.de/amazons-markup-of-digital-delivery-to-indie-authors-is-129000/
+- [[12]](https://www.nytimes.com/2016/03/18/business/media/spotify-reaches-settlement-with-publishers-in-licensing-dispute.html) Spotify Reaches Settlement With Publishers in Licensing Dispute, New York Time March 17, 2016 https://www.nytimes.com/2016/03/18/business/media/spotify-reaches-settlement-with-publishers-in-licensing-dispute.html
+- [[13]](http://www.campaignlive.co.uk/article/rootzoo-sues-facebook-ad-click-dispute/920220) RootZoo sues Facebook over ad click dispute http://www.campaignlive.co.uk/article/rootzoo-sues-facebook-ad-click-dispute/920220
 - [[12]](https://teleread.org/2016/10/08/amazon-kdp-select-authors-are-losing-page-reads-apparently-due-to-software-glitches/) Amazon KDP Select authors are losing page reads, apparently due to software glitches by David VanDyke https://teleread.org/2016/10/08/amazon-kdp-select-authors-are-losing-page-reads-apparently-due-to-software-glitches/
 - [[13]](https://jeanettevaughan.wordpress.com/2012/09/28/do-amazon-and-createspace-rip-off-indie-publishers-with-failure-to-correctly-report-sales/) Do Amazon and Createspace rip off Indie publishers with failure to correctly report sales? https://jeanettevaughan.wordpress.com/2012/09/28/do-amazon-and-createspace-rip-off-indie-publishers-with-failure-to-correctly-report-sales/
-- [[14]](https://www.nytimes.com/2016/03/18/business/media/spotify-reaches-settlement-with-publishers-in-licensing-dispute.html) Spotify Reaches Settlement With Publishers in Licensing Dispute, New York Time March 17, 2016 https://www.nytimes.com/2016/03/18/business/media/spotify-reaches-settlement-with-publishers-in-licensing-dispute.html
-- [[15]](http://www.campaignlive.co.uk/article/rootzoo-sues-facebook-ad-click-dispute/920220) RootZoo sues Facebook over ad click dispute http://www.campaignlive.co.uk/article/rootzoo-sues-facebook-ad-click-dispute/920220
 - [[16]](https://www.theguardian.com/books/2010/jul/16/orlando-figes-fake-amazon-reviews) Historian Orlando Figes agrees to pay damages for fake reviews https://www.theguardian.com/books/2010/jul/16/orlando-figes-fake-amazon-reviews
 - [[17]](https://github.com/ethereum/wiki/wiki/Mining) Ethereum Mining https://github.com/ethereum/wiki/wiki/Mining
 - [[18]](https://cointelegraph.com/news/why-blockchain-needs-proof-of-authority-instead-of-proof-of-stake) Why Blockchain Needs ‘Proof of Authority’ Instead of ‘Proof of Stake’ https://cointelegraph.com/news/why-blockchain-needs-proof-of-authority-instead-of-proof-of-stake 
