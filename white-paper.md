@@ -18,7 +18,7 @@ The music streaming industry is a $16Bn market[[3]](http://www.ifpi.org/global-s
 <br>
 
 Most artists are fundamentally not happy with how the online digital content industry has evolved to leave them with a bad deal and with little control to do anything about it. 
-- <b>High Fees</B> — Intermediaries take up to 70% of sales.
+- <b>High Fees</B> — Intermediaries take between 50 - 70% of sales revenue.
 - <b>Lack of Transparency & Trust</b> — No access to raw sales figures. Intermediaries have been shown to incorrectly pay attribution and royalties fees.
 - <b>Limited Access to Funding</b> — New artists find it difficult to find investment.
 - <b>Fake Reviews & Impressions</b> — It is difficult to gauge who are genuine consumers of content versus bots.
@@ -28,13 +28,13 @@ The primary aims of the Lightstreams project are to:
 - Create a community controlled network where curators of digital content benefit from its success.
 - Design an open protocol that allows services to be built on top of the Lightstreams protocol stack to provide the best experience for network participants.
 
-Lightstreams will be made possible through the new generation of Web 3.0 technology[[3]](https://nextconf.eu/2016/09/next16-blockchain-will-build-web-3-0-says-jamie-burke/) built upon blockchain and smart contract technology[[4]](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/). Blockchain technology that includes the award-winning Permissioned Blocks protocol already developed by the Lightstreams team. [[5]](https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html) [[6]](https://github.com/autocontracts/permissioned-blocks) 
+Lightstreams will be made possible through the new generation of Web 3.0 technology[[6]](https://nextconf.eu/2016/09/next16-blockchain-will-build-web-3-0-says-jamie-burke/) built upon blockchain and smart contract technology[[7]](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/). Blockchain technology that includes the award-winning Permissioned Blocks protocol already developed by the Lightstreams team. [[8]](https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html) [[9]](https://github.com/autocontracts/permissioned-blocks) 
 
-The Lightstream network will be an Ethereum-compliant network and as such will have smart contract capabilities along with a digital token known as a Photon token. The primary utility value of the token will be through the facilitation of purchasing digital content.
+The Lightstream network will be an Ethereum-compliant network and as such will have smart contract capabilities along with a digital token known as a Photon (PHT) token. The primary utility value of the token will be through the facilitation of purchasing digital content.
 
 # Mission Statement
 
-Lightstreams’ mission is to give freedom back to artists so that they are ultimately in control of their content and not at the mercy of record labels, production companies, publishing houses and other intermediaries. A network owned and regulated by the community, where artists and fans can connect in a low cost, fair and open marketplace.
+Lightstreams’ mission is to give freedom back to artists so that they are ultimately in control of their content and not at the mercy of record labels, production companies, publishing houses and other intermediaries. Lightstreams is a network that is owned and regulated by the community, where artists and fans can connect in a low cost, fair and open marketplace.
 
 # Content Publishing Problems
 
@@ -324,10 +324,10 @@ Lightstreams has already finished its prototyping phase and plans to launch the 
 - [[3]](http://www.ifpi.org/global-statistics.php) IFPI - Global Statistics http://www.ifpi.org/global-statistics.php
 - [[4]](https://www.statista.com/download/outlook/whiterpaper/VideoOnDemand_Outlook_1016.pdf) Digital Media: Video-on-Demand, Statista https://www.statista.com/download/outlook/whiterpaper/VideoOnDemand_Outlook_1016.pdf
 - [[5]](https://www.statista.com/statistics/280249/global-e-book-revenue-by-region/) Global e-Book Revenue by Region, Statista https://www.statista.com/statistics/280249/global-e-book-revenue-by-region/
-- [[3]](https://nextconf.eu/2016/09/next16-blockchain-will-build-web-3-0-says-jamie-burke/) Blockchain will Build Wedb 3.0, Jamie Burke https://nextconf.eu/2016/09/next16-blockchain-will-build-web-3-0-says-jamie-burke/
-- [[4]](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/) "A Gentle Introduction to Smart Contracts" by Antony Lewis https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts
-- [[5]](https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html) Permissioned Blocks - Hackathon Win! Consensus 2017 https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html
-- [[6]](https://github.com/autocontracts/permissioned-blocks) Permissioned Blocks White Paper https://github.com/autocontracts/permissioned-blocks
+- [[6]](https://nextconf.eu/2016/09/next16-blockchain-will-build-web-3-0-says-jamie-burke/) Blockchain will Build Wedb 3.0, Jamie Burke https://nextconf.eu/2016/09/next16-blockchain-will-build-web-3-0-says-jamie-burke/
+- [[7]](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/) "A Gentle Introduction to Smart Contracts" by Antony Lewis https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts
+- [[8]](https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html) Permissioned Blocks - Hackathon Win! Consensus 2017 https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html
+- [[9]](https://github.com/autocontracts/permissioned-blocks) Permissioned Blocks White Paper https://github.com/autocontracts/permissioned-blocks
 - [[7]](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) Wikipedia: Peer-to-peer file sharing https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing
 - [[8]](https://ipfs.io/) IPFS - A peer-to-peer hypermedia protocol https://ipfs.io/
 - [[9]](https://kdp.amazon.com/en_US/help/topic/A29FL26OKE7R7B) Amazon Kindle Direct Publishing Fees https://kdp.amazon.com/en_US/help/topic/A29FL26OKE7R7B
