@@ -5,7 +5,7 @@ By <a href="https://mikesmo.github.io/">Michael Smolenski</a>
 
 # Introduction
 
-This white paper outlines plans by Autonomous Contracts [[1]](http://autocontracts.io/) to develop the [Lightstreams network](http://lightstreams.network)[[2]](http://lightstreams.io/), a peer-to-peer digital publishing network for content ranging from books, magazines, music, TV to movies.
+This white paper outlines plans by Autonomous Contracts [[1]](http://autocontracts.io/) to develop the Lightstreams Network [[2]](http://lightstreams.io/), a peer-to-peer digital publishing network for content ranging from books, magazines, music, TV to movies.
 
 The Lightstreams network is a blockchain network that enables artists to publish digital content directly to consumers, replacing existing online distribution channels. In the Lightstreams context, artists are musicians, songwriters, composers, authors, directors and any other digital content curator.
 
