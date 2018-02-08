@@ -63,7 +63,7 @@ The opaque data provenance creates a lack of trust in the accuracy of the data p
 Most online sites provide open review sections for posting comments about content. This, however, is open to abuse by fake reviewers that are not genuine content consumers who post comments either in favour or not in favour of the material for various motives. 
 For example, within the e-book industry there are third party services that can be hired to write positive endorsements about books to progress them further up best selling lists. In some cases, it has been known that authors themselves have written favourably about their books and negative of others to create an unfair advantage.
 
-- Orlando Figes, a respected history professor at Birkbeck, University of London was discovered to have posted fake reviews on Amazon lavishing high praise on his own book whilst posting critical reviews of others. [[16]](https://www.theguardian.com/books/2010/jul/16/orlando-figes-fake-amazon-reviews)
+- Orlando Figes, a respected history professor at Birkbeck, University of London was discovered to have posted fake reviews on Amazon lavishing high praise on his own book whilst posting critical reviews of others. [[17]](https://www.theguardian.com/books/2010/jul/16/orlando-figes-fake-amazon-reviews)
 
 In terms audio or video content, there are bots that are used to increase the number of viewing impressions in order appear more popular and thus more attractive to advertisers to pay for advertising slots.
 
@@ -131,7 +131,7 @@ In today’s online distribution model, intermediaries provide the channel for p
 </p>
 <br>
 
-Lightstream believes that by employing a peer-to-peer file sharing model[[7]](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing), the existing business model can be disrupted. Instead of relying on a centralised entity to provide the infrastructure for distribution, network participants themselves will provide the necessary infrastructure to scale.
+Lightstream believes that by employing a peer-to-peer file sharing model[[18]](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing), the existing business model can be disrupted. Instead of relying on a centralised entity to provide the infrastructure for distribution, network participants themselves will provide the necessary infrastructure to scale.
 
 Peer-to-peer file sharing technology, like BitTorrent, has been established for some time with many global users. However, these peer-to-peer file sharing technologies tend to be used for sharing content illegally by infringing on the copyright by duplicating the material without permission of the owners. These networks also rely on the goodwill of the participants to provide digital storage and transmission bandwidth of the content. No incentive system has been put in place along with formal agreements to permit the duplication of content.
 
@@ -149,7 +149,7 @@ If demand is insufficient to support the self-sustaining distribution of content
 
 ## Audio and Video Streaming 
 
-The Lightstreams network is capable of music and video streaming currently via an IPFS[[8]](https://ipfs.io/) protocol layer, a proven peer-to-peer file distribution technology for streaming content. 
+The Lightstreams network is capable of music and video streaming currently via an IPFS[[19]](https://ipfs.io/) protocol layer, a proven peer-to-peer file distribution technology for streaming content. 
 
 We are also doing research and development into employing Ethereum’s SWARM technology.
 Multiplexing services like LivePeer can plug into the Lightreams technology stack to provide Transcoding services so that content can be consumed in the target format.
@@ -170,7 +170,7 @@ The utility of the PHT token will be for:
 2. Rewarding users for giving quality reviews of content.
 3. Governance of the network, where voting power is based on sales revenue
 
-Unlike the Ethereum network, there will be no token rewards given miners, for solving a Proof of Work (PoW) consensus algorithm[[17]](https://github.com/ethereum/wiki/wiki/Mining). This is because Lightstream will instead use a Proof of Authority (PoA) consensus algorithm[[18]](https://cointelegraph.com/news/why-blockchain-needs-proof-of-authority-instead-of-proof-of-stake).
+Unlike the Ethereum network, there will be no token rewards given miners, for solving a Proof of Work (PoW) consensus algorithm[[20]](https://github.com/ethereum/wiki/wiki/Mining). This is because Lightstream will instead use a Proof of Authority (PoA) consensus algorithm[[21]](https://cointelegraph.com/news/why-blockchain-needs-proof-of-authority-instead-of-proof-of-stake).
 
 By employing a PoA blockchain configuration will result in a highly scalable network that has an order of magnitude in transaction throughput over using the Ethereum network, and will allow for the implementation of a unique governance system.
 
@@ -280,7 +280,7 @@ A listing fee will be charged for publishing the book on the marketplace. The fe
 
 ## Validators
 
-Since the Lightstreams is a peer to peer network, consensus is required between nodes to determine the valid state of the network. Standard Ethereum uses a Proof-of-Work(PoW) algorithm to achieve consensus. However, PoW does not scale well, with transaction throughputs of ~10 transactions per second. Lightstream will instead use a Proof-of-Authority (PoA) algorithm where a set of "validator" nodes that are explicitly allowed to create new blocks and secure the blockchain. Using a PoA algorithm like Tendermint[[19]](https://tendermint.com/) will allow for an order of magnitude increase in scalability ~10,000 transactions per second while also allowing for a governance model for chain maintenance and keep the block issuers accountable.
+Since the Lightstreams is a peer to peer network, consensus is required between nodes to determine the valid state of the network. Standard Ethereum uses a Proof-of-Work(PoW) algorithm to achieve consensus. However, PoW does not scale well, with transaction throughputs of ~10 transactions per second. Lightstream will instead use a Proof-of-Authority (PoA) algorithm where a set of "validator" nodes that are explicitly allowed to create new blocks and secure the blockchain. Using a PoA algorithm like Tendermint[[12]](https://tendermint.com/) will allow for an order of magnitude increase in scalability ~10,000 transactions per second while also allowing for a governance model for chain maintenance and keep the block issuers accountable.
 
 Validators do not charge a fee for validating transactions. Instead, validators are incentivised by having a stake in the successful operation of the network. Therefore, validators will be selected by those participants that maintain the highest sales volumes.
 
@@ -328,8 +328,6 @@ Lightstreams has already finished its prototyping phase and plans to launch the 
 - [[7]](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/) "A Gentle Introduction to Smart Contracts" by Antony Lewis https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts
 - [[8]](https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html) Permissioned Blocks - Hackathon Win! Consensus 2017 https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html
 - [[9]](https://github.com/autocontracts/permissioned-blocks) Permissioned Blocks White Paper https://github.com/autocontracts/permissioned-blocks
-- [[7]](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) Wikipedia: Peer-to-peer file sharing https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing
-- [[8]](https://ipfs.io/) IPFS - A peer-to-peer hypermedia protocol https://ipfs.io/
 - [[10]](https://kdp.amazon.com/en_US/help/topic/A29FL26OKE7R7B) Amazon Kindle Direct Publishing Fees https://kdp.amazon.com/en_US/help/topic/A29FL26OKE7R7B
 - [[11]](http://andrewhy.de/amazons-markup-of-digital-delivery-to-indie-authors-is-129000/) Amazon’s markup of digital delivery to indie authors is ~129,000% by Andrew Hyde http://andrewhy.de/amazons-markup-of-digital-delivery-to-indie-authors-is-129000/
 - [[12]](https://www.nytimes.com/2016/03/18/business/media/spotify-reaches-settlement-with-publishers-in-licensing-dispute.html) Spotify Reaches Settlement With Publishers in Licensing Dispute, New York Time March 17, 2016 https://www.nytimes.com/2016/03/18/business/media/spotify-reaches-settlement-with-publishers-in-licensing-dispute.html
@@ -337,10 +335,13 @@ Lightstreams has already finished its prototyping phase and plans to launch the 
 - [[14]](https://kdp.amazon.com/en_US/help/topic/AI3QMVN4FMTXJ) Royalties in Kindle Unlimited and Kindle Owners' Lending Library https://kdp.amazon.com/en_US/help/topic/AI3QMVN4FMTXJ
 - [[15]](https://teleread.org/2016/10/08/amazon-kdp-select-authors-are-losing-page-reads-apparently-due-to-software-glitches/) Amazon KDP Select authors are losing page reads, apparently due to software glitches by David VanDyke https://teleread.org/2016/10/08/amazon-kdp-select-authors-are-losing-page-reads-apparently-due-to-software-glitches/
 - [[16]](https://jeanettevaughan.wordpress.com/2012/09/28/do-amazon-and-createspace-rip-off-indie-publishers-with-failure-to-correctly-report-sales/) Do Amazon and Createspace rip off Indie publishers with failure to correctly report sales? https://jeanettevaughan.wordpress.com/2012/09/28/do-amazon-and-createspace-rip-off-indie-publishers-with-failure-to-correctly-report-sales/
-- [[16]](https://www.theguardian.com/books/2010/jul/16/orlando-figes-fake-amazon-reviews) Historian Orlando Figes agrees to pay damages for fake reviews https://www.theguardian.com/books/2010/jul/16/orlando-figes-fake-amazon-reviews
-- [[17]](https://github.com/ethereum/wiki/wiki/Mining) Ethereum Mining https://github.com/ethereum/wiki/wiki/Mining
-- [[18]](https://cointelegraph.com/news/why-blockchain-needs-proof-of-authority-instead-of-proof-of-stake) Why Blockchain Needs ‘Proof of Authority’ Instead of ‘Proof of Stake’ https://cointelegraph.com/news/why-blockchain-needs-proof-of-authority-instead-of-proof-of-stake 
-- [[19]](https://tendermint.com/) Tendermint - Byzantine fault-tolerant replicated state machines in any programming language https://tendermint.com/
+- [[17]](https://www.theguardian.com/books/2010/jul/16/orlando-figes-fake-amazon-reviews) Historian Orlando Figes agrees to pay damages for fake reviews https://www.theguardian.com/books/2010/jul/16/orlando-figes-fake-amazon-reviews
+- [[18]](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing) Wikipedia: Peer-to-peer file sharing https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing
+- [[19]](https://ipfs.io/) IPFS - A peer-to-peer hypermedia protocol https://ipfs.io/
+
+- [[20]](https://github.com/ethereum/wiki/wiki/Mining) Ethereum Mining https://github.com/ethereum/wiki/wiki/Mining
+- [[21]](https://cointelegraph.com/news/why-blockchain-needs-proof-of-authority-instead-of-proof-of-stake) Why Blockchain Needs ‘Proof of Authority’ Instead of ‘Proof of Stake’ https://cointelegraph.com/news/why-blockchain-needs-proof-of-authority-instead-of-proof-of-stake 
+- [[22]](https://tendermint.com/) Tendermint - Byzantine fault-tolerant replicated state machines in any programming language https://tendermint.com/
 
 
 
