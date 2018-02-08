@@ -321,9 +321,9 @@ Lightstreams has already finished its prototyping phase and plans to launch the 
 
 - [[1]](http://autocontracts.io/) Autonomous Contracts http://autocontracts.io/
 - [[2]](http://lightstreams.io/) The Lightstream Network http://lightstreams.io/
-- [[3]](http://www.ifpi.org/global-statistics.php) IFPI - Global Statistics
-- [[4]](https://www.statista.com/download/outlook/whiterpaper/VideoOnDemand_Outlook_1016.pdf) Digital Media: Video-on-Demand, Statista
-- [[5]](https://www.statista.com/statistics/280249/global-e-book-revenue-by-region/) Global e-Book Revenue by Region, Statista
+- [[3]](http://www.ifpi.org/global-statistics.php) IFPI - Global Statistics http://www.ifpi.org/global-statistics.php
+- [[4]](https://www.statista.com/download/outlook/whiterpaper/VideoOnDemand_Outlook_1016.pdf) Digital Media: Video-on-Demand, Statista https://www.statista.com/download/outlook/whiterpaper/VideoOnDemand_Outlook_1016.pdf
+- [[5]](https://www.statista.com/statistics/280249/global-e-book-revenue-by-region/) Global e-Book Revenue by Region, Statista https://www.statista.com/statistics/280249/global-e-book-revenue-by-region/
 - [[3]](https://nextconf.eu/2016/09/next16-blockchain-will-build-web-3-0-says-jamie-burke/) Blockchain will Build Wedb 3.0, Jamie Burke https://nextconf.eu/2016/09/next16-blockchain-will-build-web-3-0-says-jamie-burke/
 - [[4]](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/) "A Gentle Introduction to Smart Contracts" by Antony Lewis https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts
 - [[5]](https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html) Permissioned Blocks - Hackathon Win! Consensus 2017 https://mikesmo.github.io/blog/2017/06/09/Consensus-hackathon.html
