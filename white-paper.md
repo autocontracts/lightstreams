@@ -235,10 +235,8 @@ Consumers who pay the subscription fee gain unlimited access to content within t
 
 At the end of each month the total PHT tokens collected for the month per category will be distributed to the contract owners less the Lightstreams service fee. The tokens will be divided and distributed by the ratio of pages accessed per book. If a book has more than 1000 pages, then the number of pages for calculation purposes is capped to a 1000 pages.
 
-## Advertising Model
-TODO...
 
-# Blockchain Architecture
+# Architecture
 
 The Lightstreams blockchain will be an Ethereum compliant network operating as an independent chain with the following features:
 
@@ -252,16 +250,6 @@ The Lightstreams blockchain will be an Ethereum compliant network operating as a
 <br>
 <b>Lightstreams Architecture</b> - A high level architecture overview.
 </p>
-
-# Lightstreams Software Development
-
-It is planned that key Lightstreams’ software will be released and governed by an open source license agreement. Key functional improvements will be specified via community proposals that are also voted on by the community. 
-
-Development of features will be undertaken by both open source development and core developers of the Lightstream team. The Lightstream client will be initially developed for two target categories; desktop and mobile devices.
-
-Desktop clients will contain the full feature set of the Lightstreams client. It is envisioned the primary use of the desktop client will be for content producers to add and manage their digital content. However, consumers may also prefer to use this client to access content.
-
-The mobile version will be a light client version that will be optimised for tablet and mobile phone devices. Due to network bandwidth and processing constraints not all features will be available on this version.
 
 ## Discovery Service
 
@@ -285,6 +273,16 @@ Since the Lightstreams is a peer to peer network, consensus is required between 
 Validators do not charge a fee for validating transactions. Instead, validators are incentivised by having a stake in the successful operation of the network. Therefore, validators will be selected by those participants that maintain the highest sales volumes.
 
 To protect the network from malicious smart contracts being published, validators will only permit Lightstreams' contracts to be added to the blockchain. The Lightstreams' contracts will be multi-signature contract templates, where both the author and the Lightstreams Foundation need to sign the contract. The Lightstreams Foundation will only sign valid smart contracts.
+
+# Lightstreams Software Development
+
+It is planned that key Lightstreams’ software will be released and governed by an open source license agreement. Key functional improvements will be specified via community proposals that are also voted on by the community. 
+
+Development of features will be undertaken by both open source development and core developers of the Lightstream team. The Lightstream client will be initially developed for two target categories; desktop and mobile devices.
+
+Desktop clients will contain the full feature set of the Lightstreams client. It is envisioned the primary use of the desktop client will be for content producers to add and manage their digital content. However, consumers may also prefer to use this client to access content.
+
+The mobile version will be a light client version that will be optimised for tablet and mobile phone devices. Due to network bandwidth and processing constraints not all features will be available on this version.
 
 # Governance
 
