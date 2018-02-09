@@ -274,9 +274,9 @@ Validators do not charge a fee for validating transactions. Instead, validators 
 
 To protect the network from malicious smart contracts being published, validators will only permit Lightstreams' contracts to be added to the blockchain. The Lightstreams' contracts will be multi-signature contract templates, where both the author and the Lightstreams Foundation need to sign the contract. The Lightstreams Foundation will only sign valid smart contracts.
 
-# Lightstreams Software Development
+# Software Development
 
-It is planned that key Lightstreams’ software will be released and governed by an open source license agreement. Key functional improvements will be specified via community proposals that are also voted on by the community. 
+It is planned that certain Lightstreams’ software layers will be released and governed by an open source license agreement. Key functional improvements will be specified via community proposals that are also voted on by the community. 
 
 Development of features will be undertaken by both open source development and core developers of the Lightstream team. The Lightstream client will be initially developed for two target categories; desktop and mobile devices.
 
@@ -286,9 +286,9 @@ The mobile version will be a light client version that will be optimised for tab
 
 # Governance
 
-Authors with the highest number of sales above a certain threshold per year and per subject category will be invited to become network validators. 
+Artists with the highest number of sales above a certain threshold per year and per subject category will be invited to become network validators. 
 
-Note: Authors may outsource the operational aspects of being a validator whilst retaining control and oversight. 
+Note: Artists may outsource the operational aspects of being a validator whilst retaining control and oversight. 
 Network validators have the responsibility to:
 
 1. To inspect network transactions to ensure they are valid, and then broadcast these valid transactions in blocks to the rest of the network.
@@ -305,10 +305,10 @@ Lightstreams has already finished its prototyping phase and plans to launch the 
 |---------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Prototype                 | Completed | The prototype of using the Permissions Blocks protocol for content publishing has already been completed and demonstrated and won an award in May 2017 at the Consensus Hackathon 2017. In October 2017 the Test Network was launched with the first prototype of purchasing digital content. |
 | Network launch            | Q2 2018   | It is planned the network will launch in early 2018. A major fundraising event will occur prior to launch of the platform where the sale of PHT tokens will occur, and customers will be shortly soon after be able to purchase digital content sold on the network by content producers.     |
-| Desktop client MVP        | Q2 2018   | The Minimal Viable Product version of the Lightstreams Desktop Client will be available for download. This will have a minimum function set for selling and purchasing of digital content.                                                                                                    |
-| Desktop client v1         | Q3 2018   | Version 1 of the Lightstreams Desktop Client will be available for download, which will have a more comprehensive function set.                                                                                                                                                               |
-| Discovery Service         | Q3 2018   | The Lightstreams Discovery Service will be launched which will better assist users to search and browse for content.                                                                                                                                                                          |
-| Mobile client v1          | Q4 2018   | The Lightstream Mobile Client will be launched where customers can install an app on their tablet or mobile for reading content.                                                                                                                                                              |
+| Desktop client MVP        | Q3 2018   | The Minimal Viable Product version of the Lightstreams Desktop Client will be available for download. This will have a minimum function set for selling and purchasing of digital content.                                                                                                    |
+| Desktop client v1         | Q4 2018   | Version 1 of the Lightstreams Desktop Client will be available for download, which will have a more comprehensive function set.                                                                                                                                                               |
+| Discovery Service         | Q1 2019   | The Lightstreams Discovery Service will be launched which will better assist users to search and browse for content.                                                                                                                                                                          |
+| Mobile client v1          | Q1 2019   | The Lightstream Mobile Client will be launched where customers can install an app on their tablet or mobile for reading content.                                                                                                                                                              |
 # More resources
 - [Lighstreams website](http://lightstreams.network)
 - [Telegram group](https://t.me/joinchat/DZfAhw2IZSYcQchG3DPWaQ)
